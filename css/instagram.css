@@ -1,0 +1,85 @@
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/Lato/Lato-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/Lato/Lato-Bold.ttf);
+    font-weight: bold;
+}
+
+body {
+    background-color: #273546;
+    color: white;
+    font-family: Lato;
+    text-align: center;
+}
+
+#avatar img {
+    border-radius: 50%;
+    height: 96px;
+    width: 96px;
+    margin: 2em;
+}
+
+#title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.social-media-link {
+    text-decoration: none;
+}
+
+ion-icon {
+    color: white;
+    font-size: 24px;
+    border: 1px solid white;
+    padding: 8px;
+    margin: 12px;
+    border-radius: 50%;
+    transition: 0.1s;
+}
+
+ion-icon:hover {
+    transition: 0.1s;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 2em;
+    display: inline-block;
+    width: 50%;
+}
+
+.link:hover {
+    color: white;
+}
+
+.link:hover {
+    background-color: #59A5D8;
+    transition: 0.1s ease-in-out;
+}
+
+#footer {
+    margin-top: 2em;
+}
+
+@media (max-width: 767.98px) {
+    .link {
+        width: 80%;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .link {
+        width: 90%;
+    }
+}
