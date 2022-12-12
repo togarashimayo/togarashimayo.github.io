@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html class="h-100 hydrated">
+    {{- partial "head.html" . -}}
+    <body class="d-flex h-100">
+        <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        {{- partial "header.html" . -}}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+    </div>
+    </body>
+</html>

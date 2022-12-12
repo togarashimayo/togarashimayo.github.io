@@ -1,0 +1,50 @@
+panels:
+- title: An Otaku's Guide to Donghua
+  rating: 13+
+  short_description: A look at Chinese animation (donghua) that resembles anime, plus how Chinese animation overall impacted the Japanese anime industry.
+  category: anime
+  notes: 
+  - I previously ran this panel as "Those Chinese Cartoons" before Anime North Stay at Home Edition.
+  - This is the panel y'all probably know me the most for.
+  - I also discuss barriers to watching donghua, along with the CCP's role in the Chinese animation industry.
+  - Manga Planet covered this panel in both of their recaps for Anime North Online and Anime North Stay at Home.
+  conventions:
+  - Tsukino-Con 2020
+  - Anime North Online
+  - KuroCon V2
+  - Anime North Stay at Home (2021)
+  - Sakura-Con 2022
+  - Anime North 2022
+  - Otakon 2022
+- title: Congoing on a Budget
+  rating: general
+  short_description: Cons can be expensive to attend, but they don't have to be! Come learn new tips to attend cons for less.
+  category: convention meta
+  conventions:
+  - Anime North 2022
+  - Akimatsuri 2022
+  notes:
+  - I ran this panel as a roundtable format (along with Dan, Azurimi, and Andrew) at Anime North 2022.
+- title: DACH and Anime
+  rating: 13+
+  short_description: A look at anime set in (or heavily inspired by) Germany, Austria, and Switzerland aka "the DACH region", along with those three countries' influences on Japanese culture and society.
+  category: anime
+  conventions:
+  - Akimatsuri 2022
+  notes:
+  - DACH = Deutschland ("D", Germany), Austria ("A"), Confoederatio Helvatica ("CH", Switzerland)
+  - The panel also gives people a brief introduction to World Masterpiece Theatre, as three of the shows come from the series.
+- title: Mario The Brand Ambassador
+  rating: 13+
+  category: video games
+  short_description: From Kraft Dinner to LEGO, come take a look at some of the tie-in products that Nintendo characters hawked over the past ~35 years!
+  conventions:
+  - Anime North Online (30-minute version)
+  notes:
+  - Manga Planet covered this panel as part of their Anime North Online recap.
+  - I've put this panel on infinite hiatus, until I can find a way to turn it into a 60-minute panel while generalizing the content to "tie-in products for any video game in general". Sonic curry, anyone?
+
+other_panels:
+- title: Korean Manhwa (Anime North 2022, with Chris and Orion)
+- title: Fans in the Professional Workplace (Anime North 2022 with Sabrina, Nick, and Demetre)
+- title: An Introduction to Yokai (Akimatsuri 2019 and Tsukino-Con 2020, now in KuroRaiden's custody)

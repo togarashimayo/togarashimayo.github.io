@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/Lato/Lato-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url(../fonts/Lato/Lato-Bold.ttf);
+    font-weight: bold;
+}
+
+* {
+    font-family: Lato;
+}
+
+#navbar {
+    background-color: transparent!important;
+}
+
+a {
+    text-decoration: none!important;
+}
+
+.link-button {
+    padding: 12px;
+    border-radius: 100%;
+}
+
+.icons {
+    margin-bottom: 9px;
+}
+
+ion-icon {
+    color:white;
+    font-size: 20px;
+    padding: 6px;
+    border-radius: 50%;
+}
+
+ion-icon:hover {
+    opacity: 0.7;
+}
+
+quote {
+    font-style: italic;
+}

@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="container my-3">
+    <h1>Panels</h1>
+    <p>Here are all of the panels that I've ran at conventions, be it my own work or as an assistant through another panelist's work.</p>
+    <h2>Self-deployed panels</h2>
+    <p>All panels that I've ran under my name. Or with Anime North, the lead panelist ("moderator") for.</p>
+    {{ range $.Site.Data.panels.panels }}
+        <div class="convention">
+            <h3>{{.title}} ({{.rating}})</h3>
+            <i>{{.short_description}}</i>
+
+            {{with .notes}}
+                <br><br>
+                {{if gt (len .) 1}}
+
+                <p><b>Notes:</b></p>
+                <ul>
+                    {{ range . }}
+                    <li>{{.}}</li>
+                    {{ end }}
+                </ul>
+
+                {{ else if eq (len .) 1}}
+
+                <p><b>Note:</b> {{ index (.) 0 }}</p>
+
+                {{ end }}
+            {{end}}
+
+            <div class="convention-items">
+                {{ range .conventions }}
+                <li>{{.}}</li>
+                {{ end }}
+            </div>
+        </div>
+    {{ end }}
+
+    <h2>Other panels I've worked on</h2>
+    <ul>
+    {{ range $.Site.Data.panels.other_panels }}
+        <li>
+        {{ .title }}
+        </li>
+    {{ end }}
+    </ul>
+</div>
+
+{{ end }}

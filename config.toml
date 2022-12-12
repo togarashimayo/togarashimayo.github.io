@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Mich Chan &#129416'
+theme = 'togarashimayo'
+relativeURLs = true
+
+[menu]
+
+  [[menu.main]]
+  name = "Instagram"
+  weight = 100
+  identifier = "instagram"
+  url = "/instagram/"

@@ -1,0 +1,11 @@
+<footer class="footer mt-auto">
+    <div class="container py-3 px-0">
+        <p>made with &#128153 (...and <a href="http://github.com/togarashimayo/togarashimayo.github.io">go templates via hugo</a>) by mich chan &copy 2016 - {{ now.Format "2006" }}</p>
+        <p>firstname@togarashimayo.com</p>
+        <div class="icons">
+            {{ range $.Site.Data.social_media}}
+            <a href={{.url}}><ion-icon style="background-color:{{.colour}}" class = {{.title}} name="logo-{{.title}}"></ion-icon></a>
+            {{ end}}
+        </div>
+    </div>
+</footer>

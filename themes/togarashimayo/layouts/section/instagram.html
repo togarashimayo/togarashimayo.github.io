@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/instagram.css">
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    {{ $title := print .Site.Title }}
+    <title>{{ $title }}</title>
+</head>
+<body>
+    
+    <div id="avatar"><img src="/images/instagram_pic.jpeg"></div>
+    <div id="title">Mich Chan / Togarashi Mayo</div>
+    <p>oh nyo</p>
+    <div id="social-media">
+        {{ range $.Site.Data.social_media }}
+        <a class="social-media-link" href={{.url}}>
+            <ion-icon 
+                onMouseOver="this.style.backgroundColor='{{.colour}}'" 
+                onMouseOut="this.style.backgroundColor='#273546'" 
+                name="logo-{{.title}}">
+            </ion-icon>
+        </a>
+        {{ end }}
+    </div>
+    <div id="links">
+        {{ range $.Site.Data.aint_linktree }}
+            <a class="link" href={{ .url }}>{{ .title }}</a>
+        {{ end }}
+    </div>
+
+    <div id="footer">
+        Imagine paying $6/month for Linktree.
+    </div>
+    
+</body>
+</html>

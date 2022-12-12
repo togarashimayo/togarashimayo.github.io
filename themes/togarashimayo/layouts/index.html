@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html class="h-100 hydrated">
+    {{- partial "head.html" . -}}
+    <body class="d-flex h-100">
+        <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+            <div class="mb-auto">{{- partial "header.html" . -}}</div>
+            <div id="intro" class="container my-5 vertical-center">
+                <h1 class="display-4">
+                    Hello, I'm <a href="/about"><b>Mich Chan</b></a>. I create and run fandom panels such as <a href="#"><b><i>An Otaku's Guide to Donghua</i></b></a>
+                    that have been seen by hundreds of attendees <a href="/conventions"><b>in BC, WA, ON, and DC</b></a>. And I'm serious about creating entertaining work for everyone.
+                </h1>
+            </div>
+            {{- partial "footer.html" . -}}
+        </div>
+    </body>
+</html>
