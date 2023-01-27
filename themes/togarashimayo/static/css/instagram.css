@@ -29,6 +29,11 @@ body {
     font-weight: bold;
 }
 
+#social-media {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
 .social-media-link {
     text-decoration: none;
 }
