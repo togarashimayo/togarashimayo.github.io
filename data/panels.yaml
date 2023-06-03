@@ -4,7 +4,7 @@ panels:
   short_description: A look at Chinese animation (donghua) that resembles anime, plus how Chinese animation overall impacted the Japanese anime industry.
   category: anime
   notes: 
-  - I previously ran this panel as "Those Chinese Cartoons" before Anime North Stay at Home Edition.
+  - 'I previously ran this panel as "Those Chinese Cartoons" before Anime North: Stay at Home Edition.'
   - This is the panel y'all probably know me the most for.
   - I also discuss barriers to watching donghua, along with the CCP's role in the Chinese animation industry.
   - Manga Planet covered this panel in both of their recaps for Anime North Online and Anime North Stay at Home.
@@ -12,20 +12,13 @@ panels:
   - Tsukino-Con 2020
   - Anime North Online
   - KuroCon V2
-  - Anime North Stay at Home (2021)
+  - "Anime North: Stay at Home (2021)"
   - Sakura-Con 2022
   - Anime North 2022
   - Otakon 2022
   - Sakura-Con 2023
   - Anime Lockdown 2023
   - Anime North 2023
-- title: An Introduction to Manhwa
-  rating: 13+
-  short_description: An introductory panel about Korean comics (manhwa) that covers their history, their relationship with Japanese media, essential must-reads, and titles that the panelist personally recommends.
-  category: anime
-  conventions:
-  - Sakura-Con 2023 (ft. Dr. Emily Hall of Webtoon Genius)
-  - Anime North 2023 (as "World of Korean Manhwa" ft. Orian, Leo, and Rosa)
 - title: Anime in the Philippines
   rating: 13+
   short_description: How did an anime contribute to collapsing a Filipino dictatorship? Which titles are beloved in the Philippines yet are afterthoughts in the American anime fandom? Join us as we explore the interesting relationship between the Philippines, anime, and Japan.
@@ -34,6 +27,13 @@ panels:
   - Harumatsuri 2023
   - Sakura-Con 2023
   - Anime North 2023
+- title: An Introduction to Manhwa
+  rating: 13+
+  short_description: An introductory panel about Korean comics (manhwa) that covers their history, their relationship with Japanese media, essential must-reads, and titles that the panelist personally recommends.
+  category: anime
+  conventions:
+  - Sakura-Con 2023 (ft. Dr. Emily Hall of Webtoon Genius)
+  - Anime North 2023 (as "World of Korean Manhwa" ft. Orian, Leo, and Rosa)
 - title: Guess the Anime Character
   rating: general
   short_description: Do you know your Violet Evergarden from your Saber, or your Sailor Mars from your Kikyo? Come to play (for candy prizes) or just to watch this character recognition game!
