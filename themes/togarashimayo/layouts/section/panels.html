@@ -1,9 +1,12 @@
 {{ define "main" }}
+
 <div class="container my-3">
     <h1>Panels</h1>
     <p>Here are all of the panels that I've ran at conventions, be it my own work or as an assistant through another panelist's work.</p>
+    
     <h2>Self-deployed panels</h2>
     <p>All panels that I've ran under my name. Or with Anime North, the lead panelist ("moderator") for.</p>
+    
     {{ range $.Site.Data.panels.panels }}
         <div class="convention">
             <h3>{{.title}} ({{.rating}})</h3>
