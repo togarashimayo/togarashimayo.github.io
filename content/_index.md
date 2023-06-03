@@ -1,0 +1,1 @@
+Hello, I'm **[Mich Chan](/about)** (she/her & they/them). I create and run **[fandom panels such as *An Otaku's Guide to Donghua* and *Anime in the Philippines*](/panels)** that have been seen by hundreds of attendees in BC, WA, ON, and DC. And I'm serious about creating entertaining work for everyone.
