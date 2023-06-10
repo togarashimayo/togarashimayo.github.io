@@ -1,3 +1,10 @@
+---
+title: "Credits"
+date: 2019-03-26
+menu: "main"
+weight: 50
+---
+
 # Credits
 
 I plan and produce many of the things you see in the panel room, but I do need help sometimes! Here’s some of the people who I’ve worked with.
