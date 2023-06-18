@@ -30,4 +30,4 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels) and [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
 
-**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), and Jupdown
+**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), and Jupdown
