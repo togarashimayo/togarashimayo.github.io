@@ -1,9 +1,9 @@
 - title: facebook
   url: "http://facebook.com/togarashimayo"
   colour: "#1778F2"
-- title: twitter
-  url: "http://twitter.com/togarashimayo"
-  colour: "#1DA1F2"
+- title: mastodon
+  url: "https://mastodon.social/@togarashimayo"
+  colour: "#615FF9"
 - title: instagram
   url: "http://instagram.com/togarashimayonnaise"
   colour: "#E1306C"
@@ -13,6 +13,6 @@
 - title: reddit
   url: "http://reddit.com/u/togamayo_mich"
   colour: "#FF5700"
-- title: mastodon
-  url: "https://mastodon.social/@togarashimayo"
-  colour: "#615FF9"
+- title: twitter
+  url: "http://twitter.com/togarashimayo"
+  colour: "#1DA1F2"
