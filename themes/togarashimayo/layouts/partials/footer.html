@@ -4,7 +4,15 @@
         <p>firstname@togarashimayo.com</p>
         <div class="icons">
             {{ range $.Site.Data.social_media}}
-            <a href={{.url}}><ion-icon style="background-color:{{.colour}}" class = {{.title}} name="logo-{{.title}}"></ion-icon></a>
+            <a href={{.url}}>
+                <ion-icon 
+                    style="background-color:{{.colour}}"
+                    class = {{.icon}} 
+                    name="{{.icon}}" 
+                    aria-hidden="true"
+                    aria-label="{{.title}}">
+                </ion-icon>
+            </a>
             {{ end}}
         </div>
     </div>

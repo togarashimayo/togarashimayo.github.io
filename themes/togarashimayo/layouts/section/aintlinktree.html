@@ -22,7 +22,8 @@
             <ion-icon 
                 onMouseOver="this.style.backgroundColor='{{.colour}}'" 
                 onMouseOut="this.style.backgroundColor='#273546'" 
-                name="logo-{{.title}}">
+                name="{{.icon}}"
+                aria-label="{{.title}}">
             </ion-icon>
         </a>
         {{ end }}

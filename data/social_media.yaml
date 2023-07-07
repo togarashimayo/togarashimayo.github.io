@@ -1,18 +1,28 @@
-- title: facebook
+- title: "Facebook"
+  icon: logo-facebook
   url: "http://facebook.com/togarashimayo"
   colour: "#1778F2"
-- title: mastodon
+- title: "Bluesky"
+  icon: cloud
+  url: "https://bsky.app/profile/togarashimayo.com"
+  colour: "#3A83F6"
+- title: "Mastodon"
+  icon: logo-mastodon
   url: "https://mastodon.social/@togarashimayo"
   colour: "#615FF9"
-- title: instagram
+- title: "Instagram/Threads"
+  icon: logo-instagram
   url: "http://instagram.com/togarashimayonnaise"
   colour: "#E1306C"
-- title: github
+- title: "GitHub"
+  icon: logo-github
   url: "http://github.com/togarashimayo"
   colour: "#333333"
-- title: reddit
+- title: "Reddit"
+  icon: logo-reddit
   url: "http://reddit.com/u/togamayo_mich"
   colour: "#FF5700"
-- title: twitter
+  title: "Twitter (lol Elmo)"
+- icon: logo-twitter
   url: "http://twitter.com/togarashimayo"
   colour: "#1DA1F2"
