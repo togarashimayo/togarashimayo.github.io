@@ -9,5 +9,6 @@ weight: 50
 
 Bits and pieces that don't belong in my bio nor my panel catalog.
 * [Visions and goals](../more/visions-and-goals)
+* [Food recommendations](../more/food-suggestions)
 * [Other Mich Chans](../more/other-mich-chans)
 * [Credits](/credits)
