@@ -10,5 +10,6 @@ weight: 50
 Bits and pieces that don't belong in my bio nor my panel catalog.
 * [Visions and goals](../more/visions-and-goals)
 * [Food recommendations](../more/food-suggestions)
+* [Intro to Manhwa list - Otakon 2023](../more/intro-to-manhwa-list)
 * [Other Mich Chans](../more/other-mich-chans)
 * [Credits](/credits)
