@@ -5,12 +5,11 @@ panels:
   category: anime
   notes: 
   - 'I previously ran this panel as "Those Chinese Cartoons" before Anime North: Stay at Home Edition.'
-  - This is the panel y'all probably know me the most for.
   - I also discuss barriers to watching donghua, along with the CCP's role in the Chinese animation industry.
-  - Manga Planet covered this panel in both of their recaps for Anime North Online and Anime North Stay at Home.
+  - 'Manga Planet covered this panel in both of their Anime North Online and Anime North: Stay at Home recaps.'
   conventions:
   - Tsukino-Con 2020
-  - Anime North Online
+  - "Anime North Online (2020)"
   - KuroCon V2
   - "Anime North: Stay at Home (2021)"
   - Sakura-Con 2022
@@ -24,18 +23,22 @@ panels:
   rating: 13+
   short_description: How did an anime contribute to collapsing a Filipino dictatorship? Which titles are beloved in the Philippines yet are afterthoughts in the American anime fandom? Join us as we explore the interesting relationship between the Philippines, anime, and Japan.
   category: anime
+  notes:
+  - This is the panel y'all probably know me the most for.
+  - I also cover the context behind anime being aired in the country, historical events that have clear and direct implications for anime in the country, and misc Philippines x Japan topics.
+  - Ogiue Maniax mentioned the panel in his Otakon 2023 recap.
   conventions:
   - Harumatsuri 2023
   - Sakura-Con 2023
   - Anime North 2023
   - Otakon 2023
   - Tsukino Matsuri 2023
-- title: So You Want To Run a Panel?
+- title: Panelling for Dummies
   rating: general
   short_description: Love panels? Interested in running your own panels but don’t know where to start? If so Mich Chan of Togarashi Mayo (a former panels coordinator and current experienced amateur panelist) is here to help! Join her as she walks you through how to create your first panel, from ideation to post-panel reflection.
   category: convention meta
   conventions:
-  - Tsukino Matsuri 2023
+  - Tsukino Matsuri 2023 (as "So you want to run a panel?")
 - title: An Introduction to Manhwa
   rating: 13+
   short_description: An introductory panel about Korean comics (manhwa) that covers their history, their relationship with Japanese media, essential must-reads, and titles that the panelist personally recommends.
