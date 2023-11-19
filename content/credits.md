@@ -23,7 +23,9 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **World of Korean Manhwa / Intro to Manhwa:** Orian, Leon, Rose, [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
 
-**Fans in the Professional Workplace:** Nina H, Tyler M, Alison, Spike
+**Fans in the Professional Workplace:** Nina H, Tyler M, Alison, 
+
+**Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/)
 
 ## <3
 **Togarashi Mayo hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
