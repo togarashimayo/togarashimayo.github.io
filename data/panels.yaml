@@ -22,7 +22,7 @@ panels:
   - Otakon 2023
 - title: Anime in the Philippines
   rating: 13+
-  short_description: How did an anime contribute to collapsing a Filipino dictatorship? Which titles are beloved in the Philippines yet are afterthoughts in the American anime fandom? Join us as we explore the interesting relationship between the Philippines, anime, and Japan.
+  short_description: How did an anime contribute to collapsing a Filipino dictatorship? Which titles are beloved in the Philippines yet are afterthoughts in the American anime fandom? Curious about how anime is perceived outside of Japan and North America? Join us as we explore the interesting relationship between the Philippines, anime, and Japan.
   isActive: true
   category: anime
   notes:
@@ -59,6 +59,8 @@ panels:
   - Sakura-Con 2023 (ft. Dr. Emily Hall of Webtoon Genius)
   - Anime North 2023 (as "World of Korean Manhwa" ft. Orian, Leo, and Rosa)
   - Otakon 2023
+  notes:
+  - Dr. Emily Hall and Rosa will be taking over for the respective Sakura-Con and Anime North 2024 iterations.
 - title: Guess the Anime Character
   rating: general
   short_description: Do you know your Violet Evergarden from your Saber, or your Sailor Mars from your Kikyo? Come to play (for candy prizes) or just to watch this character recognition game!
@@ -84,17 +86,16 @@ panels:
   - Akimatsuri 2022
   notes:
   - I ran this panel as a roundtable format (along with Dan, Azurimi, and Andrew) at Anime North 2022.
-- title: DACH and Anime
+- title: Germany* and Anime
   rating: 13+
-  short_description: A look at anime set in (or heavily inspired by) Germany, Austria, and Switzerland aka "the DACH region", along with those three countries' influences on Japanese culture and society.
+  short_description: A look at anime set in or heavily inspired by Germany (...plus Austria and Switzerland, forming the "DACH region"), along with how the country influenced Japanese culture and society.
   category: anime
   isActive: false
   conventions:
   - Akimatsuri 2022
   - Sakura-Con 2023
   notes:
-  - DACH = Deutschland ("D", Germany), Austria ("A"), Confoederatio Helvatica ("CH", Switzerland)
-  - The panel also gives people a brief introduction to World Masterpiece Theatre, as three of the shows come from the series.
+  - I previously ran the panel as "DACH and Anime" until Sakura-Con 2023, before rethinking the concept. The DACH acronym is too abstract on a con schedule!
 - title: Mario The Brand Ambassador
   rating: 13+
   category: video games
