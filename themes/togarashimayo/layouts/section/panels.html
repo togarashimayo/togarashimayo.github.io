@@ -3,7 +3,7 @@
 <div class="container my-3">
     {{ .Content }}
 
-    <h2>Current catalog</h2>
+    <h2>Current lineup</h2>
     
     {{ range ( where $.Site.Data.panels.panels "isActive" true ) }}
         <div class="convention">
