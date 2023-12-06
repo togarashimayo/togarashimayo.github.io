@@ -13,19 +13,22 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Mockingjay* by Suzanne Collins
+* *Klara and the Sun* by Kazuo Ishiguro
 
 ### Non-Fictional
 * *The 48 Laws of Power* by Robert Greene
 * *The 4-Hour Workweek* by Tim Ferriss
 * *Ikigai* by Héctor García and Francesc Miralles
+* *Mao's America: A Survivor's Warning* by Xi Van Fleet
+* *Digital Minimalism* by Cal Newport
 
 ## Currently reading
 * *Battle Royale* by Koushun Takami
-* *Deep Work* by Cal Newport
 
 ## Already read
 
 ### 2023
+* *Deep Work* by Cal Newport
 * *The Subtle Art of Not Giving a F\*ck* by Mark Manson
 * *Pachinko* by Min Jin Lee
 * *The Hitchhiker's Guide to the Galaxy* by Douglas Adams
