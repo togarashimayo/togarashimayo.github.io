@@ -14,6 +14,8 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ### Fictional
 * *Mockingjay* by Suzanne Collins
 * *Klara and the Sun* by Kazuo Ishiguro
+* *Heidi* (original German version) by Johanna Spyri
+* *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
 ### Non-Fictional
 * *The 48 Laws of Power* by Robert Greene
@@ -23,6 +25,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Digital Minimalism* by Cal Newport
 
 ## Currently reading
+* *Struwwelpeter* (original German version) by Heinrich Hoffmann
 * *Battle Royale* by Koushun Takami
 
 ## Already read
