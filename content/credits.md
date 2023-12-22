@@ -23,13 +23,15 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **World of Korean Manhwa / Intro to Manhwa:** Orian, Leon, Rose, [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
 
-**Fans in the Professional Workplace:** Nina H, Tyler M, Alison, 
+**Fans in the Professional Workplace:** KuroRaiden, Nina H, Tyler M, Alison and Spike M
 
 **Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/)
 
 ## <3
 **Togarashi Mayo hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
+**Accessibility consulting:** [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/)
+
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels) and [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
 
-**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), and Jupdown
+**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), Cordwainershark, and Jupdown
