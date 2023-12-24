@@ -7,8 +7,8 @@
     
     {{ range ( where $.Site.Data.panels.panels "isActive" true ) }}
         <div class="convention">
-            <h3>{{.title}} ({{.rating}})</h3>
-            <i>{{.short_description}}</i>
+            <h3>{{ .title }} ({{ .rating }})</h3>
+            <i>{{ .short_description }}</i>
 
             {{with .notes}}
                 <br><br>
@@ -17,7 +17,7 @@
                 <p><b>Notes:</b></p>
                 <ul>
                     {{ range . }}
-                    <li>{{.}}</li>
+                    <li>{{ . }}</li>
                     {{ end }}
                 </ul>
 
@@ -26,11 +26,11 @@
                 <p><b>Note:</b> {{ index (.) 0 }}</p>
 
                 {{ end }}
-            {{end}}
+            {{ end }}
 
             <div class="convention-items">
                 {{ range .conventions }}
-                <li>{{.}}</li>
+                <li>{{ . }}</li>
                 {{ end }}
             </div>
         </div>
@@ -43,14 +43,14 @@
             <h3>{{.title}} ({{.rating}})</h3>
             <i>{{.short_description}}</i>
 
-            {{with .notes}}
+            {{ with .notes }}
                 <br><br>
                 {{if gt (len .) 1}}
 
                 <p><b>Notes:</b></p>
                 <ul>
                     {{ range . }}
-                    <li>{{.}}</li>
+                    <li>{{ . }}</li>
                     {{ end }}
                 </ul>
 
@@ -59,11 +59,11 @@
                 <p><b>Note:</b> {{ index (.) 0 }}</p>
 
                 {{ end }}
-            {{end}}
+            {{ end }}
 
             <div class="convention-items">
                 {{ range .conventions }}
-                <li>{{.}}</li>
+                <li>{{ . }}</li>
                 {{ end }}
             </div>
         </div>
