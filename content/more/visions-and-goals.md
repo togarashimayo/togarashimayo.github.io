@@ -11,6 +11,36 @@ My former workplace has a self-improvement program called "Visions and goals". W
 
 I liked it enough that I also applied the program's principles to my convention life, although my way of staying accountable is by publishing my visions (and goals) on my public-facing sites and profiles. 
 
+## 2023 - 2024
+
+### Reduce the backlog (Jan-Aug)
+
+* Complete and run two backlogged panels from 2020 or older
+* Complete and run two backlogged panels from 2021-2022
+* Complete and run a backlogged panel from 2023
+* Konmari my backlog every month
+
+### Toga Mayo ops (Jan-Aug)
+
+* Design and order my physical business cards
+* Commission a new PFP of my IRL self
+* Convert _Congoing on a Budget_ into a guide
+* Convert _Panelling for Dummies_ into a guide
+
+### Upskill within and beyond the con circuit (Jan-Dec)
+
+* Obtain my AWS Certified Developer (Associate) credential
+* Take a Udemy or LinkedIn Learning course on slide design
+* Take a Udemy course on improv or presentation skills
+* Complete Tim Buchalka's Java 17 Masterclass Udemy course
+
+### Actually hit A2 German (Jan-Jun)
+
+* Finish the DW Nico's Weg/Way A2 course
+* Finish Duolingo's A2 section
+* Practice German for at least 15 minutes per day
+* Complete 1 German 32-page kid's book per week
+
 ## 2022 - 2023
 
 ### I am more than just "that donghua panelist" at the cons that I run panels for.
