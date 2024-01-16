@@ -7,9 +7,7 @@ weight: 50
 
 # Recommended food places
 
-AKA my "little navy book" - places that I personally recommend people go to. 
-
-Inspired by Hawksworth's The Little Black Book...despite me being a food service industry member for five years (both as a cook and a software dev) instead of a passionate chef.
+AKA my "little navy book" - my favourite places to go to, be it locally or abroad (and especially during cons for the latter)
 
 ## British Columbia
 
