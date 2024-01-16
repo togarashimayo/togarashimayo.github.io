@@ -15,7 +15,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Mockingjay* by Suzanne Collins
 * *Klara and the Sun* by Kazuo Ishiguro
 * *Heidi* (original German version) by Johanna Spyri
-* *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
 ### Non-Fictional
 * *The 48 Laws of Power* by Robert Greene
@@ -26,11 +25,16 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ## Currently reading
 * *Struwwelpeter* (original German version) by Heinrich Hoffmann
+* *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 * *Battle Royale* by Koushun Takami
 
 ## Already read
 
+### 2024
+* *Der kleine Klo-König* (German; "The Toddler Loo King") by Sandra Grimm
+
 ### 2023
+* *Mein Haus ist zu eng und zu klein* (*A Squash and a Squeeze*'s German translation) by Julia Donaldson 
 * *Deep Work* by Cal Newport
 * *The Subtle Art of Not Giving a F\*ck* by Mark Manson
 * *Pachinko* by Min Jin Lee
