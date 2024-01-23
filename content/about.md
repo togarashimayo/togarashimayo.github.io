@@ -40,8 +40,10 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 
 * I studied software development and currently work as a (junior) full-stack software developer, with goals of becoming an intermediate back-end developer. Having this background is a big help in designing, developing, and maintaining this website, as I have complete control over the site's looks and functionality without paying extra to (say) Wordpress. You can check this site's code [here](https://github.com/togarashimayo/togarashimayo.github.io). 
 * I love food, be it cooking, baking, or trying out new places (...and being a regular at a couple places I enjoy). Check out [my favourite food spots here](/more/food-suggestions)!
-* I'm currently learning German thanks to my (now-buddy) [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social) making [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM) a character in his New Year's Eve 2021 [Anime Hell](https://www.facebook.com/animehelltheevent) online clip show. If I'm going to let Dave make that guy live rent-free in my head, I might as well pick up the language and understand the corresponding culture. (I mention the guy to Germans while explaining why I'm learning the language. Their faces are priceless.)
-* I don't drink. My favourite drinks are coffee, tea, and the occasional soda (especially Bundaberg).
+* I'm currently learning German thanks to (my now-buddy) [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social) making [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM) a character in his New Year's Eve 2021 [Anime Hell](https://www.facebook.com/animehelltheevent) online clip show. If I'm going to let Dave make that guy live rent-free in my head, I might as well pick up the language and understand the corresponding culture. (I mention the guy to Germans while explaining why I'm learning the language. Their faces are priceless.)
+* I don't drink alcohol, although:
+    * I don't mind having it in my food (such as sake in teriyaki salmon or red wine in some beef bourguignon).
+    * I drink copious amounts of tea, with the occasional craft soda.
 * I can speed read, and it's why I prefer reading manga compared to watching anime.
 
 ### Misc
