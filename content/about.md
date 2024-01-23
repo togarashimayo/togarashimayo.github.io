@@ -6,15 +6,17 @@ weight: 50
 ---
 # About
 
-## Within the con halls...
+## Within the con circuit
 
-My first experience working with panels was while gofering for the big anime con in my city, where I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined their staff in Spring 2018 and became panels coordinator in Fall 2018, although for another reason beyond panels.
+My first experience working with panels was while gofering for the big anime con in my city. I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018, although for another reason beyond panels.
 
-After the Summer 2019 con, it was time to leave the staff and make my next move: run my own panels!
+After the Summer 2019 con, it was time to leave the year-round team and make my next move: run my own panels!
 
-Because of my past background, I can see panels from a staffer's perspective. I understand how conventions pick panels including how they see specific types of panels, how panel moderators evaluate my performance, and how to make the most out of my panelist coordinator.
+Because of my past background, I can see panels from a staffer's perspective. I understand how conventions pick panels including how they see specific types of panels, how panel moderators evaluate my performance and factor it in during future intakes, and how to make the most out of my panel coordinator. Knowing those concepts came in handy with pitching and delivery, as it helps me show value in my work (be it to the attendees or to my coordinator).
 
-I also understand that informational panels shouldn't resemble a college lecture, let alone regurgitating Wikipedia. I aim to be entertaining and engaging as possible using video clips, trivia, jokes, and personal anecdotes. That way, they're enjoyable yet educational for those new to the subject matter, while the veterans gain a new perspective on concepts they're familiar with.
+While I don't know _everything_ about anime fan wants, I do also understand a want for edutaining panels that double as entertainment. I attempt to deliver on that want by using video clips, trivia, jokes, and personal anecdotes to engage the audience and ensuring that:
+1. The panel is enjoyable yet educational for those new to the subject matter.
+2. The veterans gain a new perspective on concepts they're familiar with.
 
 *"[[Otaku's Guide to] Donghua. Little did the presenter know, I was doing market research!!](https://twitter.com/MichaelToole/status/1554256205903790080)"* - Mike Toole when prompted about some of the best Otakon 2022 fan panels he saw.
 
@@ -27,36 +29,23 @@ I also understand that informational panels shouldn't resemble a college lecture
 ### Tools of the trade:
 
 * Presentation software - Microsoft PowerPoint
-* Video presentation software - 4K Video Downloader, OBS
-* Graphic design - Figma (title cards) and Waifu2x
+* Video presentation software - 4K Video Downloader, OBS, and ClipChamp
+* Subtitles - Aegisub and Handbrake
+* Graphic design - Figma (title cards and closing bumpers) and Waifu2x
 * Research + Ideation - Notion (previously used OneNote)
 * Panel-running device - Microsoft Surface Pro 8 (256 GB)
+* Website updates - GitHub and Visual Studio Code (no extensions at this time)
 
-## ...and beyond
+## ...and out of it
 
-### Computers
-* I work as a (junior) full-stack software developer, with goals of both becoming an intermediate developer and specializing in back-end.
-* I designed and developed this website. It uses Figma for website blueprints, Hugo (including Go templating) for generating web pages, your good ol' CSS and Bootstrap for styling, Ionicons for the social media icons, and GitHub Actions to automatically deploy changes after submitting them to the codebase.
-* I'm also interested in the local postsecondary student hackathon scene, where I mentor at such events.
-   
-### Food
-Nothing's more like trying a new recipe or checking out a place to grab food or snacks. I didn't realize how much till my tenure at the big anime con I used to staff at; we sure like to eat around here!
-
-[Check out my list of favourite spots!](/more/food-suggestions)
-
-### Language Learning
-I like to learn languages. Right now, I'm actively learning:
-
-* :pretzel: German (CEFR A2.1; schlager music and especially [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM))
-* :croissant: French (CEFR A2.1; learned it in high school so might as well “use it or lose it”)
-* :poultry_leg: Tagalog (CEFR A0; I have family on my mom's side who speaks the language)
-
-I'm passively learning:
-* :sushi: Japanese (pre-JLPT N5; because I enjoy the culture)
-* :dumpling: Mandarin (HSK1; so I can watch donghua without subtitles & communicate with older Chinese people)
+* I studied software development and currently work as a (junior) full-stack software developer, with goals of becoming an intermediate back-end developer. Having this background is a big help in designing, developing, and maintaining this website, as I have complete control over the site's looks and functionality without paying extra to (say) Wordpress. You can check this site's code [here](https://github.com/togarashimayo/togarashimayo.github.io). 
+* I love food, be it cooking, baking, or trying out new places (...and being a regular at a couple places I enjoy). Check out [my favourite food spots here](/more/food-suggestions)!
+* I'm currently learning German thanks to my (now-buddy) [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social) making [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM) a character in his New Year's Eve 2021 [Anime Hell](https://www.facebook.com/animehelltheevent) online clip show. If I'm going to let Dave make that guy live rent-free in my head, I might as well pick up the language and understand the corresponding culture. (I mention the guy to Germans while explaining why I'm learning the language. Their faces are priceless.)
+* I don't drink. My favourite drinks are coffee, tea, and the occasional soda (especially Bundaberg).
+* I can speed read, and it's why I prefer reading manga compared to watching anime.
 
 ### Misc
+* Current residence: Metro Vancouver, British Columbia
 * Favourite characters: Gawr Gura, Anya Forger, Kotori Minami
 * Favourite tea: Murchie's Assam Tippy (thanks Plantastic Cosplay!), sencha
 * Currently watching: [Saving 80,000 Gold in Another World for My Retirement](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu), [Golden Kamuy](https://myanimelist.net/anime/36028/Golden_Kamuy)
-* Favourite cuisines: Japanese and Italian
