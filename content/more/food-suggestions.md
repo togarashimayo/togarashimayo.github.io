@@ -22,11 +22,11 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * I like how Bev can/will easily build a rapport with her customers, where I've had the chance to know about her and Greg's adventures beyond (and before starting) the cafe.
     * If any of you received shortbread from me during out-of-BC cons (starting with Otakon 2023, where I dropped one to the con's programming director), they come from here. Aiyaohno may not be prestigious, but the shortbread is durable while highlighting Japanese culture in Vancouver.   
 * The Tannenbaum Restaurant ("Tannenbaum"; vielen Dank [Keichoro](https://www.instagram.com/p/Cx9gKG0Lt9m/?img_index=1)!) - Homestyle German fare with the most extreme customer service I’ve seen in my life going to restaurants.
-    * This is the best clue-in that I've received. I've been _dying_ to check out this place since Keichoro posted his birthday meal on Instagram, and I'm glad that the owner made it worth the wait...AUF DEUTSCH!
+    * This is the best clue-in that I've received. I've been _dying_ to check out this place since Keichoro posted his birthday meal on Instagram, and I'm glad that Mira (the owner) made it worth the wait...AUF DEUTSCH!
     * I've enjoyed the Jägerpfanne, the Wiener Schnitzel, the cheesecake, and the seasonal turkey meal.
 * Petite Bao - An Asian twist on your usual hamburgers (bao burger buns). Love their char siu bao burgers.
 * AKD Kitchen (thank you [Jesse](https://linktr.ee/jbetteridge)!) - Local ramen chain whose miso "ajitama" ramen hits the spot. 
-    * This place was my original post-haircut lunch spot (as my salon is also in DT New West) before Tannenbaum OHKO'd it out of that spot, but wouldn't mind returning back to meet up with someone. 
+    * This place was my original post-haircut lunch spot (as my salon is also in DT New West) before Tannenbaum/Mira OHKO'd it out of that spot, but wouldn't mind returning back to meet up with someone. 
 * Mello - Compared to Lee's, I like the texture (soft brioche!) and flavours more. They're also satisfying to have during a train ride to Seattle for Sakura-Con.
     * My favourite flavours are cereal milk and strawberry cream.
 
