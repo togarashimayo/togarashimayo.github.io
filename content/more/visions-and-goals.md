@@ -39,7 +39,7 @@ I liked it enough that I also applied the program's principles to my convention 
 * Finish the DW Nico's Weg (Way) A1 & A2 courses
 * Finish Duolingo's A2 section
 * Practice German for at least 15 minutes per day
-* Complete 1 German 32-page kid's book per week
+* Read at least four German manhwa or webtoon chapters per week
 
 ## 2022 - 2023
 
