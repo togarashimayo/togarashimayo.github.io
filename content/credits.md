@@ -25,7 +25,7 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Fans in the Professional Workplace:** KuroRaiden, Nina H, Tyler M, Alison and Spike M
 
-**Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/)
+**Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
 ## <3
 **Togarashi Mayo hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
