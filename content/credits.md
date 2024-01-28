@@ -25,7 +25,7 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Fans in the Professional Workplace:** KuroRaiden, Nina H, Tyler M, Alison and Spike M
 
-**Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/)
+**Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
 ## <3
 **Togarashi Mayo hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
@@ -34,4 +34,4 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels) and [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
 
-**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), Cordwainershark, and Jupdown
+**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social), Cordwainershark, and Jupdown
