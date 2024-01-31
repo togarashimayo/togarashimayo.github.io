@@ -9,14 +9,8 @@ weight: 50
 
 I plan and produce many of the things you see in the panel room, but I do need help sometimes! Here’s some of the people who I’ve worked with.
 
-## General (_The Prep Team_)
-**Secondary:** [KuroRaiden](https://twitter.com/KuroRaiden/)
-
-**Tertiary:** Evil_Edie
-
-**Retired:** [Thezeus18](https://twitter.com/imcyaal), [Plantastic Cosplay](https://plantastic.picobin.com/)
-
 ## Copanelists
+
 **Donghua:** [KuroRaiden](https://twitter.com/KuroRaiden/)
 
 **Congoing on a Budget:** Kaosu, Dan, and Azurimi
@@ -27,10 +21,17 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
-## <3
+## Toga Mayo ops
+
 **Togarashi Mayo hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
+**Business cards:** [Jukebox Print](https://www.jukeboxprint.com/) (thank you Anime Evolution for the clue-in!)
+
 **Accessibility consulting:** [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/)
+
+**Now-alumni prep team members:** [KuroRaiden](https://twitter.com/KuroRaiden/), [Plantastic Cosplay](https://plantastic.picobin.com/), Evil_Edie, [Thezeus18](https://twitter.com/imcyaal)
+
+## <3
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels) and [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
 
