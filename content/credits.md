@@ -7,7 +7,7 @@ weight: 50
 
 # Credits
 
-I plan and produce many of the things you see in the panel room, but I do need help sometimes! Here’s some of the people who I’ve worked with.
+I plan and produce many of the things you see in the panel room, but I do need help sometimes! Here are some of the people who I’ve worked with.
 
 ## Copanelists
 
@@ -21,18 +21,20 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
-## Toga Mayo ops
+## Operations
 
-**Togarashi Mayo hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
+**Training and mentorship:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca) and [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content)
+
+**Uniform hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
 **Business cards:** [Jukebox Print](https://www.jukeboxprint.com/) (thank you Anime Evolution for the clue-in!)
 
 **Accessibility consulting:** [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/)
 
-**Now-alumni prep team members:** [KuroRaiden](https://twitter.com/KuroRaiden/), [Plantastic Cosplay](https://plantastic.picobin.com/), Evil_Edie, [Thezeus18](https://twitter.com/imcyaal)
-
 ## <3
 
-**Organizations:** [Anime North Panels](https://twitter.com/an_panels) and [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
+**Now-alumni prep team members:** [KuroRaiden](https://twitter.com/KuroRaiden/), [Plantastic Cosplay](https://plantastic.picobin.com/), Evil_Edie, [Thezeus18](https://twitter.com/imcyaal)
 
-**Individuals:** [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), [Jarvis Gray](http://twitter.com/Road_Buster84) (CW: NSFW content), [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social), Cordwainershark, and Jupdown
+**Organizations:** [Anime North Panels](https://twitter.com/an_panels), Tsukino-Con Programming, [Vancouver Anime Convention Society](https://animeevolution.com/), and [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
+
+**Individuals:**  [Jay Agonoy](http://jayagonoy.xyz), [Sam Kalensky](https://samkalensky.com), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social), [Keichoro](https://www.instagram.com/keichoro03), Cordwainershark, and Jupdown
