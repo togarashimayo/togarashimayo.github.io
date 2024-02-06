@@ -8,13 +8,13 @@ weight: 50
 
 ## Within the con circuit
 
-My first experience working with panels was while gofering for the big anime con in my city. I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018, although for another reason beyond panels.
+My first experience working with panels was in 2016 while gofering for the big anime con in my city. I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018.
 
 After the Summer 2019 con, it was time to leave the year-round team and make my next move: run my own panels!
 
-Because of my past background, I can see panels from a staffer's perspective. I understand how conventions pick panels including how they see specific types of panels, how panel moderators evaluate my performance and factor it in during future intakes, and how to make the most out of (and not stressing) my panel coordinator. Knowing those concepts came in handy with pitching and delivery, as it helps me show value in my work (be it to the attendees or to my coordinator).
+Because of my past background, I can see panels from a staffer's perspective. I understand how conventions pick panels including how they see specific types of panels, how panel moderators evaluate my performance and factor it in during future intakes, and how to make the most out of (while not stressing) my panel coordinator. Knowing those concepts help with pitching and delivery, as it helps me show value in my work (be it to the attendees or to my coordinator).
 
-While I don't know _everything_ about anime fan wants, I do also understand a want for edutaining panels that double as entertainment. I attempt to deliver on that want by using video clips, trivia, jokes, and personal anecdotes to engage the audience and ensuring that:
+While I don't know _everything_ about anime fan wants, I do also understand a want for edutaining panels. I attempt to deliver on that want by using video clips, trivia, jokes, and personal anecdotes to engage the audience and ensuring that:
 1. The panel is enjoyable yet educational for those new to the subject matter.
 2. The veterans gain a new perspective on concepts they're familiar with.
 
@@ -40,7 +40,8 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 
 * I studied software development and currently work as a (junior) full-stack software developer, with goals of becoming an intermediate back-end developer. Having this background is a big help in designing, developing, and maintaining this website, as I have complete control over the site's looks and functionality without paying extra to (say) Wordpress. You can check this site's code [here](https://github.com/togarashimayo/togarashimayo.github.io). 
 * I love food, be it cooking, baking, or trying out new places (...and being a regular at a couple places I enjoy). Check out [my favourite food spots here](/more/food-suggestions)!
-* I'm currently learning German thanks to (my now-buddy) [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social) making [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM) a character in his New Year's Eve 2021 [Anime Hell](https://www.facebook.com/animehelltheevent) online clip show. If I'm going to let Dave make that guy live rent-free in my head, I might as well pick up the language and understand the corresponding culture. (I mention the guy to Germans while explaining why I'm learning the language. Their faces are priceless.)
+* My native language is English, so you'll hear me speak with a Western Canadian accent. I'm also currently learning German thanks to (my now-buddy) [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social) making [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM) a character in his New Year's Eve 2021 [Anime Hell](https://www.facebook.com/animehelltheevent) online clip show. If I'm going to let Dave make that guy live rent-free in my head, I might as well pick up the language and understand the corresponding culture. (I mention the guy to Germans while explaining why I'm learning the language. Their faces are priceless.)
+    * I'm also afraid to say that I am a fast talker in some situations (...and in both English and German). Still working on pacing my speed, however!
 * I don't drink alcohol, although:
     * I don't mind having it in my food (such as sake in teriyaki salmon or red wine in some beef bourguignon).
     * I drink copious amounts of tea, with the occasional craft soda.
