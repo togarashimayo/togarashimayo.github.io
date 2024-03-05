@@ -17,9 +17,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 
 ### Non-Fictional
-* *The 48 Laws of Power* by Robert Greene
 * *The 4-Hour Workweek* by Tim Ferriss
-* *Ikigai* by Héctor García and Francesc Miralles
 * *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Digital Minimalism* by Cal Newport
 
@@ -31,6 +29,8 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Already read
 
 ### 2024
+* *The 48 Laws of Power* by Robert Greene
+* *Ikigai* by Héctor García and Francesc Miralles
 * *Der kleine Klo-König* (German; "The Toddler Loo King") by Sandra Grimm
 
 ### 2023
