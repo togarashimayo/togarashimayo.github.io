@@ -18,17 +18,17 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Non-Fictional
 * *The 4-Hour Workweek* by Tim Ferriss
-* *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Digital Minimalism* by Cal Newport
 
 ## Currently reading
-* *Struwwelpeter* (original German version) by Heinrich Hoffmann
+* *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
-* *Battle Royale* by Koushun Takami
 
 ## Already read
 
 ### 2024
+* *Struwwelpeter* (original German version) by Heinrich Hoffmann
+* *Battle Royale* by Koushun Takami
 * *The 48 Laws of Power* by Robert Greene
 * *Ikigai* by Héctor García and Francesc Miralles
 * *Der kleine Klo-König* (German; "The Toddler Loo King") by Sandra Grimm
