@@ -23,6 +23,7 @@ panels:
   - Otakon 2023
   - "Fan Expo Vancouver 2024 (as \"A Newbie's Guide to Donghua: Chinese Animation\")"
   - Tsukino-Con 2024
+  - Sakura-Con 2024 (upcoming)
   - Anime North 2024 (upcoming)
 - title: Anime in the Philippines
   rating: 13+
@@ -41,12 +42,13 @@ panels:
   - Tsukino Matsuri 2023
   - Fan Expo Vancouver 2024
   - Tsukino-Con 2024
+  - Sakura-Con 2024 (upcoming)
   - Anime North 2024 (upcoming)
 - title: Panelling for Dummies
   rating: general
   short_description: Love panels? Interested in running your own panels but don’t know where to start? If so Mich Chan of Togarashi Mayo (a former panels coordinator and current experienced amateur panelist) is here to help! Join her as she walks you through how to create your first panel, from ideation to post-panel reflection.
   category: convention meta
-  isActive: true
+  isActive: false
   conventions:
   - Tsukino Matsuri 2023 (as "So you want to run a panel?")
   - Akimatsuri 2023 (ft. Plantastic Cosplay)
@@ -59,7 +61,14 @@ panels:
   isActive: true
   conventions:
   - Akimatsuri 2023
-  - Tsukino-Con 2024 (as "Comedic Japanese Commercials"; upcoming)
+  - Tsukino-Con 2024 (as "Comedic Japanese Commercials")
+- title: "Let's Compare: Hunger Games vs. Battle Royale"
+  rating: 16+/SC-MA
+  short_description: Dystopian settings! Governments forcing kids to kill each other! Melodrama??? If you think that the Hunger Games ripped off Battle Royale for any of those reasons, think again. We’ll look at the similarities and differences between those two worlds, including new information from the Ballad of Songbirds and Snakes (aka the Hunger Games prequel).
+  category: japanese
+  isActive: true
+  conventions:
+  - 'Sakura-Con 2024 (as "The Hunger Games vs. Battle Royale: A Comparision")'
 - title: An Introduction to Manhwa
   rating: 13+
   short_description: An introductory panel about Korean comics (manhwa) that covers their history, their relationship with Japanese media, essential must-reads, and titles that the panelist personally recommends.
@@ -120,6 +129,8 @@ panels:
 
 other_panels:
 - title: World of Korean Manhwa (Anime North 2024, with Orian, Leo, and Rosa; upcoming)
+- title: Explaining Anime to Your Mom (Anime North 2024)
+- title: Intro to Manhwa (and webtoons!) (Sakura-Con 2024 with Dr. Emily Hall)
 - title: Amazing Anime Deaths (18+; Tsukino-Con 2024; facilitating for Jesse Betteridge)
 - title: Canadian Anime Heritage Minutes (Tsukino-Con 2024; facilitating for Jesse Betteridge)
 - title: Legend of Zelda Megapanel (Anime North 2023)
