@@ -21,12 +21,12 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Digital Minimalism* by Cal Newport
 
 ## Currently reading
-* *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
 ## Already read
 
 ### 2024
+* *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Struwwelpeter* (original German version) by Heinrich Hoffmann
 * *Battle Royale* by Koushun Takami
 * *The 48 Laws of Power* by Robert Greene
