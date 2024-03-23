@@ -29,6 +29,8 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * My go-to is a Wiener Schnitzel and a black forest cake. I've also enjoyed the Jägerpfanne, the cheesecake, and the seasonal turkey meal.
 * Butterfly Tea & Dessert ("Butterfly") - K-Pop inspired bubble tea place that's cheaper than what the chains offer.
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Anushka (the owner) and her family is also extreme, and they serve savoury yet filling snacks.
+        * Anushka took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
+        * I'm impressed with how Anushka takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas. 
 
 #### The other good places
