@@ -64,6 +64,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 * Maneki
 * Beanfish
 * Momiji (thanks Lee!)
+* Ludi's (thank you [KuroRaiden](https://twitter.com/KuroRaiden), thank you [Jesse](https://linktr.ee/jbetteridge), and [Jarvis](http://twitter.com/Road_Buster84)) - Silogs whose flavours take you straight back to the Philippines.
 
 ### Toronto
 
