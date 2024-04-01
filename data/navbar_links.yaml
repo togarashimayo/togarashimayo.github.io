@@ -2,5 +2,7 @@
   url: "/about"
 - title: Panel Catalog
   url: "/panels"
+- title: Writings
+  url: "/writings"
 - title: More!
   url: "/more"
