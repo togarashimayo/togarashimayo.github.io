@@ -66,7 +66,7 @@ panels:
   rating: 18+
   short_description: Dystopian settings! Governments forcing kids to kill each other! Melodrama??? If you think that the Hunger Games ripped off Battle Royale for any of those reasons, think again. We’ll look at the similarities and differences between those two worlds, including new information from the Ballad of Songbirds and Snakes (aka the Hunger Games prequel).
   category: japanese
-  isActive: true
+  isActive: false
   conventions:
   - 'Sakura-Con 2024 (as "The Hunger Games vs. Battle Royale: A Comparison")'
 - title: An Introduction to Manhwa
@@ -79,7 +79,7 @@ panels:
   - Anime North 2023 (as "World of Korean Manhwa" ft. Orian, Leo, and Rosa)
   - Otakon 2023
   notes:
-  - Dr. Emily Hall and Rosa will be taking over for the respective Sakura-Con and Anime North 2024 iterations.
+  - This panel is now under Dr. Emily Hall's custody under "Intro to Manhwa (and webtoons!)" as of Sakura-Con 2024. I still help her out, but as an assistant doing PowerPoint janitorial work and trying to be funny in front of the audience.
 - title: Guess the Anime Character
   rating: general
   short_description: Do you know your Violet Evergarden from your Saber, or your Sailor Mars from your Kikyo? Come to play (for candy prizes) or just to watch this character recognition game!
