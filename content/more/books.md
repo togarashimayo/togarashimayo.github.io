@@ -12,7 +12,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## To read
 
 ### Fictional
-* *Mockingjay* by Suzanne Collins
 * *Klara and the Sun* by Kazuo Ishiguro
 * *Heidi* (original German version) by Johanna Spyri
 
@@ -26,6 +25,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Already read
 
 ### 2024
+* *Mockingjay* by Suzanne Collins
 * *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Struwwelpeter* (original German version) by Heinrich Hoffmann
 * *Battle Royale* by Koushun Takami
