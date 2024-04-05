@@ -43,7 +43,6 @@ The iPhone 14 sized sandwich schnitzel meat seem to be thicker than the strips. 
 
 ### Herb & garlic pretzel
 Same crisp exterior and pillowy soft interior. The herbs mesh well with the salt and pretzel; I could taste some rosemary and oregano on it.
-HILDA COOKIE
 
 ### Hilda cookie
 It's a cute cookie. I ate it the next day and it still tastes fresh. The lemon compliments the raspberry jam, while both the cookie and icing overall are Not Too Sweet™.

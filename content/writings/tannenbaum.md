@@ -7,7 +7,7 @@ weight: 50
 
 # The Tannenbaum
 
-## 2023-02-07
+## 2024-02-07
 
 Better late than never, but I was at The Tannenbaum last Wednesday night. My go-to is a Wiener Schnitzel (this happens when you take r/SchnitzelVerbrechen too seriously that you associate sauce with barbarism) and a black forest cake, but I tried the vegetarian schnitzel as an omnivore considering that:
 1. Mira encouraged me to do so during a previous post-meal chat.
