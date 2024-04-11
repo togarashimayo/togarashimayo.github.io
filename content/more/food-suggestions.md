@@ -20,7 +20,6 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 #### The favourites
 * Aiyaohno Cafe ("Aiyaohno") - Japanese-inspired pastries, drinks, and "404 meat not found" meals from a lovely husband-wife duo (Bev and Greg).
     * This is my favourite cafe (let alone, place for food in general), because Bev and Greg aren't afraid to use their kitchen as a playground to bring their ideas to life _and_ make those ideas tasty - my favourites are the (iced) royal milk tea, the teriyaki "chicken", and the now-retired "hambagu" donburi.
-    * I like how Bev can/will easily build a rapport with her customers, where I've had the chance to know about her and Greg's adventures beyond (and before starting) the cafe.
     * If any of you received matcha shortbread from me during out-of-Vancouver cons (starting with Otakon 2023, where I dropped one to the con's programming director), they come from here. Aiyaohno may not be prestigious, but the shortbread is durable while highlighting Japanese culture in Vancouver.
         * “That is so good!” - Tsukino-Con's panel coordinator, as he walked past by me taking a bite out of that cookie during the 2024 con.
     * This is where I took my _Donghua_ [intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3kkujntu26k25), thanks to Greg.
@@ -29,9 +28,9 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * My go-to is a Wiener Schnitzel and a black forest cake. I've also enjoyed the Jägerpfanne, the cheesecake, and the seasonal turkey meal.
     * While Mira didn't take the picture, this was where I took [my _Anime in the Philippines_ intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3khe6dgju4a2b).
 * Butterfly Tea & Dessert ("Butterfly") - K-Pop inspired bubble tea place that's cheaper than what the chains offer.
-    * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Anushka (the owner) and her family is also extreme, and they serve savoury yet filling snacks.
-        * Anushka took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
-        * I'm impressed with how Anushka takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
+    * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (the owner) and her parents (Deepa and Anil) is also extreme, and they serve savoury yet filling snacks.
+        * Nush took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
+        * I'm impressed with how Nush takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas. 
 
 #### The other good places
