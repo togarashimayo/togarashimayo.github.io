@@ -44,7 +44,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 
 #### The honourable mentions
 * Notch8's brunch buffet - It's your typical upscale brunch buffet so you know what to expect. But my mom's side of the family and I are huge fans of both Raluca and Adrian; they're super entertaining and Notch8 is lucky to have them as servers!
-* Candy Alley - Not really a restaurant, but it's where I get my candy from before showing up to Tannenabum. Sheryl (the owner) is a trip!
+* Candy Alley - Not really a restaurant, but it's where I get my candy from before showing up to Tannenbaum. Sheryl (the owner) is a trip!
 
 ### Victoria
 
