@@ -7,6 +7,8 @@ weight: 50
 
 # The Tannenbaum
 
+If you know me personally, follow me on social media, or attended the first few minutes of Anime in the Philippines at Sakura-Con 2024, you might know that I ~~stan~~ like this restaurant - [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up for this restaurant, with the owner (hereafter Mira, the older lady often doing FOH stuff) working her magic to convert me into a repeat (and then a regular) customer after I showed up two months later.
+
 ## 2024-04-10
 
 Brought along my (half-German) anime convention friend Zerogouki to The Tannenbaum yesterday evening. He got the rouladen, I got my usual Wiener to the tune of Mira roasting me for not being "adventurous" as him, and we both got the Not Too Sweet™ Black Forest cakes.
