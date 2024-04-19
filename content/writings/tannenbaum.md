@@ -7,6 +7,18 @@ weight: 50
 
 # The Tannenbaum
 
+## 2024-04-10
+
+Brought along my (half-German) anime convention friend Zerogouki to The Tannenbaum yesterday evening. He got the rouladen, I got my usual Wiener to the tune of Mira roasting me for not being "adventurous" as him, and we both got the Not Too Sweet™ Black Forest cakes.
+
+Zerogouki found the rouladen delicious and authentic, and he'll definitely be back for the cheesecake. The *real* highlight of our visit, however, was watching Mira sprint out of the restaurant to successfully chase down another table who forgot their takeout. Bonus points for her making that chase while wearing wedge sandals; they seem hard to run in!
+
+---
+
+### Note
+
+[Bluesky post featuring the food we ordered.](https://bsky.app/profile/togarashimayo.com/post/3kptfp27v772q)
+
 ## 2024-02-07
 
 Better late than never, but I was at The Tannenbaum last Wednesday night. My go-to is a Wiener Schnitzel (this happens when you take r/SchnitzelVerbrechen too seriously that you associate sauce with barbarism) and a black forest cake, but I tried the vegetarian schnitzel as an omnivore considering that:

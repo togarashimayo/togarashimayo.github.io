@@ -31,6 +31,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (the owner) and her parents (Deepa and Anil) is also extreme, and they serve savoury yet filling snacks.
         * Nush took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
         * I'm impressed with how Nush takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
+    * If you hate tipping, you will love this place. Nush, Deepa, and Anil will _always_ bypass the tip screen before handing you the terminal.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas. 
 
 #### The other good places
@@ -44,7 +45,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 
 #### The honourable mentions
 * Notch8's brunch buffet - It's your typical upscale brunch buffet so you know what to expect. But my mom's side of the family and I are huge fans of both Raluca and Adrian; they're super entertaining and Notch8 is lucky to have them as servers!
-* Candy Alley - Not really a restaurant, but it's where I get my candy from before showing up to Tannenabum. Sheryl (the owner) is a trip!
+* Candy Alley - Not really a restaurant, but it's where I get my candy from before showing up to Tannenbaum. Sheryl (the owner) is a trip!
 
 ### Victoria
 
