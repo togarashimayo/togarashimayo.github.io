@@ -21,6 +21,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ## Currently reading
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
+* *World on Fire* by Amy Chua
 
 ## Already read
 
