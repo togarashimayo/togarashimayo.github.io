@@ -26,7 +26,7 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 
 *"[I do want to give a shout-out to Anime in the Philippines, as it definitely taught me new things, and gave a window into a culture and fandom that I was largely unfamiliar with.](https://ogiuemaniax.com/2023/08/27/tomoyo-the-time-has-come-to-demonstrate-our-power-otakon-2023/)"* - Ogiue Maniax on the panels he saw in part during Otakon 2023.
 
-*"[This was an amazing panel. I hope Mich does this panel more at conventions. Because I would still sit in even though I attended this panel before...I think it's interesting to hear how anime was dealt with in different countries. So I was glad to have checked this out.](https://youtu.be/wQ3a35vXjfE?feature=shared&t=46289)"* - Eri (of Scarlet Rhapsody) on attending Anime in the Philippines at Sakura-Con 2024.
+*"[This was an amazing panel. I hope Mich does this panel more at conventions. Because I would still sit in even though I attended this panel before...I think it's interesting to hear how anime was dealt with in different countries. So I was glad to have checked this out.](https://youtu.be/wQ3a35vXjfE?feature=shared&t=4629)"* - Eri (of Scarlet Rhapsody) on attending Anime in the Philippines at Sakura-Con 2024.
 
 ### Tools of the trade:
 
