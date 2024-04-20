@@ -22,7 +22,7 @@ I liked it enough that I also applied the program's principles to my convention 
 
 ### Toga Mayo ops (Jan-Aug)
 
-* Design and order my physical business cards
+☑️ Design and order my physical business cards
 * Commission a new PFP of my IRL self
 * Convert _Congoing on a Budget_ into a guide
 * Convert _Panelling for Dummies_ into a guide
