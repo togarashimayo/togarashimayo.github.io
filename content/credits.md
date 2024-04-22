@@ -13,6 +13,8 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Donghua:** [KuroRaiden](https://twitter.com/KuroRaiden/)
 
+**Anime in the Philippines:** [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/)
+
 **Congoing on a Budget:** Kaosu, Dan, and Azurimi
 
 **World of Korean Manhwa / Intro to Manhwa:** Orian, Leon, Rosa, [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
