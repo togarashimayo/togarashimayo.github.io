@@ -15,11 +15,7 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Anime in the Philippines:** [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/)
 
-**Congoing on a Budget:** Kaosu, Dan, and Azurimi
-
-**World of Korean Manhwa / Intro to Manhwa:** Orian, Leon, Rosa, [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
-
-**Fans in the Professional Workplace:** KuroRaiden, Nina H, Tyler M, Alison and Spike M
+**Intro to Manhwa:** [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
 
 **Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
