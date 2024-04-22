@@ -31,7 +31,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (the owner) and her parents (Deepa and Anil) is also extreme, and they serve savoury yet filling snacks.
         * Nush took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
         * I'm impressed with how Nush takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
-    * If you hate tipping, you will love this place. Nush, Deepa, and Anil will _always_ bypass the tip screen before handing you the terminal.
+    * If you hate tipping, you will love this place. Everyone there (be it Nush, Deepa, Anil, or their hired help) will _always_ bypass the tip screen before handing you the terminal. Try to force a tip into their hands by treating their cup holder demo as a tip jar? They donate everything in that cup to a non-profit that Nush volunteers at.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas. 
 
 #### The other good places
