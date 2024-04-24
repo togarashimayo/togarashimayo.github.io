@@ -5,9 +5,9 @@ menu: "main"
 weight: 50
 ---
 
-# MunChi Foods
+# MunChi Foods (2024-03-02)
 
-Note that I wrote this before Amelie announced that she [pulled out of the Old Bavaria Haus agreement](https://www.instagram.com/p/C4q_i4wsdEV/) on March 18 2024. Again, she did the right thing knowing the building owners' iffy behaviour. 
+MunChi is a German food concept in a Port Moody commissary kitchen that's best known for its pretzels. The owner (hereafter, "Amelie") was supposed to take over Old Bavaria Haus management, but she [pulled out of the Old Bavaria Haus agreement](https://www.instagram.com/p/C4q_i4wsdEV/) on March 18 2024. Again, she did the right thing knowing the building owners' iffy behaviour. 
 
 ---
 

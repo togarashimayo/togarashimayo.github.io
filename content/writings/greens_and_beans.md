@@ -5,7 +5,11 @@ menu: "main"
 weight: 50
 ---
 
-# Greens and Beans
+# Greens and Beans (2024-03-02)
+
+Greens and Beans is a deli that is well-known among Eat New West members (let alone New West in general), because the owner (hereafter, "Leona") is both an active member and a community pillar.
+
+---
 
 We live in Vancouver, but my partner and I swung by Greens and Beans on our way to pick up our MunChi order (write-up on the way here!) - I've heard many good things about the deli from this group, especially their soup flights!
 
