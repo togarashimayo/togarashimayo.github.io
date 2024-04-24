@@ -11,13 +11,13 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 ## Copanelists
 
-**Donghua:** [KuroRaiden](https://twitter.com/KuroRaiden/)
+**_Donghua_:** [KuroRaiden](https://twitter.com/KuroRaiden/)
 
-**Anime in the Philippines:** [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/)
+**_Anime in the Philippines_:** [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/)
 
-**Intro to Manhwa:** [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
+**_Intro to Manhwa_:** [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/)
 
-**Panelling for Dummies:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
+**_Panelling for Dummies_:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
 ## Operations
 
@@ -37,4 +37,4 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels), Tsukino-Con Programming, [Vancouver Anime Convention Society](https://animeevolution.com/), [MunChi](https://www.munichchildfoods.com/ "I've been getting more into food writing, and I appreciate that Amelie was cool with me letting me use her business to help hone that skill.")
 
-**Individuals:**  [Jay Agonoy](http://jayagonoy.xyz "Jay helped me with my Tagalog pronounciation between Sakura-Con 2023 and Anime North 2023."), [Sam Kalensky](https://samkalensky.com "Sam did the logo for my previous panel brand. While I had to discard that logo while switching to Togarashi Mayo, I'm super grateful and would consider him to do art for another project."), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social "Dave has been a big help in promoting Anime in the Philippines during Anime North and Otakon 2023, even mentioning it during Anime Hell for the former."), [Keichoro](https://www.instagram.com/keichoro03 "Keichoro gave me some pointers that made it into Panelling and is how/why I got into Tannenbaum."), [Cordwainershark](https://www.instagram.com/cordwainershark/ "Webmaster's discretion"), and [Jupdown](https://www.twitch.tv/jupdown "Webmaster's discretion")
+**Individuals:**  [Jay Agonoy](http://jayagonoy.xyz "Jay helped me with my Tagalog pronounciation between Sakura-Con 2023 and Anime North 2023."), [Sam Kalensky](https://samkalensky.com "Sam did the logo for my previous panel brand. While I had to discard that logo while switching to Togarashi Mayo, I'm super grateful and would consider him to do art for another project."), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social "Dave has been a big help in promoting Anime in the Philippines during Anime North and Otakon 2023, even mentioning it during Anime Hell for the former."), [Keichoro](https://www.instagram.com/keichoro03 "Keichoro gave me some pointers that made it into Panelling and is how/why I got into Tannenbaum."), [Nush](https://www.instagram.com/butterfly.bbt/ "Nush took the picture of me Shinji posing at her cafe, which is my intro slide pic for my respective Battle Royale vs. The Hunger Games and Korean-adjacent panels"), [Cordwainershark](https://www.instagram.com/cordwainershark/ "Webmaster's discretion"), and [Jupdown](https://www.twitch.tv/jupdown "Webmaster's discretion")
