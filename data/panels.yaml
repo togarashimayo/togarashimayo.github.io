@@ -77,7 +77,6 @@ panels:
   category: anime
   conventions:
   - Sakura-Con 2023 (ft. Dr. Emily Hall of Webtoon Genius)
-  - Anime North 2023 (as "World of Korean Manhwa" ft. Orian, Leo, and Rosa)
   - Otakon 2023
   notes:
   - This panel is now under Dr. Emily Hall's custody under "Intro to Manhwa (and webtoons!)" as of Sakura-Con 2024. I still help her out, but as an assistant doing PowerPoint janitorial work and trying to be funny in front of the audience.
@@ -103,10 +102,7 @@ panels:
   category: convention meta
   isActive: false
   conventions:
-  - Anime North 2022
   - Akimatsuri 2022
-  notes:
-  - I ran this panel as a roundtable format (along with Dan, Azurimi, and Andrew) at Anime North 2022.
 - title: Germany* and Anime
   rating: 13+
   short_description: A look at anime set in or heavily inspired by Germany (...plus Austria and Switzerland, forming the "DACH region"), along with how the country influenced Japanese culture and society.
@@ -129,16 +125,20 @@ panels:
   - Manga Planet covered this panel as part of their Anime North Online recap.
   - I've put this panel on indefinite hiatus, until I can find a way to turn it into a 60-minute panel while generalizing the content to "tie-in products for any video game in general". Sonic curry, anyone?
 
-other_panels:
+anime_north_roundtables:
 - title: How to Panel a Panel (Anime North 2024 with Orian and Picky; upcoming)
 - title: World of Korean Manhwa (Anime North 2024, with Orian, Leo, and Rosa; upcoming)
 - title: Explaining Anime to Your Mom (Anime North 2024; upcoming)
+- title: World of Korean Manhwa (Anime North 2023, with Orian, Leo, and Rosa)
+- title: Legend of Zelda Megapanel (Anime North 2023)
+- title: Spy x Family (Anime North 2023)
+- title: Korean Manhwa (Anime North 2022, with Kris and Orian)
+- title: Congoing on a Budget (Anime North 2022, with Dan, Azurimi, and Andrew)
+- title: Fans in the Professional Workplace (Anime North 2022 with Sabrina, Nick, and Demetre)
+
+other_panels:
 - title: Intro to Manhwa (and webtoons!) (Sakura-Con 2024 with Dr. Emily Hall)
 - title: Amazing Anime Deaths (18+; Tsukino-Con 2024; facilitating for Jesse Betteridge)
 - title: Canadian Anime Heritage Minutes (Tsukino-Con 2024; facilitating for Jesse Betteridge)
-- title: Legend of Zelda Megapanel (Anime North 2023)
-- title: Spy x Family (Anime North 2023)
 - title: All about Webtoons — Korean Style! (Sakura-Con 2023 with Dr. Emily Hall)
-- title: Korean Manhwa (Anime North 2022, with Kris and Orian)
-- title: Fans in the Professional Workplace (Anime North 2022 with Sabrina, Nick, and Demetre)
 - title: An Introduction to Yokai (Akimatsuri 2019 and Tsukino-Con 2020, now in KuroRaiden's custody as "Casual Intro to Yokai and Touhou Connection")

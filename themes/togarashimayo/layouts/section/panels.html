@@ -69,6 +69,16 @@
         </div>
     {{ end }}
 
+    <h2>Anime North roundtables</h2>
+    What Anime North calls a "panel" - roundtables that I've participated in, both as a moderator and a regular panelist.
+    <ul>
+        {{ range $.Site.Data.panels.anime_north_roundtables }}
+            <li>
+            {{ .title }}
+            </li>
+        {{ end }}
+        </ul>
+
     <h2>Other panels I've worked on</h2>
     <ul>
     {{ range $.Site.Data.panels.other_panels }}
