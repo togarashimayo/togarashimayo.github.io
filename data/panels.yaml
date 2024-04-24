@@ -70,39 +70,6 @@ panels:
   isActive: false
   conventions:
   - 'Sakura-Con 2024 (as "The Hunger Games vs. Battle Royale: A Comparison")'
-- title: An Introduction to Manhwa
-  rating: 13+
-  short_description: An introductory panel about Korean comics (manhwa) that covers their history, their relationship with Japanese media, essential must-reads, and titles that the panelist personally recommends.
-  isActive: false
-  category: anime
-  conventions:
-  - Sakura-Con 2023 (ft. Dr. Emily Hall of Webtoon Genius)
-  - Otakon 2023
-  notes:
-  - This panel is now under Dr. Emily Hall's custody under "Intro to Manhwa (and webtoons!)" as of Sakura-Con 2024. I still help her out, but as an assistant doing PowerPoint janitorial work and trying to be funny in front of the audience.
-- title: Guess the Anime Character
-  rating: general
-  short_description: Do you know your Violet Evergarden from your Saber, or your Sailor Mars from your Kikyo? Come to play (for candy prizes) or just to watch this character recognition game!
-  isActive: false
-  conventions:
-  - Harumatsuri 2023
-- title: Fans in the Professional Workplace
-  rating: general
-  short_description: A roundtable for and by professionals with geeky interests. Come discuss how (and when) to share your fandom in the workplace, the benefits and challenges of being a fan in the workplace, and more.
-  category: convention meta
-  isActive: false
-  conventions:
-  - Harumatsuri 2023 (ft. Wes L, Nina H, Tyler M, Spike M, and Alison)
-  notes:
-  - This is a Vancouver version of the Anime North panel of the same name (given Sabrina's blessing). 
-  - This panel is also retired, as I feel that the people who ran this panel at Anirevo 2022-2023 and Sakura-Con 2024 do a better job than me!
-- title: Congoing on a Budget
-  rating: general
-  short_description: Cons can be expensive to attend, but they don't have to be! Come learn new tips to attend cons for less.
-  category: convention meta
-  isActive: false
-  conventions:
-  - Akimatsuri 2022
 - title: Germany* and Anime
   rating: 13+
   short_description: A look at anime set in or heavily inspired by Germany (...plus Austria and Switzerland, forming the "DACH region"), along with how the country influenced Japanese culture and society.
@@ -124,6 +91,40 @@ panels:
   notes:
   - Manga Planet covered this panel as part of their Anime North Online recap.
   - I've put this panel on indefinite hiatus, until I can find a way to turn it into a 60-minute panel while generalizing the content to "tie-in products for any video game in general". Sonic curry, anyone?
+
+retired_panels:
+- title: Fans in the Professional Workplace
+  rating: general
+  short_description: A roundtable for and by professionals with geeky interests. Come discuss how (and when) to share your fandom in the workplace, the benefits and challenges of being a fan in the workplace, and more.
+  category: convention meta
+  isActive: false
+  conventions:
+  - Harumatsuri 2023 (ft. Wes L, Nina H, Tyler M, Spike M, and Alison)
+  notes:
+  - This is a Vancouver version of the Anime North panel of the same name (given Sabrina's blessing). 
+  - This panel is also retired, as I feel that the people who ran this panel at Anirevo 2022-2023 and Sakura-Con 2024 do a better job than me!
+- title: An Introduction to Manhwa
+  rating: 13+
+  short_description: An introductory panel about Korean comics (manhwa) that covers their history, their relationship with Japanese media, essential must-reads, and titles that the panelist personally recommends.
+  isActive: false
+  category: anime
+  conventions:
+  - Sakura-Con 2023 (ft. Dr. Emily Hall of Webtoon Genius)
+  - Otakon 2023
+  notes:
+  - This panel is now under Dr. Emily Hall's custody under "Intro to Manhwa (and webtoons!)" as of Sakura-Con 2024. I still help her out, but as an assistant doing PowerPoint janitorial work and trying to be funny in front of the audience.
+- title: Guess the Anime Character
+  rating: general
+  short_description: Do you know your Violet Evergarden from your Saber, or your Sailor Mars from your Kikyo? Come to play (for candy prizes) or just to watch this character recognition game!
+  isActive: false
+  conventions:
+  - Harumatsuri 2023
+- title: Congoing on a Budget
+  rating: general
+  short_description: Cons can be expensive to attend, but they don't have to be! Come learn new tips to attend cons for less.
+  category: convention meta
+  conventions:
+  - Akimatsuri 2022
 
 anime_north_roundtables:
 - title: How to Panel a Panel (Anime North 2024 with Orian and Picky; upcoming)
