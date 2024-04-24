@@ -18,14 +18,15 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ### Non-Fictional
 * *The 4-Hour Workweek* by Tim Ferriss
 * *Digital Minimalism* by Cal Newport
+* *Guns, Germs, and Steel* by Jared Diamond
 
 ## Currently reading
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
-* *World on Fire* by Amy Chua
 
 ## Already read
 
 ### 2024
+* *World on Fire* by Amy Chua
 * *Mockingjay* by Suzanne Collins
 * *Mao's America: A Survivor's Warning* by Xi Van Fleet
 * *Struwwelpeter* (original German version) by Heinrich Hoffmann
