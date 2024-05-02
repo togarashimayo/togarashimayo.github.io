@@ -12,20 +12,20 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## To read
 
 ### Fictional
-* *Klara and the Sun* by Kazuo Ishiguro
 * *Heidi* (original German version) by Johanna Spyri
 
 ### Non-Fictional
-* *The 4-Hour Workweek* by Tim Ferriss
 * *Digital Minimalism* by Cal Newport
-* *Guns, Germs, and Steel* by Jared Diamond
 
 ## Currently reading
+* *Klara and the Sun* by Kazuo Ishiguro
+* *The 4-Hour Workweek* by Tim Ferriss
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
 ## Already read
 
 ### 2024
+* *Guns, Germs, and Steel* by Jared Diamond
 * *World on Fire* by Amy Chua
 * *Mockingjay* by Suzanne Collins
 * *Mao's America: A Survivor's Warning* by Xi Van Fleet
