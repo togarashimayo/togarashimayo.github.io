@@ -12,6 +12,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## To read
 
 ### Fictional
+* *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
 * *Heidi* (original German version) by Johanna Spyri
 
 ### Non-Fictional
@@ -19,12 +20,13 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ## Currently reading
 * *Klara and the Sun* by Kazuo Ishiguro
-* *The 4-Hour Workweek* by Tim Ferriss
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
 ## Already read
 
 ### 2024
+* *Villains are Destined to Die* (Volumes 1-4) by Gwongyeoeul
+* *The 4-Hour Workweek* by Tim Ferriss
 * *Guns, Germs, and Steel* by Jared Diamond
 * *World on Fire* by Amy Chua
 * *Mockingjay* by Suzanne Collins
