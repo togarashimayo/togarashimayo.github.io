@@ -19,3 +19,7 @@ Eat New West is a FB group dedicated to documenting people's food adventures in 
 * [Greens and Beans (2024-03-02)](greens_and_beans)
 
 If you are a local New West food spot who is part of ENW, don't be afraid to send me an email asking me to drop by.
+
+## Misc
+
+* [How I studied (and passed) the AWS Certified Cloud Practitioner exam](https://www.reddit.com/r/AWSCertifications/comments/1cirvm5/passed_my_ccpclf02_exam_yesterday/)
