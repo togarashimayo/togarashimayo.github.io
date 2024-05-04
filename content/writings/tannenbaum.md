@@ -9,9 +9,27 @@ weight: 50
 
 If you know me personally, follow me on social media, or attended the first few minutes of _Anime in the Philippines_ at Sakura-Con 2024, you might know that I ~~stan~~ like this German restaurant very much. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up, with the owner (hereafter "Mira", the older lady often doing FOH stuff) working her magic to convert me into a repeat (and then a regular) customer after I did a walk-in two months later.
 
-Please note that: I don't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
+Please note that I don't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
 
 ---
+
+## 2024-04-27
+
+* *"Schnitzel von Mama" (ie. "mom's schnitzel" or "mom schnitzel") is a running [r/SchnitzelVerbrechen](https://www.reddit.com/r/SchnitzelVerbrechen/) joke among the lines of "<mom’s schnitzel is the best>".*
+
+* *I visited Rhein Haus with [Dr. Emily Hall](https://webtoongenius.com/) (who I assisted with her manhwa and webtoon panel) during the Sakura-Con 2024 weekend. It’s good for Seattle, but isn’t as great compared to Tannenbaum, MunChi, and to some extent, Eva in Victoria. [Here's our spread from that restaurant](https://bsky.app/profile/did:plc:iigcc7kmuylkxcfnarhzckav/post/3koxkpluufc2c) and I am down to take her to Tannenbaum should she come to Vancouver.
+
+**One-liner:** Wiener schnitzel remains the ultimate Tannenbaum litmus test, but it's worth trying out the Garnelen (shrimp) croissant.
+
+Also better late than never, but I was back at (you guessed it) Schnitzel von M… er I mean The Tannenbaum last week, as much as schnitzel is veal or pork rather than mothers.
+
+I tried the Garnelen (shrimp) croissant as it's a lunch exclusive and I've heard good things from both [ENW regular]'s write-up and [ENW user]'s comment on my previous write-up. The croissant is properly toasted, tastes like it's from some upscale bakery, and cut appropriately enough that most of the not-so-oversauced shrimp salad doesn't fall on your plate. I know I can make a shrimp croissant at home, but this combination slaps.
+
+As much as I understand that I should *always* eat my vegetables. I'm likely to ask about subbing the side mixed greens for the goulash the next time I'm back for lunch. It's piping hot, hearty at the bottom, and omits distracting gimmicks such as “pretzel crisps" (cough cough, Rhein Haus). Note that it doesn't come with saltines or even that free dinnertime two-bite garlic bread. Not an issue for me, but it might be for some.
+
+I swapped out my usual Black Forest cake for the cheesecake. It's not my first time enjoying that cake as I previously tried it last January. But the blueberry flavour and compote shine here, on top of the fluffy cake texture and caramel-noted shortcrust.
+
+During this visit, I also noticed that Mira ramped up her "how's everything tasting" checks. She previously stuck to only checking my entree, but checked on me for *all three* items. Considering that Mira knows that I write about her restaurant (let alone hold membership) in this group, I can confidently say, "Bitte helfen Sie mir; ich bin in Gefahr".
 
 ## 2024-04-10
 
