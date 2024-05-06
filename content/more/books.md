@@ -16,9 +16,10 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 
 ### Non-Fictional
-* *Digital Minimalism* by Cal Newport
+None at the moment!
 
 ## Currently reading
+* *Digital Minimalism* by Cal Newport
 * *Klara and the Sun* by Kazuo Ishiguro
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
