@@ -12,7 +12,7 @@
 
             {{with .notes}}
                 <br><br>
-                {{if gt (len .) 1}}
+                {{ if gt (len .) 1 }}
 
                 <b>Notes:</b>
                 <ul>
@@ -40,12 +40,12 @@
 
     {{ range ( where $.Site.Data.panels.panels "isActive" false ) }}
         <div class="convention">
-            <h3>{{.title}} ({{.rating}})</h3>
-            <i>{{.short_description}}</i>
+            <h3>{{ .title }} ({{ .rating }})</h3>
+            <i>{{ .short_description }}</i>
 
             {{ with .notes }}
                 <br><br>
-                {{if gt (len .) 1}}
+                {{ if gt (len .) 1 }}
 
                 <b>Notes:</b>
                 <ul>
@@ -54,7 +54,7 @@
                     {{ end }}
                 </ul>
 
-                {{ else if eq (len .) 1}}
+                {{ else if eq (len .) 1 }}
 
                 <p><b>Note:</b> {{ index (.) 0 }}</p>
 
@@ -72,12 +72,12 @@
     <h2>Retired panels</h2>
     {{ range  $.Site.Data.panels.retired_panels }}
         <div class="convention">
-            <h3>{{.title}} ({{.rating}})</h3>
-            <i>{{.short_description}}</i>
+            <h3>{{ .title }} ({{ .rating }})</h3>
+            <i>{{ .short_description }}</i>
 
             {{ with .retirement_reason }}
                 <br><br>
-                <p><b>Retirement reason: </b> {{.}}</p>
+                <p><b>Retirement reason: </b> {{ .}}</p>
             {{ end }}
 
             <div class="convention-items">
