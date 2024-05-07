@@ -75,22 +75,9 @@
             <h3>{{.title}} ({{.rating}})</h3>
             <i>{{.short_description}}</i>
 
-            {{ with .notes }}
+            {{ with .retirement_reason }}
                 <br><br>
-                {{if gt (len .) 1}}
-
-                <p><b>Notes:</b></p>
-                <ul>
-                    {{ range . }}
-                    <li>{{ . }}</li>
-                    {{ end }}
-                </ul>
-
-                {{ else if eq (len .) 1}}
-
-                <p><b>Note:</b> {{ index (.) 0 }}</p>
-
-                {{ end }}
+                <p><b>Retirement reason: </b> {{.}}</p>
             {{ end }}
 
             <div class="convention-items">
