@@ -20,12 +20,13 @@ None at the moment!
 
 ## Currently reading
 * *Digital Minimalism* by Cal Newport
-* *Klara and the Sun* by Kazuo Ishiguro
 * *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 
 ## Already read
 
 ### 2024
+* *Millionaire Next Door* by Thomas J. Stanley and William D. Danko
+* *Klara and the Sun* by Kazuo Ishiguro
 * *Villains are Destined to Die* (Volumes 1-4) by Gwongyeoeul
 * *The 4-Hour Workweek* by Tim Ferriss
 * *Guns, Germs, and Steel* by Jared Diamond
