@@ -71,6 +71,8 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 
 * COPS Donuts (thank you Chloe!)
 * Craig's Cookies
+* Juicy Dumpling - soup dumplings
+* Len Duckworth - fish and chips
 
 ### Baltimore
 
