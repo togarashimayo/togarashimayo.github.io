@@ -25,7 +25,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * This is where I took my _Donghua_ [intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3kkujntu26k25), thanks to Greg.
 * The Tannenbaum Restaurant ("Tannenbaum"; vielen Dank [Keichoro](https://www.instagram.com/keichoro03/)!) - Homestyle German fare with the most extreme customer service I’ve seen in my life going to restaurants.
     * This is the best clue-in that I've received. I've been _dying_ to check out this place since Keichoro posted [his birthday meal on Instagram](https://www.instagram.com/p/Cx9gKG0Lt9m/?img_index=1), and I'm glad that Mira (the owner) made it worth the two-month wait...AUF DEUTSCH!
-    * My go-to is a Wiener Schnitzel and a black forest cake. I've also enjoyed the Jägerpfanne, the cheesecake, and the seasonal turkey meal.
+    * My go-to is a Wiener Schnitzel and a black forest cake. I've also enjoyed the Jägerpfanne, the cheesecake, the rouladen, the shrimp croissant, and the seasonal turkey meal.
     * While Mira didn't take the picture, this was where I took [my _Anime in the Philippines_ intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3khe6dgju4a2b).
 * Butterfly Tea & Dessert ("Butterfly") - K-Pop inspired bubble tea place that's cheaper than what the chains offer.
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (the owner) and her parents (Deepa and Anil) is also extreme, and they serve savoury yet filling snacks.
@@ -73,6 +73,8 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 * Craig's Cookies
 * Juicy Dumpling - soup dumplings
 * Len Duckworth - fish and chips
+* V's Schnitzel House - While Slovakian, their schnitzels rival Tannenbaum's. 
+* Fourth Man in the Fire (thanks [Dave](https://bsky.app/profile/terebifunhouse.bsky.social)!) - pizza place also offering...donuts?!
 
 ### Baltimore
 
