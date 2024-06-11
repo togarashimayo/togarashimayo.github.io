@@ -13,18 +13,18 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
-* *Heidi* (original German version) by Johanna Spyri
 
 ### Non-Fictional
-None at the moment!
+* *Heidi* (original German version) by Johanna Spyri
 
 ## Currently reading
-* *Digital Minimalism* by Cal Newport
-* *Gregs Tagebuch* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
+None at the moment!
 
 ## Already read
 
 ### 2024
+* *Digital Minimalism* by Cal Newport
+* *Gregs Tagebuch: Von Idioten umzingelt!* (Diary of a Wimpy Kid's German translation) by Jeff Kinney
 * *Millionaire Next Door* by Thomas J. Stanley and William D. Danko
 * *Klara and the Sun* by Kazuo Ishiguro
 * *Villains are Destined to Die* (Volumes 1-4) by Gwongyeoeul

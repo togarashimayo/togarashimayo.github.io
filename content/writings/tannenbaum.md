@@ -7,7 +7,9 @@ weight: 50
 
 # The Tannenbaum
 
-If you know me personally, follow me on social media, or attended the first few minutes of _Anime in the Philippines_ at Sakura-Con 2024, you might know that I ~~stan~~ like this German restaurant very much. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with the owner (hereafter "Mira", the older lady often doing FOH stuff) speedrunning her way into converting me into a repeat (and then a regular) customer after I did a walk-in two months later.
+*"Do you want me to drive to Save-On Foods?"* - the owner (hereafter, "Mira") when telling a table that she's out of black forest cake.
+
+If you know me personally, follow me on social media, or attended the first few minutes of _Anime in the Philippines_ at Sakura-Con 2024, you might know that I ~~stan~~ like this German restaurant very much. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a repeat (and then a regular) customer after I did a walk-in two months later.
 
 Please note that:
 1. I don't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
@@ -15,7 +17,7 @@ Please note that:
 
 ---
 
-## 2024-04-27
+## 2024-05-04
 
 * *"Schnitzel von Mama" (ie. "mom's schnitzel" or "mom schnitzel") is a running [r/SchnitzelVerbrechen](https://www.reddit.com/r/SchnitzelVerbrechen/) joke among the lines of "<mom’s schnitzel is the best>".*
 * *I visited Rhein Haus with [Dr. Emily Hall](https://webtoongenius.com/) (who I assisted with her manhwa and webtoon panel) during the Sakura-Con 2024 weekend. It’s good for Seattle, but isn’t as great compared to Tannenbaum, MunChi, and to some extent, Eva in Victoria. [Here's our spread from that restaurant](https://bsky.app/profile/did:plc:iigcc7kmuylkxcfnarhzckav/post/3koxkpluufc2c) and I am down to take her to Tannenbaum should she come to Vancouver*.
