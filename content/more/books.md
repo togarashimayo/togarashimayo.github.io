@@ -13,17 +13,24 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
-* *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
+* *Solo Leveling* (Volume 2) by Chugong
+
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
+* *I'm Glad My Mom Died* by Jennette McCurdy
+* *Your Money or your Life* by Vicki Robin
+* *The Complete Tightwad Gazette* by Amy Dacyczyn
 
 ## Currently reading
 * *Heidi* (original German version) by Johanna Spyri
+* *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
+* *Der Tag, an dem die Oma das Internet kaputt gemacht hat* (*On The Day Grandma Broke the Internet*) by Marc-Uwe Kling
 
 ## Already read
 
 ### 2024
+* *Solo Leveling* (Volume 1) by Chugong
 * *Digital Minimalism* by Cal Newport
 * *Gregs Tagebuch: Von Idioten umzingelt!* (*Diary of a Wimpy Kid*'s German translation) by Jeff Kinney
 * *Millionaire Next Door* by Thomas J. Stanley and William D. Danko
