@@ -32,7 +32,8 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
         * Nush took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
         * I'm impressed with how Nush takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
     * If you hate tipping, you will love this place. Everyone there (be it Nush, Deepa, Anil, or their hired help) will _always_ bypass the tip screen before handing you the terminal. Try to force a tip into their hands by treating their cup holder demo as a tip jar? They donate everything in that cup to a non-profit that Nush volunteers at.
-    * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas. 
+    * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas.     
+    * You'll have to custom request them, but Deepa makes amazing veggie pakoras and rice pudding! 
 
 #### The other good places
 * Petite Bao - An Asian twist on your usual hamburgers (bao burger buns). Love their char siu bao burgers.
@@ -41,7 +42,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 * AKD Kitchen (thank you [Jesse](https://linktr.ee/jbetteridge)!) - Local ramen chain whose miso "ajitama" ramen hits the spot. 
     * This place was my original post-haircut lunch spot (as my salon is also in DT New West) before Tannenbaum/Mira OHKO'd it out of that spot, but wouldn't mind returning back to meet up with someone. 
 * MunChi - The best pretzels I've had; they're crunchy on the outside yet pillowy on the inside.
-* Greens and Beans (thank you Eat New West) - Haven't tried their sandwiches, but they have an amazing soup flight. 
+* Greens and Beans (thank you Eat New West) - Almost all of the soups I've had are solid, and they make a yummy shrimp salad for their sandwiches.
 
 #### The honourable mentions
 * Notch8's brunch buffet - It's your typical upscale brunch buffet so you know what to expect. But my mom's side of the family and I are huge fans of both Raluca and Adrian; they're super entertaining and Notch8 is lucky to have them as servers!
