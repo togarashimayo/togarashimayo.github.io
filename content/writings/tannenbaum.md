@@ -49,7 +49,7 @@ Zerogouki found the rouladen delicious and authentic, and he'll definitely be ba
 ## 2024-02-07
 
 * *The "go-to in-office lunch spot" is obviously Aiyaohno Cafe, knowing their pescatarian, vegetarian, and vegan menu.*
-* *Mira clarified during a later visit that she made that switch as a courtesy, considering that I'm one of her regular customers. She also acts as if the vegetarian schnitzel is the bane of my existence by mentioning it in front of guests who I bring in (such as, "Mich isn't ordering the vegetarian schnitzel" to my partner while I'm ordering).*
+* *Mira clarified during a later visit that she made that switch as a courtesy, considering that I'm one of her regular customers. She also acted as if the vegetarian schnitzel is the bane of my existence by mentioning it in front of guests who I bring in (such as, "Mich isn't ordering the vegetarian schnitzel" to my partner while I'm ordering).*
 
 Better late than never, but I was at The Tannenbaum last Wednesday night. My go-to is a Wiener Schnitzel (this happens when you take r/SchnitzelVerbrechen too seriously that you associate sauce with barbarism) and a black forest cake, but I tried the vegetarian schnitzel as an omnivore considering that:
 1. Mira encouraged me to do so during a previous post-meal chat.
