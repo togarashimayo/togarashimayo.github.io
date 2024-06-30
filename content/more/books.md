@@ -13,8 +13,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
-* *Solo Leveling* (Volume 2) by Chugong
-
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
@@ -25,11 +23,15 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Currently reading
 * *Heidi* (original German version) by Johanna Spyri
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
-* *Der Tag, an dem die Oma das Internet kaputt gemacht hat* (*On The Day Grandma Broke the Internet*) by Marc-Uwe Kling
+* *Solo Leveling* (Volume 2) by Chugong
+* *Laid-Back Camp* (Volume 1) by Afro
+* *Classic German Baking* by Luisa Weiss
+* *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
 
 ## Already read
 
 ### 2024
+* *Der Tag, an dem die Oma das Internet kaputt gemacht hat* (*On The Day Grandma Broke the Internet*) by Marc-Uwe Kling
 * *Solo Leveling* (Volume 1) by Chugong
 * *Digital Minimalism* by Cal Newport
 * *Gregs Tagebuch: Von Idioten umzingelt!* (*Diary of a Wimpy Kid*'s German translation) by Jeff Kinney
