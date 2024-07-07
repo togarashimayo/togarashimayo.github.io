@@ -5,7 +5,7 @@ menu: "main"
 weight: 50
 ---
 
-# MunChi Foods (2024-03-02)
+# MunChi Foods
 
 MunChi is a German food concept in a ~~Port Moody~~ Chinatown commissary kitchen that's best known for its pretzels.
 
@@ -13,9 +13,10 @@ MunChi is a German food concept in a ~~Port Moody~~ Chinatown commissary kitchen
 
 ## 2024-06-22
 
-* *"Neues Bayern Haus" (ie. "\<New Bavaria Haus>") is what I refer to Old Bavaria Haus's current state in front of Amelie, as we're quite familiar with the building owners' background.*
+* *"Neues Bayern Haus" (ie. "\<New Bavaria Haus>") is what I refer to Old Bavaria Haus's current state in front of Amelie, Mira, and Zerogouki, as we're quite familiar with the building owners' background.*
 * *I picked up everything from Amelie's residence in Coquitlam, rather than her commissary kitchen.*
 * *I am heading to Germany between late September and early-mid October.*
+* *The "bulk order" were two large bags' worth of pretzels for Jesse and Christine's wedding.*
 
 **One-liner:** Not your school cafeteria or mall’s topped pretzels, plus a side of what Amelie's up to next after the Old Bavaria Haus agreement collapsed last March.
 
