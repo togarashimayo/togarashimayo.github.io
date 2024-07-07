@@ -16,23 +16,23 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
-* *I'm Glad My Mom Died* by Jennette McCurdy
 * *Your Money or your Life* by Vicki Robin
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
 
-## Currently reading
+## Currently 
 * *Heidi* (original German version) by Johanna Spyri
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
-* *Solo Leveling* (Volume 2) by Chugong
-* *Laid-Back Camp* (Volume 1) by Afro
-* *Classic German Baking* by Luisa Weiss
+* *I'm Glad My Mom Died* by Jennette McCurdy
 * *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
 
 ## Already read
 
 ### 2024
+* *Frieren* (Volumes 1-4) by Kanehito Yamada
+* *Classic German Baking* by Luisa Weiss
+* *Laid-Back Camp* (Volumes 1-2) by Afro
+* *Solo Leveling* (Volumes 1-2) by Chugong
 * *Der Tag, an dem die Oma das Internet kaputt gemacht hat* (*On The Day Grandma Broke the Internet*) by Marc-Uwe Kling
-* *Solo Leveling* (Volume 1) by Chugong
 * *Digital Minimalism* by Cal Newport
 * *Gregs Tagebuch: Von Idioten umzingelt!* (*Diary of a Wimpy Kid*'s German translation) by Jeff Kinney
 * *Millionaire Next Door* by Thomas J. Stanley and William D. Danko
