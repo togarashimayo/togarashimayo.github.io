@@ -36,10 +36,10 @@ I liked it enough that I also applied the program's principles to my convention 
 
 ### Actually hit A2 German (Jan-Jun)
 
-* Finish the DW Nico's Weg (Way) A1 & A2 courses
-* Finish Duolingo's A2 section
-* Practice German for at least 15 minutes per day
-* Read at least four German manhwa or webtoon chapters per week
+* Finish the DW Nico's Weg (Way) A1 & A2 courses - 0.3
+* Finish Duolingo's A2 section - 0.6
+* Practice German for at least 15 minutes per day - ☑️
+* Read at least four German manhwa or webtoon chapters per week - 0.15
 
 ## 2022 - 2023
 
