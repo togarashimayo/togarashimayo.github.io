@@ -13,21 +13,25 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
+* *Solo Leveling* (Volumes 3) by Chugong
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
 * *Your Money or your Life* by Vicki Robin
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
+* *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
 * *Heidi* (original German version) by Johanna Spyri
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
-* *I'm Glad My Mom Died* by Jennette McCurdy
 * *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
+* *Frieren* (Volume 5) by Kanehito Yamada
+* *Laid-Back Camp* (Volume 3) by Afro
 
 ## Already read
 
 ### 2024
+* *I'm Glad My Mom Died* by Jennette McCurdy
 * *Frieren* (Volumes 1-4) by Kanehito Yamada
 * *Classic German Baking* by Luisa Weiss
 * *Laid-Back Camp* (Volumes 1-2) by Afro
