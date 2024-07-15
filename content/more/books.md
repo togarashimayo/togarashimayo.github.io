@@ -14,6 +14,9 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ### Fictional
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
 * *Solo Leveling* (Volumes 3) by Chugong
+* *Frieren* (Volume 6) by Kanehito Yamada
+* *Laid-Back Camp* (Volume 4) by Afro
+* *The Promised Neverland* (Volume 2) by Kaiu Shirai
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
@@ -25,16 +28,15 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
 * *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
-* *Frieren* (Volume 5) by Kanehito Yamada
-* *Laid-Back Camp* (Volume 3) by Afro
 
 ## Already read
 
 ### 2024
+* *The Promised Neverland* (Volume 2) by Kaiu Shirai
+* *Laid-Back Camp* (Volumes 1-3) by Afro
+* *Frieren* (Volumes 1-5) by Kanehito Yamada
 * *I'm Glad My Mom Died* by Jennette McCurdy
-* *Frieren* (Volumes 1-4) by Kanehito Yamada
 * *Classic German Baking* by Luisa Weiss
-* *Laid-Back Camp* (Volumes 1-2) by Afro
 * *Solo Leveling* (Volumes 1-2) by Chugong
 * *Der Tag, an dem die Oma das Internet kaputt gemacht hat* (*On The Day Grandma Broke the Internet*) by Marc-Uwe Kling
 * *Digital Minimalism* by Cal Newport
