@@ -9,6 +9,15 @@ weight: 50
 
 Greens and Beans is a deli that is well-known among Eat New West members (let alone New West in general), because the owner (hereafter, "Leona") is both an active member and a community pillar. One of the fun things I do each time I show up is to order a soup flight where I prioritize soups I haven't tried yet. 
 
+## 2024-07-13
+
+Dropped by Greens and Beans before heading to the anime art market in North Vancouver. This time, I tasted the:
+
+* **Beef dip** - Generous amount of beef that pairs well with the crusty bread. I'd pay extra to add some green peppers, onions, and some cheese for a "cheesesteak" next time!
+* **Chicken corn chowder** - I prefer thicker chowders, but this is one flavourful and hearty soup. It's also one of my first choices if Leona's lineup involves previously-tried soups. (Leona clarified that while her chowders are thick when making them, they quickly thin out in the warmer!)
+
+Unfortunately, Leona sold all of her strawberry and butterscotch scones when I arrived. I got a cheese scone for $partner but felt that I should have at least tried the raisin scone (as I am already "adventurous" when it comes to Leona's soups). At least there are always more visits for trying such flavours!
+
 ---
 
 ## 2024-06-09
