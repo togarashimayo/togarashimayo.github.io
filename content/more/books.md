@@ -16,13 +16,17 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Solo Leveling* (Volumes 3) by Chugong
 * *Frieren* (Volume 6) by Kanehito Yamada
 * *Laid-Back Camp* (Volume 4) by Afro
-* *The Promised Neverland* (Volume 2) by Kaiu Shirai
+* *The Promised Neverland* (Volume 4) by Kaiu Shirai
+* *Food Wars* (Volume 2) by Yuto Tsukuda
+* *Golden Kamuy (Volume 2) by Satoru Noda
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
 * *Your Money or your Life* by Vicki Robin
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
+* *Lost Boy* by Brent Jeffs
+* *My Berlin Kitchen* by Luisa Weiss
 
 ## Currently 
 * *Heidi* (original German version) by Johanna Spyri
@@ -32,7 +36,9 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Already read
 
 ### 2024
-* *The Promised Neverland* (Volume 2) by Kaiu Shirai
+* *The Promised Neverland* (Volume 1-3) by Kaiu Shirai
+* *Food Wars* (Volume 1) by Yuto Tsukuda
+* *Golden Kamuy (Volume 1) by Satoru Noda
 * *Laid-Back Camp* (Volumes 1-3) by Afro
 * *Frieren* (Volumes 1-5) by Kanehito Yamada
 * *I'm Glad My Mom Died* by Jennette McCurdy
