@@ -14,33 +14,35 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ### Fictional
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
 * *Solo Leveling* (Volumes 3) by Chugong
-* *Frieren* (Volume 6) by Kanehito Yamada
-* *Laid-Back Camp* (Volume 4) by Afro
+* *Frieren* (Volume 8) by Kanehito Yamada
+* *Laid-Back Camp* (Volume 9) by Afro
 * *The Promised Neverland* (Volume 4) by Kaiu Shirai
 * *Food Wars* (Volume 2) by Yuto Tsukuda
-* *Golden Kamuy (Volume 2) by Satoru Noda
+* *Golden Kamuy (Volume 3) by Satoru Noda
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
 * *Your Money or your Life* by Vicki Robin
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
-* *Lost Boy* by Brent Jeffs
-* *My Berlin Kitchen* by Luisa Weiss
 
 ## Currently 
 * *Heidi* (original German version) by Johanna Spyri
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
-* *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
+* *Komi Can't Communicate (Volume 1)* by Tomohito Oda
 
 ## Already read
 
 ### 2024
+* *Frieren* (Volumes 1-7) by Kanehito Yamada
+* *Laid-Back Camp* (Volumes 1-8) by Afro
+* *Urusei Yatsura (Volume 1)* by Rumiko Takahashi
 * *The Promised Neverland* (Volume 1-3) by Kaiu Shirai
+* *My Berlin Kitchen* by Luisa Weiss
+* *Lost Boy* by Brent Jeffs
 * *Food Wars* (Volume 1) by Yuto Tsukuda
-* *Golden Kamuy (Volume 1) by Satoru Noda
-* *Laid-Back Camp* (Volumes 1-3) by Afro
-* *Frieren* (Volumes 1-5) by Kanehito Yamada
+* *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
+* *Golden Kamuy (Volume 2) by Satoru Noda
 * *I'm Glad My Mom Died* by Jennette McCurdy
 * *Classic German Baking* by Luisa Weiss
 * *Solo Leveling* (Volumes 1-2) by Chugong
