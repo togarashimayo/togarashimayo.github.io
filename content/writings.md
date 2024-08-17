@@ -13,6 +13,7 @@ A list of my writings.
 
 Eat New West is a FB group dedicated to documenting people's food adventures in the titular city and in adjacent areas. I'm a member of the group as my hair salon is in New West, and I'd like to find more delicious eats beyond ramen and German food. It is also where I hone my food writing skills, by painting a picture of the places I've been to.
 
+* [Dehl's Gourmet (2024-08-11)](dehls-gourmet)
 * [Passenger Cafe (2024-07-17)](passenger-cafe)
 * [Greens and Beans (multiple visits; most recent post on 2024-07-13)](greens-and-beans)
 * [MunChi (multiple visits; most recent post on 2024-06-22)](munchi)
