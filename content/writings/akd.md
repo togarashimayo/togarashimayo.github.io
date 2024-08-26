@@ -1,3 +1,10 @@
+---
+title: "AKD Kitchen"
+date: 2024-08-25
+menu: "main"
+weight: 50
+---
+
 # AKD Kitchen (2024-08-25)
 
 AKD Kitchen was _the_ ramen spot in New Westminster. It was where I got my first taste of New West eats (courtesy of Jesse and his then-girlfriend, now wife) in 2020, way before Keichoro introduced me to Tannenbaum and I joined Eat New West.

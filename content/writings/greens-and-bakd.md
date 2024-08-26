@@ -1,3 +1,10 @@
+---
+title: "Greens and Beans x BAK'D"
+date: 2024-06-21
+menu: "main"
+weight: 50
+---
+
 # Greens and Beans x BAK'D (2024-06-21)
 
 * *Dave Merrill is the "anime convention friend who seems to be around Leona's age", although he addresses me using the hard "ch" (rather than the soft "ch" like Leona)"*

@@ -1,3 +1,10 @@
+---
+title: "Dehl's Gourmet"
+date: 2024-08-11
+menu: "main"
+weight: 50
+---
+
 # Dehl's Gourmet (2024-08-11)
 
 Dehl's Gourmet is a African restaurant near the Quay.
