@@ -31,7 +31,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (daughter and the "face" of the cafe), Deepa (mom), and Anil (dad) are extreme. 
         * Nush took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
         * I'm impressed with how Nush takes feedback seriously. I made a comment about the pizza bread and how it goes better with marinara sauce (rather than ketchup). She followed up with me in-person during a later visit about why it's unfeasible, before recommending me another dip for that bread.
-    * If you hate tipping, you will love this place. Everyone there (be it Nush, Deepa, Anil, or their hired help) will _always_ bypass the tip screen before handing you the terminal. Try to force a tip into their hands by treating their cup holder demo as a tip jar? They donate everything in that cup to a non-profit that Nush volunteers at.
+    * If you hate tipping, you will love this place. Everyone there (be it Nush, Deepa, Anil, or Jolyna) _always_ bypass the tip screen before handing you the terminal. Treat their cup holder demo as a tip jar? They donate everything in that cup to Mount Pleasant Neighbourhood House, an organization Nush supports.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas.     
     * You'll have to custom request them, but Deepa makes amazing veggie pakoras and rice pudding! 
 
@@ -39,8 +39,6 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 * Petite Bao - An Asian twist on your usual hamburgers (bao burger buns). Love their char siu bao burgers.
 * Mello - Compared to Lee's, I like the texture (soft brioche!) and flavours more. They're also satisfying to have during a train ride to Seattle for Sakura-Con.
     * My favourite flavours are cereal milk and strawberry cream.
-* AKD Kitchen (thank you [Jesse](https://linktr.ee/jbetteridge)!) - Local ramen chain whose miso "ajitama" ramen hits the spot. 
-    * This place was my original post-haircut lunch spot (as my salon is also in DT New West) before Tannenbaum/Mira OHKO'd it out of that spot, but wouldn't mind returning back to meet up with someone. 
 * MunChi - The best pretzels I've had; they're crunchy on the outside yet pillowy on the inside.
 * Greens and Beans (thank you Eat New West) - Almost all of the soups I've had are solid, and they make a yummy shrimp salad for their sandwiches.
 
