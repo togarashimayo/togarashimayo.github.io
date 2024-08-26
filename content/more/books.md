@@ -15,19 +15,19 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
 * *Solo Leveling* (Volumes 4) by Chugong
 * *Frieren* (Volume 9) by Kanehito Yamada
-* *Laid-Back Camp* (Volume 10) by Afro
-* *The Promised Neverland* (Volume 4) by Kaiu Shirai
 * *Food Wars* (Volume 3) by Yuto Tsukuda
-* *Golden Kamuy (Volume 3) by Satoru Noda
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
-* *The Complete Tightwad Gazette* by Amy Dacyczyn
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
 * *Heidi* (original German version) by Johanna Spyri
 * *Your Money or your Life* by Vicki Robin
+* *Laid-Back Camp* (Volume 10) by 
+* *Golden Kamuy (Volume 3) by Satoru Noda
+* *The Promised Neverland* (Volume 4) by Kaiu Shirai
+* *The Complete Tightwad Gazette* by Amy Dacyczyn
 
 ## Already read
 
