@@ -16,6 +16,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Solo Leveling* (Volumes 4) by Chugong
 * *Frieren* (Volume 9) by Kanehito Yamada
 * *Food Wars* (Volume 3) by Yuto Tsukuda
+* *Berserk* (Volumes 4-6) by Kentaro Miura
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
@@ -23,22 +24,23 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ## Currently 
 * *Heidi* (original German version) by Johanna Spyri
-* *Your Money or your Life* by Vicki Robin
-* *Laid-Back Camp* (Volume 10) by 
-* *Golden Kamuy (Volume 3) by Satoru Noda
 * *The Promised Neverland* (Volume 4) by Kaiu Shirai
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
 
 ## Already read
 
 ### 2024
+* *Urusei Yatsura (Volume 1-2)* by Rumiko Takahashi
+* *Golden Kamuy (Volume 3) by Satoru Noda
+* *Your Money or your Life* by Vicki Robin
+* *Laid-Back Camp* (Volume 10) by Afro
+* *Berserk* (Volumes 1-3) by Kentaro Miura
 * *Solo Leveling* (Volumes 1-3) by Chugong
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
 * *Komi Can't Communicate (Volume 1-3)* by Tomohito Oda
 * *Frieren* (Volumes 1-8) by Kanehito Yamada
 * *Laid-Back Camp* (Volumes 1-9) by Afro
 * *Food Wars* (Volume 1-2) by Yuto Tsukuda
-* *Urusei Yatsura (Volume 1)* by Rumiko Takahashi
 * *The Promised Neverland* (Volume 1-3) by Kaiu Shirai
 * *My Berlin Kitchen* by Luisa Weiss
 * *Lost Boy* by Brent Jeffs
