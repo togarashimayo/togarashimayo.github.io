@@ -15,7 +15,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
 * *Solo Leveling* (Volumes 4) by Chugong
 * *Frieren* (Volume 9) by Kanehito Yamada
-* *Food Wars* (Volume 3) by Yuto Tsukuda
 * *Berserk* (Volumes 4-6) by Kentaro Miura
 
 ### Non-Fictional
@@ -26,26 +25,27 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *The Promised Neverland* (Volume 4) by Kaiu Shirai
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
+* *Food Wars* (Volume 3) by Yuto Tsukuda
+* *Kill la Kill* (Volumes 1-2) by Ryo Akizuki and Kazuki Nakashima
+
 
 ## Already read
 
 ### 2024
-* *Urusei Yatsura (Volume 1-2)* by Rumiko Takahashi
-* *Golden Kamuy (Volume 3) by Satoru Noda
+* *Urusei Yatsura (Volumes 1-2)* by Rumiko Takahashi
+* *Golden Kamuy (Volumes 1-3)* by Satoru Noda
 * *Your Money or your Life* by Vicki Robin
-* *Laid-Back Camp* (Volume 10) by Afro
+* *Laid-Back Camp* (Volume 1-10) by Afro
 * *Berserk* (Volumes 1-3) by Kentaro Miura
 * *Solo Leveling* (Volumes 1-3) by Chugong
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
 * *Komi Can't Communicate (Volume 1-3)* by Tomohito Oda
 * *Frieren* (Volumes 1-8) by Kanehito Yamada
-* *Laid-Back Camp* (Volumes 1-9) by Afro
 * *Food Wars* (Volume 1-2) by Yuto Tsukuda
 * *The Promised Neverland* (Volume 1-3) by Kaiu Shirai
 * *My Berlin Kitchen* by Luisa Weiss
 * *Lost Boy* by Brent Jeffs
 * *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
-* *Golden Kamuy (Volume 1-2) by Satoru Noda
 * *I'm Glad My Mom Died* by Jennette McCurdy
 * *Classic German Baking* by Luisa Weiss
 * *Der Tag, an dem die Oma das Internet kaputt gemacht hat* (*On The Day Grandma Broke the Internet*) by Marc-Uwe Kling
