@@ -27,3 +27,4 @@ If you are a local food spot who is part of ENW, don't be afraid to send me an e
 ## Misc
 
 * [How I studied for (and passed) the AWS Certified Cloud Practitioner exam](https://www.reddit.com/r/AWSCertifications/comments/1cirvm5/passed_my_ccpclf02_exam_yesterday/)
+* [Spy x Family S1E3 butter cookies](https://www.reddit.com/r/SpyxFamily/comments/1f7frhn/i_made_the_cookies_from_s1e3/ll7exy6/?context=1)
