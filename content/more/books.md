@@ -12,26 +12,31 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## To read
 
 ### Fictional
-* *Villains are Destined to Die* (Volumes 5-6) by Gwongyeoeul
-* *Solo Leveling* (Volumes 4) by Chugong
+* *Villains are Destined to Die* (Volumes 6) by Gwongyeoeul
+* *Solo Leveling* (Volumes 5) by Chugong
 * *Frieren* (Volume 9) by Kanehito Yamada
 * *Berserk* (Volumes 4-6) by Kentaro Miura
+* *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
+* *Food Wars* (Volume 4) by Yuto Tsukuda
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
+* *Laid-Back Camp* (Volume 11) by Afro
+* *Villains are Destined to Die* (Volumes 5) by Gwongyeoeul
+* *Solo Leveling* (Volumes 4) by Chugong
 * *Heidi* (original German version) by Johanna Spyri
 * *The Promised Neverland* (Volume 4) by Kaiu Shirai
 * *The Complete Tightwad Gazette* by Amy Dacyczyn
-* *Food Wars* (Volume 3) by Yuto Tsukuda
-* *Kill la Kill* (Volumes 1-2) by Ryo Akizuki and Kazuki Nakashima
-
+* *Consider the Fork* by Bee Wilson
 
 ## Already read
 
 ### 2024
+* *Kill la Kill* (Volumes 1-2) by Ryo Akizuki and Kazuki Nakashima
+* *Food Wars* (Volume 1-3) by Yuto Tsukuda
 * *Urusei Yatsura (Volumes 1-2)* by Rumiko Takahashi
 * *Golden Kamuy (Volumes 1-3)* by Satoru Noda
 * *Your Money or your Life* by Vicki Robin
