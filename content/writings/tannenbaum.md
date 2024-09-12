@@ -17,6 +17,20 @@ Please note that:
 
 ---
 
+## 2024-09-08
+
+* *[Bluesky post featuring the drink.](https://bsky.app/profile/did:plc:iigcc7kmuylkxcfnarhzckav/post/3l3m47gvjpa2g)*
+* *My two friends are Jesse Betteridge and Keichoro.*
+* *I asked Mira during my previous visit's post-meal chat about whether she can make me an Eiskaffee "for good money", as it's the best way to make me order a drink. She said that she'd make me one during my next visit, and she sure delivered. (She might make you one if you ask; the worst she could say is "No". Although my chances were higher as I'm one of her regulars who's on good terms with her.)*
+
+Eiskaffee (German ice cream coffee) isn't an official Tannenbaum drink. 
+
+During yesterday's lunch visit, however, Mira made me and two friends her delicious take on that drink using coffee, Apfelstrudel ice cream, Black Forest cake whipped cream, and chocolate syrup.
+
+I also would never have the patience to chill my own coffee and pipe beautiful-looking whipped cream, but that's how our schnitzel saleswoman rolls.
+
+---
+
 ## 2024-05-04
 
 * *"Schnitzel von Mama" (ie. "mom's schnitzel" or "mom schnitzel") is a running [r/SchnitzelVerbrechen](https://www.reddit.com/r/SchnitzelVerbrechen/) joke among the lines of "<mom’s schnitzel is the best>".*
