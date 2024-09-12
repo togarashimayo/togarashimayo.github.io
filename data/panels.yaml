@@ -19,7 +19,7 @@ panels:
   - Sakura-Con 2024
   - Anime North 2024 (ft. Sharleen Sy of HALO HALO)
   - Otakon 2024
-  - SFU x BCIT Summer Festival 2024 (upcoming)
+  - SFU x BCIT Summer Festival 2024
 - title: An Otaku's Guide to Donghua
   rating: 13+
   short_description: A look at Chinese animation (donghua) that resembles anime, plus how Chinese animation overall impacted the Japanese anime industry.
@@ -50,13 +50,13 @@ panels:
   rating: general
   short_description: Love panels? Interested in running your own panels but don’t know where to start? If so Mich Chan of Togarashi Mayo (a former panels coordinator and current experienced amateur panelist) is here to help! Join her as she walks you through how to create your first panel, from ideation to post-panel reflection.
   category: convention meta
-  isActive: true
+  isActive: false
   conventions:
   - Tsukino Matsuri 2023 (as "So you want to run a panel?")
   - Akimatsuri 2023 (ft. Plantastic Cosplay)
   - Vanhoover Pony Expo 2024
   - Tsukino-Con 2024 (ft. Nyanko Pankotanko)
-  - SFU x BCIT Summer Festival 2024 (upcoming as "The pitfalls I've fell into as a panelist")
+  - SFU x BCIT Summer Festival 2024 (as "The pitfalls I've fell into as a panelist")
 - title: Japanese Commercials That (Try To) Make You Laugh
   rating: general
   short_description:  A showcase of some of the funniest and weirdest Japanese commercials, from Mem-Cho squishing mosquitos to Britney Spears selling you candy.
