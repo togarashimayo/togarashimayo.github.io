@@ -8,7 +8,7 @@ weight: 50
 
 ## Within the con circuit
 
-My first experience working with panels was in 2016 while gofering for the big anime con in my city. I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018.
+My first experience working with panels was in 2016 while gofering at Anime Revolution (Anirevo). I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018.
 
 After the Summer 2019 con, it was time to leave the year-round team and make my next move: run my own panels!
 
@@ -27,6 +27,8 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 *"[I do want to give a shout-out to Anime in the Philippines, as it definitely taught me new things, and gave a window into a culture and fandom that I was largely unfamiliar with.](https://ogiuemaniax.com/2023/08/27/tomoyo-the-time-has-come-to-demonstrate-our-power-otakon-2023/)"* - Ogiue Maniax on the panels he saw in part during Otakon 2023.
 
 *"[This was an amazing panel. I hope Mich does this panel more at conventions. Because I would still sit in even though I attended this panel before...I think it's interesting to hear how anime was dealt with in different countries. So I was glad to have checked this out.](https://youtu.be/wQ3a35vXjfE?feature=shared&t=4629)"* - Eri (of Scarlet Rhapsody) on attending Anime in the Philippines at Sakura-Con 2024.
+
+*"[Of the dozen panels this reporter attended over the weekend, Anime In The Philippines was undoubtedly the best. Chan was immensely knowledgeable about the topic and quickly backed her points up with reliable sources and examples. Her delivery was strong, with a wry sense of humor that helped to keep a breezy tone when discussing even the heaviest topics. At the same time, her video clips and visual aids were both exemplary, being relevant and entertaining in equal measure, while helping to elevate the overall subject matter.](https://www.animeherald.com/2024/10/09/otakon-2024-anime-in-the-philippines/)"* - Samantha Ferreira (of Anime Herald) on attending Anime in the Philippines at Otakon 2024.
 
 ### Tools of the trade:
 
@@ -53,4 +55,4 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 * Current residence: Metro Vancouver, British Columbia
 * Favourite characters: Gawr Gura, Anya Forger, Kotori Minami
 * Favourite tea: Murchie's Assam Tippy (thanks Plantastic Cosplay!), sencha
-* Currently watching: [Saving 80,000 Gold in Another World for My Retirement](https://myanimelist.net/anime/52461/Rougo_ni_Sonaete_Isekai_de_8-manmai_no_Kinka_wo_Tamemasu), [Golden Kamuy](https://myanimelist.net/anime/36028/Golden_Kamuy)
+* Currently watching: [Delicious in Dungeon](https://myanimelist.net/anime/52701/Dungeon_Meshi)
