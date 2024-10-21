@@ -34,12 +34,12 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * If you hate tipping, you will love this place. Everyone there (be it Nush, Deepa, Anil, or Jolyna) _always_ bypass the tip screen before handing you the terminal. Treat their cup holder demo as a tip jar? They donate everything in that cup to Mount Pleasant Neighbourhood House, an organization Nush supports.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas.     
     * You'll have to custom request them, but Deepa makes amazing veggie pakoras and rice pudding! 
+* MunChi - The best pretzels I've had; they're crunchy on the outside yet pillowy on the inside.
 
 #### The other good places
 * Petite Bao - An Asian twist on your usual hamburgers (bao burger buns). Love their char siu bao burgers.
 * Mello - Compared to Lee's, I like the texture (soft brioche!) and flavours more. They're also satisfying to have during a train ride to Seattle for Sakura-Con.
     * My favourite flavours are cereal milk and strawberry cream.
-* MunChi - The best pretzels I've had; they're crunchy on the outside yet pillowy on the inside.
 * Greens and Beans (thank you Eat New West) - Almost all of the soups I've had are solid, and they make a yummy shrimp salad for their sandwiches.
 
 #### The honourable mentions
@@ -101,7 +101,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 ### Austria
 
 * Bärenwirt (Salzburg) - Rustic restaurant with the best Käsespätzle (cheese pasta) that I've ever had. 
-* Coffee Mirabelle (Salzburg) - Coffee shop offering delicious Salzburger Nockerl.
+* Mirabell Coffee Bar (Salzburg) - Coffee shop offering delicious Salzburger Nockerl.
 * Leberkas Papi (Vienna) - I recommend the classic inside a roll with some sweet mustard.
 * Schnitzelwirt (Vienna) - Worth waiting in line for!
 
