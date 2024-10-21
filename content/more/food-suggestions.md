@@ -87,6 +87,24 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 * Ben's Chili Bowl (thank you [Mike](https://twitter.com/MichaelToole/status/1552428310067662850)!)
 * Captain Cookie and the Milkman
 
+## Europe
+
+### Germany
+
+* Cafe König (Baden-Baden) - The best Black Forest cake I had!
+* Die Tafeldecker in der Fuggerei (Augsburg) - Maultaschen fried like a gyoza.
+* Andy's Krablergarten (Munich) - Don't underestimate the portions.
+* Kebap with Attitude (Berlin) - Modernized Döner
+* Prater Garden (Berlin) - Get their Königsberger Klopse (meatballs)!
+* Baeckerei Siebert (Berlin) - Berlin's answer to Mello.
+
+### Austria
+
+* Bärenwirt (Salzburg) - Rustic restaurant with the best Käsespätzle (cheese pasta) that I've ever had. 
+* Coffee Mirabelle (Salzburg) - Coffee shop offering delicious Salzburger Nockerl.
+* Leberkas Papi (Vienna) - I recommend the classic inside a roll with some sweet mustard.
+* Schnitzelwirt (Vienna) - Worth waiting in line for!
+
 ## Asia
 
 ### Philippines
