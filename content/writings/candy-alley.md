@@ -7,7 +7,7 @@ weight: 50
 
 # Candy Alley (2024-04-10)
 
-Candy Alley is a local candy store in Downtown New West. The owner (hereafter, "Sheryl") is a massive trip!
+Candy Alley was a local candy store in Downtown New West. The owner (hereafter, "Sheryl") is a massive trip!
 
 ---
 
