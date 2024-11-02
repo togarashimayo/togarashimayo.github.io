@@ -13,6 +13,7 @@ A list of my writings.
 
 Eat New West is a FB group dedicated to documenting people's food adventures in the titular city and in adjacent areas. I'm a member of the group as my hair salon is in New West, and I'd like to find more delicious eats beyond ramen and German food. It is also where I hone my food writing skills, by painting a picture of the places I've been to.
 
+* [Big Way (2024-11-01)](big-way)
 * [Kioku Cafe + Dining (2024-10-19)](kioku)
 * [The Tannenbaum (multiple visits; most recent post on 2024-09-08)](tannenbaum)
 * [AKD Kitchen (2024-08-25)](akd)
