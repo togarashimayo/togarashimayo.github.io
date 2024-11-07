@@ -18,6 +18,8 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 1. The panel is enjoyable yet educational for those new to the subject matter.
 2. The veterans gain a new perspective on concepts they're familiar with.
 
+### What are people saying about my work?
+
 *"[[Otaku's Guide to] Donghua. Little did the presenter know, I was doing market research!!](https://twitter.com/MichaelToole/status/1554256205903790080)"* - Mike Toole when prompted about some of the best Otakon 2022 fan panels he saw.
 
 *"[A newcomer panel, an Otaku's Guide to Donghua, was a pleasant surprise. While there were some technical difficulties [involving a missing script], the panelist was knowledgeable and entertaining.](https://old.reddit.com/r/Otakon/comments/wdp3vc/panel_feedback/iik5awf/)"* - an r/Otakon user when prompted about "exceptional or fun" panels at Otakon 2022.
