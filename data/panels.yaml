@@ -85,6 +85,12 @@ panels:
   notes:
   - Manga Planet covered this panel as part of their Anime North Online recap.
   - I've put this panel on indefinite hiatus, until I can find a way to turn it into a 60-minute panel while generalizing the content to "tie-in products for any video game in general". Sonic curry, anyone?
+- title: "Eat Ostania: The Food of Spy x Family (Season 1)"
+  rating: 13+
+  short_description: While not really a food anime, Spy x Family showcases plenty of mouth-watering food along with the usual Forger family shenanigans. Come join Mich Chan as she highlights the dishes featured in the show's first season, including how you can make them yourself at home. 
+  isActive: true
+  conventions:
+  - Akimatsuri 2024 (upcoming)
 
 retired_panels:
 - title: Fans in the Professional Workplace
