@@ -32,19 +32,27 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 
 *"[Of the dozen panels this reporter attended over the weekend, Anime In The Philippines was undoubtedly the best. Chan was immensely knowledgeable about the topic and quickly backed her points up with reliable sources and examples. Her delivery was strong, with a wry sense of humor that helped to keep a breezy tone when discussing even the heaviest topics. At the same time, her video clips and visual aids were both exemplary, being relevant and entertaining in equal measure, while helping to elevate the overall subject matter.](https://www.animeherald.com/2024/10/09/otakon-2024-anime-in-the-philippines/)"* - Samantha Ferreira (of Anime Herald) on attending Anime in the Philippines at Otakon 2024.
 
-### Tools of the trade:
+### Gear
+
+**Panel creation**:
 
 * Presentation software - Microsoft PowerPoint
-* Video presentation software - 4K Video Downloader, OBS, and ClipChamp
+* Video downloading and creation software - 4K Video Downloader, OBS, and ClipChamp
 * Subtitles - Aegisub and Handbrake
 * Graphic design - Figma (title cards and closing bumpers) and Waifu2x
 * Research + Ideation - Notion (previously used OneNote)
 * Panel-running device - Microsoft Surface Pro 8 (256 GB)
 * Website updates - GitHub and Visual Studio Code (no extensions at this time)
 
+**Cooking**:
+
+* Chef's knife - Dalstrong Gladiator 8"
+* Paring knife - Wüsthof Classic utility knife 4"
+* Bread knife - Victornoix 7" (wooden handle)
+
 ## ...and out of it
 
-* I studied software development and currently work as a (junior) full-stack software developer, with goals of both becoming an intermediate back-end developer and netting the respective AWS associate Solutions Architect and Developer certifications. While my website isn't hosted on AWS (overkill!), having this background is a big help in designing, developing, and maintaining this website, as I have complete control over the site's looks and functionality without paying extra to (say) Wordpress. You can check this site's code [here](https://github.com/togarashimayo/togarashimayo.github.io). 
+* I studied software development and currently work as a back-end developer, with goals of both furthering my domain knowledge while earning the respective AWS associate Solutions Architect and Developer certifications. While my website isn't hosted on AWS (overkill!), having this background is a big help in designing, developing, and maintaining this website, as I have complete control over the site's looks and functionality without paying extra to (say) Wordpress. You can check this site's code [here](https://github.com/togarashimayo/togarashimayo.github.io). 
 * I love food, be it cooking, baking, trying out new places (...and writing about some of those places). Check out [my favourite food spots here](/more/food-suggestions)!
 * My native language is English, so you'll hear me speak with a Western Canadian accent. I'm also currently learning German thanks to (my now-buddy) [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social) making [this guy](https://www.youtube.com/watch?v=YKSaAeyWCeM) a character in his New Year's Eve 2021 [Anime Hell](https://www.facebook.com/animehelltheevent) online clip show. If I'm going to let Dave make that guy live rent-free in my head, I might as well pick up the language and understand the corresponding culture. (I mention the guy to Germans while explaining why I'm learning the language. Their faces are priceless.)
     * I'm also afraid to say that I am a fast talker in some situations (...and in both English and German). Still working on pacing my speed, however!
