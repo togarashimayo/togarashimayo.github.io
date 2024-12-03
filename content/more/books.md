@@ -12,42 +12,24 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## To read
 
 ### Fictional
-* *Villains are Destined to Die* (Volumes 6) by Gwongyeoeul
-* *Solo Leveling* (Volumes 5) by Chugong
-* *Frieren* (Volume 9) by Kanehito Yamada
-* *Berserk* (Volumes 4-6) by Kentaro Miura
-* *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
-* *Food Wars* (Volume 4) by Yuto Tsukuda
+* *Heidi* (original German version) by Johanna Spyri
+* *The Hunger Games: Sunrise on the Reaping* by Suzanne Collins
 
 ### Non-Fictional
 * *Stop Acting Rich* by Thomas J. Stanley
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
-* *Laid-Back Camp* (Volume 11) by Afro
-* *Villains are Destined to Die* (Volumes 5) by Gwongyeoeul
-* *Solo Leveling* (Volumes 4) by Chugong
-* *Heidi* (original German version) by Johanna Spyri
-* *The Promised Neverland* (Volume 4) by Kaiu Shirai
-* *The Complete Tightwad Gazette* by Amy Dacyczyn
-* *Consider the Fork* by Bee Wilson
+None at this time
 
 ## Already read
 
 ### 2024
-* *Kill la Kill* (Volumes 1-2) by Ryo Akizuki and Kazuki Nakashima
-* *Food Wars* (Volume 1-3) by Yuto Tsukuda
-* *Urusei Yatsura (Volumes 1-2)* by Rumiko Takahashi
-* *Golden Kamuy (Volumes 1-3)* by Satoru Noda
+* *ADHD Pro* by Robert Merki
+* *The Complete Tightwad Gazette* by Amy Dacyczyn
+* *Consider the Fork* by Bee Wilson
 * *Your Money or your Life* by Vicki Robin
-* *Laid-Back Camp* (Volume 1-10) by Afro
-* *Berserk* (Volumes 1-3) by Kentaro Miura
-* *Solo Leveling* (Volumes 1-3) by Chugong
 * *Gregs Tagebuch: Gibt’s Probleme?* (*Diary of a Wimpy Kid: Rodrick Rules*'s German translation) by Jeff Kinney
-* *Komi Can't Communicate (Volume 1-3)* by Tomohito Oda
-* *Frieren* (Volumes 1-8) by Kanehito Yamada
-* *Food Wars* (Volume 1-2) by Yuto Tsukuda
-* *The Promised Neverland* (Volume 1-3) by Kaiu Shirai
 * *My Berlin Kitchen* by Luisa Weiss
 * *Lost Boy* by Brent Jeffs
 * *On Cooking: A Textbook of Culinary Fundamentals* by Sarah Labensky
@@ -58,7 +40,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Gregs Tagebuch: Von Idioten umzingelt!* (*Diary of a Wimpy Kid*'s German translation) by Jeff Kinney
 * *Millionaire Next Door* by Thomas J. Stanley and William D. Danko
 * *Klara and the Sun* by Kazuo Ishiguro
-* *Villains are Destined to Die* (Volumes 1-4) by Gwongyeoeul
 * *The 4-Hour Workweek* by Tim Ferriss
 * *Guns, Germs, and Steel* by Jared Diamond
 * *World on Fire* by Amy Chua
