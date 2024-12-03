@@ -90,7 +90,7 @@ panels:
   short_description: While not really a food anime, Spy x Family showcases plenty of mouth-watering food along with the usual Forger family shenanigans. Come join Mich Chan as she highlights the dishes featured in the show's first season, including how you can make them yourself at home. 
   isActive: true
   conventions:
-  - Akimatsuri 2024 (upcoming)
+  - Akimatsuri 2024
 
 retired_panels:
 - title: Fans in the Professional Workplace
@@ -135,7 +135,7 @@ retired_panels:
   rating: 13+
   short_description: A look at anime set in or heavily inspired by Germany (...plus Austria and Switzerland, forming the "DACH region"), along with how the country influenced Japanese culture and society.
   category: anime
-  retirement_reason: "More interested in doing panels that each zoom in on a specific aspect of German culture; replaced with the upcoming \"Eat Ostania: The Food of Spy x Family\" series."
+  retirement_reason: "More interested in doing panels that each zoom in on a specific aspect of German culture; replaced with the \"Eat Ostania: The Food of Spy x Family\" series."
   isActive: false
   conventions:
   - Akimatsuri 2022
