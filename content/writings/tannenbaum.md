@@ -7,13 +7,31 @@ weight: 50
 
 # The Tannenbaum
 
-*"Do you want me to drive to Save-On Foods?"* - the owner (hereafter, "Mira") when telling a table that she's out of black forest cake.
+*"Do you want me to drive to Save-On Foods?"* - the owner (hereafter, "Mira") when telling a table that she's out of Black Forest cake.
 
-If you know me personally, follow me on social media, or attended the first few minutes of _Anime in the Philippines_ at Sakura-Con or Otakon 2024, you might know that I ~~stan~~ like this German restaurant very much. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a repeat (and then a regular) customer after I did a walk-in two months later.
+If you know me personally, follow me on social media (be it through Eat New West or my public-facing accounts), or attended the first few minutes of _Anime in the Philippines_ starting with Sakura-Con 2024, you might know that I ~~stan~~ like this restaurant very much enough that it may as well be a running gag. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a repeat (and then a regular) customer after I did a walk-in two months later.
 
 Please note that:
 1. I don't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
 2. Anything in arrow brackets is in German.
+
+---
+
+## 2024-12-13
+
+* *[Bluesky post featuring the food](https://bsky.app/profile/togarashimayo.com/post/3lcqwpsnsss2m)*
+* *I pulled a reverse "[White guy orders in Mandarin](https://www.youtube.com/watch?v=njn6krU3tQ8)" on Mira during my first visit by ordering my food in German ("<The Jägerpfanne and the potatoes please>").*
+* *Yes, it's "Alpen Club" and not "Alpen Haus" (brain fart)*
+
+To celebrate hitting my (then-almost) one year of regularly showing up to that restaurant, I returned to Tannenbaum with my half-German friend Zerogouki (again!) last Saturday for lunch.
+
+I had the Jägerpfanne and the (fried) potatoes, which was what I ordered during my first visit last year...in German. They're like my previous visits: it's Mira Mendes; you know what you will get and they're solid. If you know, you know. If not...
+
+You will order your food and be forced to let Mira (pretend to) be your mom during your visit, which does include her playfully teasing you. It doesn't matter if you're older than her or hate being teased. It's part of the contract; you will accept both that teasing and Mira as your temporary mother figure.
+
+If you're getting the Jägerpfanne like me, the spätzle should be equally crispy and soft. There are exactly two pieces of tender pork and several pieces of canned-looking sliced mushrooms. The sauce is hot but won't burn your tongue. It's the dish that warms you up on a cold or rainy day, and it will be incredible.
+
+Unfortunate to hear that someone stole one of her bathroom signs, based on one conversation she had (in German) with one of her former Alpen Haus colleagues. Hope she can find a replacement (or even better, the sign and the culprit).
 
 ---
 
