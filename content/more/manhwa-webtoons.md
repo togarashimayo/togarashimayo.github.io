@@ -18,9 +18,9 @@ Kudos to:
 ## To read
 
 ### Manga
-* *Delicious in Dungeon* by Ryoko Kui
+* *Delicious in Dungeon (Volume 2)* by Ryoko Kui
 * *Frieren* (Volume 9) by Kanehito Yamada
-* *Berserk* (Volumes 4-6) by Kentaro Miura
+* *Berserk* (Volumes 7-9) by Kentaro Miura
 * *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
 * *Food Wars* (Volume 4) by Yuto Tsukuda
 
@@ -49,13 +49,14 @@ None at this time!
 ## Paused
 
 ### Manga
+* *Berserk* (Volumes 1-6) by Kentaro Miura
+* *Delicious in Dungeon* by Ryoko Kui
 * *Golden Kamuy* (Volumes 1-4) by Satoru Noda
 * *Laid-Back Camp* (Volume 1-11) by Afro
 * *The Promised Neverland* (Volume 1-4) by Kaiu Shirai
 * *Kill la Kill* (Volumes 1-2) by Ryo Akizuki and Kazuki Nakashima
 * *Food Wars* (Volume 1-3) by Yuto Tsukuda
 * *Urusei Yatsura* (Volumes 1-2) by Rumiko Takahashi
-* *Berserk* (Volumes 1-3) by Kentaro Miura
 * *Komi Can't Communicate* (Volume 1-3) by Tomohito Oda
 * *Frieren* (Volumes 1-8) by Kanehito Yamada
 
