@@ -24,8 +24,7 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
         * “That is so good!” - Tsukino-Con's panel coordinator, as he walked past by me taking a bite out of that cookie during the 2024 con.
     * This is where I took my _Donghua_ [intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3kkujntu26k25), thanks to Greg.
 * The Tannenbaum Restaurant ("Tannenbaum"; vielen Dank [Keichoro](https://www.instagram.com/keichoro03/)!) - Homestyle German fare with the most extreme customer service I’ve seen in my life going to restaurants.
-    * This is the best clue-in that I've received. I've been _dying_ to check out this place since Keichoro posted [his birthday meal on Instagram](https://www.instagram.com/p/Cx9gKG0Lt9m/?img_index=1), and I'm glad that Mira (the owner) made it worth the two-month wait...AUF DEUTSCH!
-    * My go-to is a Wiener Schnitzel and a black forest cake. I've also enjoyed the Jägerpfanne, the cheesecake, the rouladen, the shrimp croissant, and the seasonal turkey meal.
+    * I've documented this restaurant a couple times on Eat New West. I've also mirrored the posts on my website, considering that the group is members only.
     * While Mira wasn't the photographer, I took [my _Anime in the Philippines_ intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3kxjnp2byci2k) in her restaurant.
 * Butterfly Tea & Dessert ("Butterfly") - K-Pop inspired bubble tea place that's cheaper than what the chains offer.
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (daughter and the "face" of the cafe), Deepa (mom), and Anil (dad) are extreme. 
@@ -34,13 +33,13 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * If you hate tipping, you will love this place. Everyone there (be it Nush, Deepa, Anil, or Jolyna) _always_ bypass the tip screen before handing you the terminal. Treat their cup holder demo as a tip jar? They donate everything in that cup to Mount Pleasant Neighbourhood House, an organization Nush supports.
     * Thanks to their vast menu and ever-changing specials, I don't have a specific go-to although I lean more towards their fruity teas.     
     * You'll have to custom request them, but Deepa makes amazing veggie pakoras and rice pudding! 
-* MunChi - The best pretzels I've had; they're crunchy on the outside yet pillowy on the inside.
+* MunChi - The best pretzels I've had; they're crunchy on the outside yet pillowy on the inside. I like the Flammkuchen pretzels.
 
 #### The other good places
 * Petite Bao - An Asian twist on your usual hamburgers (bao burger buns). Love their char siu bao burgers.
 * Mello - Compared to Lee's, I like the texture (soft brioche!) and flavours more. They're also satisfying to have during a train ride to Seattle for Sakura-Con.
     * My favourite flavours are cereal milk and strawberry cream.
-* Greens and Beans (thank you Eat New West) - Almost all of the soups I've had are solid, and they make a yummy shrimp salad for their sandwiches.
+* Greens and Beans (thank you Eat New West) - Almost all of the soups and scones I've had are solid, and they make a yummy shrimp salad for their sandwiches.
 
 #### The honourable mentions
 * Notch8's brunch buffet - It's your typical upscale brunch buffet so you know what to expect. But my mom's side of the family and I are huge fans of both Raluca and Adrian; they're super entertaining and Notch8 is lucky to have them as servers!
@@ -95,25 +94,20 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
 * Die Tafeldecker in der Fuggerei (Augsburg) - Maultaschen fried like a gyoza.
 * Andy's Krablergarten (Munich) - Don't underestimate the portions.
 * Kebap with Attitude (Berlin) - Modernized Döner
-* Prater Garden (Berlin) - Get their Königsberger Klopse (meatballs)!
-* Baeckerei Siebert (Berlin) - Berlin's answer to Mello.
+* Prater Garten (Berlin) - Get their Königsberger Klopse (meatballs)!
+* Bäckerei Siebert (Berlin) - Berlin's answer to Mello.
 
 ### Austria
 
 * Bärenwirt (Salzburg) - Rustic restaurant with the best Käsespätzle (cheese pasta) that I've ever had. 
 * Mirabell Coffee Bar (Salzburg) - Coffee shop offering delicious Salzburger Nockerl.
-* Leberkas Papi (Vienna) - I recommend the classic inside a roll with some sweet mustard.
+* Leberkas Pepi (Vienna) - I recommend the classic inside a roll with some sweet mustard.
 * Schnitzelwirt (Vienna) - Worth waiting in line for!
 
 ## Asia
 
 ### Philippines
 
-#### Metro Manila
-
-* The UCC cafes (specifically Clockwork at Ayala Vertis North)
-* Bizu (high tea)
-
-#### Metro Cebu
-
-* Ginza
+* The UCC cafes (specifically Clockwork at Ayala Vertis North; Manila)
+* Bizu (high tea; Manila)
+* Ginza (Cebu)
