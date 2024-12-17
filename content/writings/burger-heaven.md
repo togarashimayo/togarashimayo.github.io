@@ -10,7 +10,6 @@ weight: 50
 Burger Heaven is a burger place known for its thicc burgers.
 
 * *If you look at the Burger Heaven menu, the teriyaki burger has a line about how it's "Miss Piggy's Favourite" without providing context.*
-* *I originally had a line about how I would recommend this place to people who I dislike, because of the burgers' size. The admins, however, pointed out that it violates one of their rules and asked me to remove it.*
 
 Still better late than never, but I finally visited Burger Heaven for their burgers with $partner and Sheryl Laine last week (2024-11-19).
 
