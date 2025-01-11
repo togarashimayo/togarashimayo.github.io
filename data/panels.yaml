@@ -20,11 +20,12 @@ panels:
   - Anime North 2024 (ft. Sharleen Sy of HALO HALO)
   - Otakon 2024
   - SFU x BCIT Summer Festival 2024
+  - Tsukino-Con 2025
 - title: An Otaku's Guide to Donghua
   rating: 13+
   short_description: A look at Chinese animation (donghua) that resembles anime, plus how Chinese animation overall impacted the Japanese anime industry.
   category: anime
-  isActive: true
+  isActive: false
   notes: 
   - 'I previously ran this panel as "Those Chinese Cartoons" before Anime North: Stay at Home Edition.'
   - I also discuss barriers to watching donghua, along with the CCP's role in the Chinese animation industry.
@@ -91,6 +92,13 @@ panels:
   isActive: true
   conventions:
   - Akimatsuri 2024
+  - 'Tsukino-Con 2025 (as "The Food of Spy x Family: S1"; upcoming)'
+- title: "Senshi's Cookbook: The Food of Delicious in Dungeon (Ep 1-4)"
+  rating: 13+
+  short_description: Ever read or watched Dungeon Meshi (Delicious in Dungeon) where Senshi's cooking makes you hungry for the real deal? Join Mich Chan as she tries to adapt his recipes from the first four episodes (...plus more?) for your kitchen at home!
+  isActive: true
+  conventions:
+  - 'Tsukino-Con 2025 (as "The Food of Dungeon Meshi: E1-4"; upcoming)'
 
 retired_panels:
 - title: Fans in the Professional Workplace
