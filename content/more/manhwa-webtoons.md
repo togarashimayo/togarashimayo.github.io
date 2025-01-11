@@ -19,10 +19,9 @@ Kudos to:
 
 ### Manga
 * *Delicious in Dungeon (Volume 2)* by Ryoko Kui
-* *Frieren* (Volume 9) by Kanehito Yamada
 * *Berserk* (Volumes 7-9) by Kentaro Miura
 * *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
-* *Food Wars* (Volume 4) by Yuto Tsukuda
+* *Food Wars* (Volume 6) by Yuto Tsukuda
 
 ### Manhwa
 * *Goong*
@@ -38,15 +37,22 @@ Kudos to:
 ## Currently reading
 
 ### Manga
-None at this time!
+* *Frieren* (Volume 9) by Kanehito Yamada
 
 ### Manhwa
-* *Villains are Destined to Die* (Volume 5) by Gwongyeoeul
-* *Solo Leveling* (Volume 4) by Chugong
-* *+99 Wooden Stick*'s German translation
-* *Wie die Mutter, so die Tochter* (*Like Mother, Like Daughter*'s German translation)
+None right now
 
 ## Paused
+* *Remarried Empress*
+* *+99 Wooden Stick*'s German translation
+* *Wie die Mutter, so die Tochter* (*Like Mother, Like Daughter*'s German translation)
+* All of Us Are Dead
+* +99 Wooden Stick
+* 50 Tea Recipes from the Duchess
+* The Girl Downstairs
+* Cursed Princess Club
+
+## 2024
 
 ### Manga
 * *Berserk* (Volumes 1-6) by Kentaro Miura
@@ -55,19 +61,14 @@ None at this time!
 * *Laid-Back Camp* (Volume 1-11) by Afro
 * *The Promised Neverland* (Volume 1-4) by Kaiu Shirai
 * *Kill la Kill* (Volumes 1-2) by Ryo Akizuki and Kazuki Nakashima
-* *Food Wars* (Volume 1-3) by Yuto Tsukuda
+* *Food Wars* (Volume 1-5) by Yuto Tsukuda
 * *Urusei Yatsura* (Volumes 1-2) by Rumiko Takahashi
 * *Komi Can't Communicate* (Volume 1-3) by Tomohito Oda
 * *Frieren* (Volumes 1-8) by Kanehito Yamada
 
 ### Manhwa
-* *Solo Leveling* (Volumes 1-3) by Chugong
-* *Remarried Empress*
-* All of Us Are Dead
-* +99 Wooden Stick
-* 50 Tea Recipes from the Duchess
-* The Girl Downstairs
-* Cursed Princess Club
+* *Villains are Destined to Die* (Volume 1-5) by Gwongyeoeul
+* *Solo Leveling* (Volumes 1-4) by Chugong
 
 ## 2023
 

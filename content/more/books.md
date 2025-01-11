@@ -20,7 +20,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
-None at this time
+* *Classic German Cooking* by Luisa Weiss
 
 ## Already read
 
