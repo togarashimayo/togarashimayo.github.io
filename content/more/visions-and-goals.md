@@ -11,28 +11,32 @@ My former workplace has a self-improvement program called "Visions and goals". W
 
 I liked it enough that I also applied the program's principles to my convention life, although my way of staying accountable is by publishing my visions (and goals) on my public-facing sites and profiles. 
 
+## 2024 - 2025
+
+TBD
+
 ## 2023 - 2024
 
 ### Reduce the backlog (Jan-Aug)
 
-* Complete and run two backlogged panels from 2020 or older
-* Complete and run two backlogged panels from 2021-2022
-* Complete and run a backlogged panel from 2023
-* Konmari my backlog every month
+* Complete and run two backlogged panels from 2020 or older - 0.5 (Hunger Games vs. Battle Royale)
+* Complete and run two backlogged panels from 2021-2022 - 0
+* Complete and run a backlogged panel from 2023 - 0
+* Konmari my backlog every month - 0.5
 
 ### Toga Mayo ops (Jan-Aug)
 
 ☑️ Design and order my physical business cards
-* Commission a new PFP of my IRL self
-* Convert _Congoing on a Budget_ into a guide
-* Convert _Panelling for Dummies_ into a guide
+* Commission a new PFP of my IRL self - 0.5
+* Convert _Congoing on a Budget_ into a guide - 0.33
+* Convert _Panelling for Dummies_ into a guide - 0.4
 
 ### Upskill within and beyond the con circuit (Jan-Dec)
 
-* Obtain my AWS Certified Developer (Associate) credential
-* Take a Udemy or LinkedIn Learning course on slide design
-* Take a Udemy course on improv or presentation skills
-* Complete Tim Buchalka's Java 17 Masterclass Udemy course
+* Obtain my AWS Certified Developer (Associate) credential - 0.44
+* Take a Udemy or LinkedIn Learning course on slide design - 0
+* Take a Udemy course on improv or presentation skills - 0
+* Complete Tim Buchalka's Java 17 Masterclass Udemy course - 0.78
 
 ### Actually hit A2 German (Jan-Jun)
 
