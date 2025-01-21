@@ -20,8 +20,7 @@ Kudos to:
 ### Manga
 * *Delicious in Dungeon (Volume 2)* by Ryoko Kui
 * *Berserk* (Volumes 7-9) by Kentaro Miura
-* *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
-* *Food Wars* (Volume 6) by Yuto Tsukuda
+* *Food Wars* (Volume 7) by Yuto Tsukuda
 
 ### Manhwa
 * *Goong*
@@ -37,7 +36,7 @@ Kudos to:
 ## Currently reading
 
 ### Manga
-* *Frieren* (Volume 9) by Kanehito Yamada
+* *Urusei Yatsura* (Volume 3) by Rumiko Takahashi
 
 ### Manhwa
 None right now
@@ -51,6 +50,13 @@ None right now
 * 50 Tea Recipes from the Duchess
 * The Girl Downstairs
 * Cursed Princess Club
+
+## 2025
+
+### Manga
+* *Kill la Kill* (Volumes 1-3) by Ryo Akizuki and Kazuki Nakashima
+* *Food Wars* (Volume 6) by Yuto Tsukuda
+* *Frieren* (Volume 9) by Kanehito Yamada
 
 ## 2024
 

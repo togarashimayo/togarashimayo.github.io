@@ -20,9 +20,13 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
-* *Classic German Cooking* by Luisa Weiss
+None right now!
 
 ## Already read
+
+### 2025
+* *The Mirage* by Matt Ruff
+* *Classic German Cooking* by Luisa Weiss
 
 ### 2024
 * *ADHD Pro* by Robert Merki
