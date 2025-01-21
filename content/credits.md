@@ -11,7 +11,7 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 ## Copanelists
 
-**_Donghua_:** [KuroRaiden](https://twitter.com/KuroRaiden/)
+**_Donghua_:** [Wesson Grey](https://www.twitch.tv/ProjectWessonGrey)
 
 **_Anime in the Philippines_:** [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/)
 
@@ -33,7 +33,7 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 ## <3
 
-**Now-alumni prep team members:** [KuroRaiden](https://twitter.com/KuroRaiden/), [Plantastic Cosplay](https://plantastic.picobin.com/), Evil_Edie, [Thezeus18](https://twitter.com/imcyaal)
+**Now-alumni prep team members:** [Wesson Grey](https://www.twitch.tv/ProjectWessonGrey), [Plantastic Cosplay](https://plantastic.picobin.com/), Evil_Edie, [Thezeus18](https://twitter.com/imcyaal)
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels), Tsukino-Con Programming, [Vancouver Anime Convention Society](https://animeevolution.com/), [MunChi](https://www.munichchildfoods.com/ "I've been getting more into food writing, and I appreciate that Amelie was cool with me letting me use her business to help hone that skill.")
 
