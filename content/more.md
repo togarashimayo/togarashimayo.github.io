@@ -13,5 +13,5 @@ Bits and pieces that don't belong in my bio nor my panel catalog.
 * [Intro to Manhwa list - Otakon 2023](../more/intro-to-manhwa-list)
 * [Other Mich Chans](../more/other-mich-chans)
 * [Books I've read](../more/books)
-* [Manhwa and webtoons I've read](../more/manhwa-webtoons)
+* [Manga, manhwa, and webtoons I've read](../more/manga-manhwa-webtoons)
 * [Credits](/credits)

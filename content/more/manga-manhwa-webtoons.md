@@ -54,7 +54,7 @@ None right now
 ## 2025
 
 ### Manga
-* *Kill la Kill* (Volumes 1-3) by Ryo Akizuki and Kazuki Nakashima
+* *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
 * *Food Wars* (Volume 6) by Yuto Tsukuda
 * *Frieren* (Volume 9) by Kanehito Yamada
 
