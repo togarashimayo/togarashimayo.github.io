@@ -21,7 +21,9 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 ## Operations
 
-**Training and mentorship:** [Jesse Betteridge](https://linktr.ee/jbetteridge "Jesse regularly advises me with creating and deploying panels.") of [Zannen, Canada](http://zannen.ca) and [Jarvis Gray](http://twitter.com/Road_Buster84 "Jarvis showed me the ropes of running my own panels during my last few weeks at Anirevo in 2019.") (CW: NSFW content)
+**Panel-related training and mentorship:** [Jesse Betteridge](https://linktr.ee/jbetteridge "Jesse regularly advises me with creating and deploying panels.") of [Zannen, Canada](http://zannen.ca) and [Jarvis Gray](http://twitter.com/Road_Buster84 "Jarvis showed me the ropes of running my own panels during my last few weeks at Anirevo in 2019.") (CW: NSFW content)
+
+**Public-facing profile picture:** [yuumocha](https://www.instagram.com/mochachinoillust/)
 
 **Uniform hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
