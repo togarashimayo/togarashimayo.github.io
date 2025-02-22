@@ -16,8 +16,8 @@ A list of my recipes mentioned in my panels.
 * [Yuri's spread](yuris_spread)
 * [Yor's stew](yors_stew)
 * [Loid's hambagu](hambagu)
-* [Caramel nut cake for Yor](nut_cake)
-* [Apple tart for Anya](apple_tart)
+* [Caramel nut cake for Anya](nut_cake)
+* [Apple tart for Yor](apple_tart)
 
 ## Senshi's Cookbook: The Food of Delicious in Dungeon (E1-4)
 
