@@ -41,7 +41,7 @@ weight: 50
 ### Filling
 1. Add lemon juice to a large bowl. 
 2. Peel, core, and cut the apples into thin slices. 
-3. Toss the apples in the juice. This prevents the apples from browning. Take the chilled dough in the muffin tin out of the fridge and arrange the apples into a single layer in each tin. Sprinkle with one tablespoon of sugar and top the apples with small pieces of butter evenly distributed.
+3. Toss the apples in the juice. This prevents the apples from browning.
 
 ### Putting it all together
 1. Fill each tart shell with the apples.
