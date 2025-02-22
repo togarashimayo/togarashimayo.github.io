@@ -56,5 +56,6 @@ A massive thank you to Anakbayan Surrey for being my taste testers.
 ### Notes
 
 * If you're like me, you can use butter wrappers to grease your pans.
+* I used chocolate chips from Costco.
 * You must use a glass or metal bowl without any traces of fat on it to make the meringue. Otherwise, your meringue won't whip!
-* You must eat 
+* You must eat this with a fork, as the cake is too light to be picked up by hand and eaten like finger food.
