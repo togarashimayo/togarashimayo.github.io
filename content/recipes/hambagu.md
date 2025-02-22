@@ -74,6 +74,9 @@ weight: 50
 1. Cut your washed potatoes into wedges.
 2. Par-boil the potatoes by putting them in a pot of cold water. Bring that to a boil and immediately remove from heat.
 3. Dice the onion into 1/4 inch pieces.
+4. Heat fats on medium heat in a large frying pan. When heated, add the onions and saute until transparent. Remove the onions from the pan.
+5. Add in the potato wedges and repeatedly toss the potatoes until crispy.
+6. Re-add the onions and toss to combine.
 
 ### Veggies
 
