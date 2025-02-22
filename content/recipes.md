@@ -7,10 +7,10 @@ weight: 50
 
 # Recipes
 
-A list of my recipes mentioned in my panels.
+A list of my recipes mentioned in my panels. A massive thank you to [Kittea](https://bsky.app/profile/kittea.bsky.social) for her Tsukino-Con 2025 feedback about uploading these recipes (which I can turn into QR codes) + adding the corresponding QR codes to my panels.
 
 ## Eat Ostania: Food of Spy x Family (S1)
-* [Camila's gratin](gratin)
+* [Camilla's gratin](gratin)
 * [Loid's butter cookies](https://old.reddit.com/r/SpyxFamily/comments/1f7frhn/i_made_the_cookies_from_s1e3/ll7exy6/?context=1)
 * [Omurice (JOC recipe)](https://www.justonecookbook.com/omurice-japanese-omelette-rice/)
 * [Yuri's spread](yuris_spread)
