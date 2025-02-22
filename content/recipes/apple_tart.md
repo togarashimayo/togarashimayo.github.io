@@ -35,13 +35,13 @@ weight: 50
 2. Cut in the unsalted butter using a pastry blender, two knives, or your hands until it resembles coarse crumbs.
 3. Make a well in your dough and add both the egg and water. Stir. 
 4. Chill the dough for 30-60 min.
-5. Roll the chilled dough using a lighly floured rolling pin to 1/8-1/6". Using a 4" cookie cutter or a ramekin, punch rounds out of the dough.
-6. Fit those rounds into a 12-cup muffin pan. [Pierce the bottoms with a fork](https://flavorycooking.com/what-is-the-purpose-of-piercing-the-bottom-of-a-one-crust-pie-with-a-fork/). Chill the dough while making the filling. 
+5. Roll the chilled dough using a lighly floured rolling pin to 1/8-1/6". Using a 2.5" cookie cutter or a ramekin, punch rounds out of the dough.
+6. Fit those rounds into a 12-cup muffin pan. [Pierce the bottoms with a fork](https://flavorycooking.com/what-is-the-purpose-of-piercing-the-bottom-of-a-one-crust-pie-with-a-fork/). Then sprinkle the rounds with almond flour. Chill the pan while making the filling. 
 
 ### Filling
 1. Add lemon juice to a large bowl. 
 2. Peel, core, and cut the apples into thin slices. 
-3. Toss the apples in the juice. This prevents the apples from browning. Take the chilled dough in the tart pan out of the fridge and arrange the apples into a single layer in the pan. Sprinkle with one tablespoon of sugar and top the apples with small pieces of butter evenly distributed.
+3. Toss the apples in the juice. This prevents the apples from browning. Take the chilled dough in the muffin tin out of the fridge and arrange the apples into a single layer in each tin. Sprinkle with one tablespoon of sugar and top the apples with small pieces of butter evenly distributed.
 
 ### Putting it all together
 1. Fill each tart shell with the apples.
