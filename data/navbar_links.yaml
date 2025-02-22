@@ -4,5 +4,7 @@
   url: "/panels"
 - title: Writings
   url: "/writings"
+- title: Recipes
+  url: "/recipes"
 - title: More!
   url: "/more"
