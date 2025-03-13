@@ -93,13 +93,17 @@ panels:
   conventions:
   - Akimatsuri 2024
   - 'Tsukino-Con 2025 (as "The Food of Spy x Family (Se1)")'
-  - 'Fan Expo Vancouver 2025 (as "Eat Ostania: The Food of Spy x Family"; upcoming)'
+  - 'Fan Expo Vancouver 2025 (as "Eat Ostania: The Food of Spy x Family")'
 - title: "Senshi's Cookbook: The Food of Delicious in Dungeon (Ep 1-4)"
   rating: 13+
   short_description: Ever read or watched Dungeon Meshi (Delicious in Dungeon) where Senshi's cooking makes you hungry for the real deal? Join Mich Chan as she tries to adapt his recipes from the first four episodes (...plus more?) for your kitchen at home!
   isActive: true
   conventions:
-  - 'Tsukino-Con 2025 (as "The Food of Dungeon Meshi (Ep 1-4)")'
+  - 'Tsukino-Con 2025'
+  - 'UBC Pop-Up Hanami 2025 (upcoming)'
+  - 'Anime North 2025 (upcoming ft. Angela)'
+  notes:
+  - This panel also goes by "The Food of Dungeon Meshi (Ep 1-4)" to help cons save on guidebook space.
 
 retired_panels:
 - title: Fans in the Professional Workplace
@@ -151,6 +155,9 @@ retired_panels:
   - Sakura-Con 2023
 
 anime_north_roundtables:
+- title: How to Panel a Panel (Anime North 2025 with Study of Swords; upcoming)
+- title: Explaining Anime to Your Mom (Anime North 2025 with Angela; upcoming)
+- title: Convention Horror Stories (Anime North 2025; upcoming)
 - title: How to Panel a Panel (Anime North 2024 with Orian and Picky33)
 - title: World of Korean Manhwa (Anime North 2024, with Orian, Leo, and Rosa)
 - title: Explaining Anime to Your Mom (Anime North 2024)
