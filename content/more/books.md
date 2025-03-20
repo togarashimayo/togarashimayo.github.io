@@ -13,18 +13,19 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Heidi* (original German version) by Johanna Spyri
-* *The Hunger Games: Sunrise on the Reaping* by Suzanne Collins
 
 ### Non-Fictional
-* *Stop Acting Rich* by Thomas J. Stanley
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
-None right now!
+* *Gregs Tagebuch: Jetzt reicht's!* (*Diary of a Wimpy Kid: The Last Straw*'s German translation) by Jeff Kinney
+* *We Need to Talk About Kevin* by Lionel Shriver
 
 ## Already read
 
 ### 2025
+* *The Hunger Games: Sunrise on the Reaping* by Suzanne Collins
+* *Stop Acting Rich* by Thomas J. Stanley
 * *The Mirage* by Matt Ruff
 * *Classic German Cooking* by Luisa Weiss
 

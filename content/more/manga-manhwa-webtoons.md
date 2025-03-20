@@ -36,10 +36,10 @@ Kudos to:
 ## Currently reading
 
 ### Manga
-* *Urusei Yatsura* (Volume 3) by Rumiko Takahashi
+None right now
 
 ### Manhwa
-None right now
+* *Villains are Destined to Die* (Volume 6) by Gwongyeoeul
 
 ## Paused
 * *Remarried Empress*
@@ -54,6 +54,8 @@ None right now
 ## 2025
 
 ### Manga
+* *The Promised Neverland* (Volume 5-6) by Kaiu Shirai
+* *Urusei Yatsura* (Volume 3) by Rumiko Takahashi
 * *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
 * *Food Wars* (Volume 6) by Yuto Tsukuda
 * *Frieren* (Volume 9) by Kanehito Yamada
