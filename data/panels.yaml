@@ -86,21 +86,24 @@ panels:
   notes:
   - Manga Planet covered this panel as part of their Anime North Online recap.
   - I've put this panel on indefinite hiatus, until I can find a way to turn it into a 60-minute panel while generalizing the content to "tie-in products for any video game in general". Sonic curry, anyone?
-- title: "Eat Ostania: The Food of Spy x Family (Season 1)"
+- title: "Eat Ostania: The Food of Spy x Family"
   rating: 13+
-  short_description: While not really a food anime, Spy x Family showcases plenty of mouth-watering food along with the usual Forger family shenanigans. Come join Mich Chan as she highlights the dishes featured in the show's first season, including how you can make them yourself at home. 
+  short_description: While not really a food anime, Spy x Family showcases plenty of mouth-watering food along with the usual Forger family shenanigans. Come join Mich Chan as she highlights the dishes featured in the show, including how you can make them yourself at home. 
   isActive: true
   conventions:
-  - Akimatsuri 2024
-  - 'Tsukino-Con 2025 (as "The Food of Spy x Family (Se1)")'
-  - 'Fan Expo Vancouver 2025 (as "Eat Ostania: The Food of Spy x Family")'
+  - Akimatsuri 2024 (S1)
+  - Tsukino-Con 2025 (S1)
+  - 'Fan Expo Vancouver 2025 (S1 as "Eat Ostania: The Food of Spy x Family")'
+  - Harumatsuri 2025 (show highlights; upcoming)
+  - Anime North 2025 (show highlights; upcoming)
 - title: "Senshi's Cookbook: The Food of Delicious in Dungeon (Ep 1-4)"
   rating: 13+
   short_description: Ever read or watched Dungeon Meshi (Delicious in Dungeon) where Senshi's cooking makes you hungry for the real deal? Join Mich Chan as she tries to adapt his recipes from the first four episodes (...plus more?) for your kitchen at home!
   isActive: true
   conventions:
   - 'Tsukino-Con 2025'
-  - 'UBC Pop-Up Hanami 2025 (upcoming)'
+  - 'UBC Pop-Up Hanami 2025'
+  - 'Harumatsuri 2025'
   - 'Anime North 2025 (upcoming ft. Angela)'
   notes:
   - This panel also goes by "The Food of Dungeon Meshi (Ep 1-4)" to help cons save on guidebook space.
@@ -155,7 +158,7 @@ retired_panels:
   - Sakura-Con 2023
 
 anime_north_roundtables:
-- title: How to Panel a Panel (Anime North 2025 with Study of Swords; upcoming)
+- title: How to Panel a Panel (Anime North 2025 with Study of Swords and Fingers; upcoming)
 - title: Explaining Anime to Your Mom (Anime North 2025 with Angela; upcoming)
 - title: Convention Horror Stories (Anime North 2025; upcoming)
 - title: How to Panel a Panel (Anime North 2024 with Orian and Picky33)
