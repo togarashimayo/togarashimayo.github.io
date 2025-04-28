@@ -7,16 +7,18 @@ weight: 50
 
 # "Living armour" full-course meal (Episode 3)
 
-All of the recipes use abalone thawed from frozen (I like [Searay's abalone](https://searayfoods.com/shop/abalone-meat-large/)). If you are not Mr. Bezos, you can probably use musssels.
+I've made all four of the below dishes with abalone, while I also made the stir-fry and soup with pre-cooked Pacific razor clams.
+
+I would strongly recommend using the razor clams, as they're cheaper and resemble living armour more.
 
 ## Living armour drawf-style stir-fry
 
 ### Ingredients
 
-* 4 abalone
+* 12 pre-cooked Pacific razor clams
 * 1 medium onion
-* 1 yellow bell pepper
-* 1 bunch spinach
+* 1/2 yellow bell pepper
+* 350-400g spinach or bok choy
 * 1 tbsp oyster sauce
 * Eggplant (optional)
 * Roast red peppers or pickled red ginger (optional)
@@ -52,7 +54,7 @@ Serve with soy sauce.
 * 1 tbsp soy sauce
 * 1 tbsp oyster sauce
 * 1 egg
-* 4 abalones
+* As much pre-cooked Pacific razor clams as you like (to garnish)
 
 ### Steps
 
@@ -60,8 +62,8 @@ Serve with soy sauce.
 2. Add soy sauce and oyster sauce.
 3. Beat egg.
 3. While continously stirring, slowly add the egg into the soup mixture.
-4. Cook abalone for 2-3 minutes. Serve immediately.
+4. Garnish with the pre-cooked razor clams.
 
 ## Grilled living armour
 
-Grill as much abalone you would like for 15 minutes, using either an acutal grill or a [grill pan](https://www.kitchenaid.com/pinch-of-help/major-appliances/how-to-grill-without-a-grill.html).
+Grill as much abalone (or razor clams) you would like for 15 minutes, using either an acutal grill or a [grill pan](https://www.kitchenaid.com/pinch-of-help/major-appliances/how-to-grill-without-a-grill.html).
