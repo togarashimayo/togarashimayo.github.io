@@ -7,6 +7,8 @@ weight: 50
 
 # "Living armour" full-course meal (Episode 3)
 
+A set of dishes that Senshi makes from living armour, mollusk-like creatures that gather inside armour suits and contract themselves like muscles to move.
+
 I've made all four of the below dishes with abalone, while I also made the stir-fry and soup with pre-cooked Pacific razor clams.
 
 I would strongly recommend using the razor clams, as they're cheaper and resemble living armour more.
@@ -15,7 +17,7 @@ I would strongly recommend using the razor clams, as they're cheaper and resembl
 
 ### Ingredients
 
-* 12 pre-cooked Pacific razor clams
+* 12 pre-cooked Pacific razor clams, shells removed
 * 1 medium onion
 * 1/2 yellow bell pepper
 * 350-400g spinach or bok choy
@@ -29,13 +31,11 @@ I would strongly recommend using the razor clams, as they're cheaper and resembl
 1. Wash vegetables.
 2. Core the bell pepper and cut into thin strips.
 3. Cut onion into half-rings.
-4. Cut abalone into lengthwise strips.
-5. Sautee abalone over medium heat for 30-60 seconds. Remove from the heat. 
-6. Add onion and sautee until translucent.
-7. Add bell pepper and sautee for 2 minutes.
-8. Add spinach and sautee until wilted.
-9. Add oyster sauce and toss until combined.
-10. Re-add abalone and combine with the mixture. Serve immediately.
+4. Add onion and sautee until translucent.
+5. Add bell pepper and sautee for 2 minutes.
+6. Add greens and sautee until wilted.
+7. Add oyster sauce and toss until combined.
+8. Add pre-cooked razor clams and combine with the mixture. Serve immediately.
 
 ## Steamed living armour
 
