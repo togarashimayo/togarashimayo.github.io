@@ -27,7 +27,7 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Business cards:** [Jukebox Print](https://www.jukeboxprint.com/) (thank you Anime Evolution for the clue-in!)
 
-**Matcha shortbread cookies:** [Aiyaohno Cafe](https://www.instagram.com/aiyaohno.cafe/)
+**Matcha shortbread cookies:** [Aiyaohno Cafe](https://aiyaohno.com/)
 
 ## <3
 
