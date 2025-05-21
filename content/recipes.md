@@ -11,7 +11,9 @@ A list of my recipes mentioned in my panels. A massive thank you to [Kittea](htt
 
 If you ever make any of these recipes and share them on social media, please tag me! Bonus points if you modified any of the recipes, with those modificiations working super well for you. 
 
-## Eat Ostania: Food of Spy x Family (S1)
+## Eat Ostania: Food of Spy x Family 
+
+### S1
 * [Camilla's gratin](gratin)
 * [Loid's butter cookies](https://old.reddit.com/r/SpyxFamily/comments/1f7frhn/i_made_the_cookies_from_s1e3/ll7exy6/?context=1)
 * [Omurice (JOC recipe)](https://www.justonecookbook.com/omurice-japanese-omelette-rice/)
@@ -20,6 +22,12 @@ If you ever make any of these recipes and share them on social media, please tag
 * [Loid's hambagu](hambagu)
 * [Caramel nut cake for Anya](nut_cake)
 * [Apple tart for Yor](apple_tart)
+
+### S2
+* [Macarons of Knowledge recipe](macarons-of-knowledge)
+
+### Code White
+* [Meremere](meremere)
 
 ## Senshi's Cookbook: The Food of Delicious in Dungeon (E1-4)
 
