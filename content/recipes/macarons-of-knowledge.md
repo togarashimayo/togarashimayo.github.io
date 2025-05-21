@@ -39,9 +39,13 @@ weight: 50
 1. If using creme of tartar, whip the egg whites until they look foamy before adding them in.
 2. Whip the egg whites to soft peaks. Gradually add in the sugar (one tablespoon at a time) while you keep mixing. Keep whipping until it resembles stiff peaks.
 3. Fold the food colouring into the meringue.
-4. Gradually fold the almond flour mixture into the meringue.
-5. Let the macarons dry for 60 minutes.
-6. 45 minutes into drying, preheat the oven to 325 degrees.
+4. Gradually fold the almond flour mixture into the meringue. Keep folding until the consistency is like honey.
+5. Pipe the macarons on a parchment paper lined baking sheet.
+6. Drop the baking sheet from 3 inches to pop any air bubbles. Use a toothpick to pop any extra air bubbles you see afterwards.
+6. Let the macarons dry for 60 minutes.
+7. 45 minutes into drying, preheat the oven to 325 degrees.
+8. Bake each tray of macarons for 13 minutes.
+9. Remove from the oven and let cool.
 
 ### Icing
 1. Mix icing sugar and butter together.
@@ -50,7 +54,7 @@ weight: 50
 4. Spread icing on macarons
 
 ## Notes
-* I used a hand mixer, a kitchen scale, and sandwich bags with a hole. I did not use an oven therm
+* I used a hand mixer, a kitchen scale, and sandwich bags with a hole. I did not use an oven thermo here.
 * I did not age my egg whites.
 * You cannot use a water-based food colouring when making macarons; it will change the batter's consistency. Get a 40-50% coupon off Michaels and use it towards their Wilton food colouring.
 * I would not recommend making this while raining.
