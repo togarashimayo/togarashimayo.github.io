@@ -27,6 +27,9 @@ If you ever make any of these recipes and share them on social media, please tag
 * [Macarons of Knowledge recipe](macarons-of-knowledge)
 
 ### Code White
+* Peanut chicken
+    * [Chicken schnitzel](peanut-chicken-schnitzel)
+    * [Peanut sauce (The Little Kitchen recipe)](https://www.thelittlekitchen.net/peanut-sauce/)
 * [Meremere](meremere)
 
 ## Senshi's Cookbook: The Food of Delicious in Dungeon (E1-4)
