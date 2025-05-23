@@ -7,7 +7,7 @@ weight: 50
 
 # Peanut chicken schnitzel
 
-*Adapted from Luisa Weis's Wiener Schnitzel recipe from Classic German Cooking*
+*Adapted from Luisa Weis's Wiener Schnitzel recipe from Classic German Cooking. If you're here because you scanned the recipe's QR code during my panel, I used [the peanut sauce recipe from The Little Kitchen](https://www.thelittlekitchen.net/peanut-sauce/).*
 
 ## Ingredients
 * 2 chicken breasts
@@ -27,4 +27,4 @@ weight: 50
 7. Flip chicken breast and cook for another 3-5 minutes. Drain on a paper towel.
 
 ## Notes
-* I like buying bread on sale, drying them, and turning them into fine breadcrumbs.
+* I like buying bread on sale, drying them, and turning them into fine breadcrumbs by grinding them into a food processor.
