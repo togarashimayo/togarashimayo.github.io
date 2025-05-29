@@ -74,8 +74,6 @@ panels:
   isActive: false
   conventions:
   - 'Sakura-Con 2024 (as "The Hunger Games vs. Battle Royale: A Comparison")'
-  notes:
-  - This panel is on hiatus until Sunrise on the Reaping (the second upcoming Hunger Games prequel) is released.
 - title: Mario The Brand Ambassador
   rating: 13+
   category: video games
@@ -95,7 +93,7 @@ panels:
   - Tsukino-Con 2025 (S1)
   - 'Fan Expo Vancouver 2025 (S1 as "Eat Ostania: The Food of Spy x Family")'
   - Harumatsuri 2025 (show highlights)
-  - Anime North 2025 (show highlights; upcoming)
+  - Anime North 2025 (show highlights)
 - title: "Senshi's Cookbook: The Food of Delicious in Dungeon (Ep 1-4)"
   rating: 13+
   short_description: Ever read or watched Dungeon Meshi (Delicious in Dungeon) where Senshi's cooking makes you hungry for the real deal? Join Mich Chan as she tries to adapt his recipes from the first four episodes (...plus more?) for your kitchen at home!
@@ -104,9 +102,17 @@ panels:
   - 'Tsukino-Con 2025'
   - 'UBC Pop-Up Hanami 2025'
   - 'Harumatsuri 2025'
-  - 'Anime North 2025 (upcoming ft. Angela)'
+  - 'Anime North 2025 (ft. Angela)'
   notes:
   - This panel also goes by "The Food of Dungeon Meshi (Ep 1-4)" to help cons save on guidebook space.
+- title: "Retro Gaming Eats - Nintendo Edition"
+  rating: 13+
+  short_description: Ever wanted to see what goes into someone's take on Princess Peach's cake from Super Mario 64? What about a Superspicy Curry? Join Mich Chan, your average foodie and home cook, as she documents her experiences replicating eats and treats from (...and inspired by) your favourite Nintendo-published games up to the Gamecube and GBA.
+  isActive: true
+  conventions:
+  - Vancouver Retro Gaming Expo 2025 (upcoming)
+  notes:
+  - The VGRE 2025 iteration will include samples produced in a residential kitchen.
 
 retired_panels:
 - title: Fans in the Professional Workplace
@@ -158,9 +164,9 @@ retired_panels:
   - Sakura-Con 2023
 
 anime_north_roundtables:
-- title: How to Panel a Panel (Anime North 2025 with Study of Swords and Fingers; upcoming)
-- title: Explaining Anime to Your Mom (Anime North 2025 with Angela; upcoming)
-- title: Convention Horror Stories (Anime North 2025; upcoming)
+- title: How to Panel a Panel (Anime North 2025 with Study of Swords, Fingers, Azrae, and Lu)
+- title: Explaining Anime to Your Mom (Anime North 2025 with Angela)
+- title: Convention Horror Stories (Anime North 2025)
 - title: How to Panel a Panel (Anime North 2024 with Orian and Picky33)
 - title: World of Korean Manhwa (Anime North 2024, with Orian, Leo, and Rosa)
 - title: Explaining Anime to Your Mom (Anime North 2024)
