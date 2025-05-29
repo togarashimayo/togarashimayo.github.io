@@ -19,9 +19,11 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **_Panelling for Dummies_:** [Plantastic Cosplay](https://plantastic.picobin.com/), [Nyanko Pankotanko](https://nyanpan.carrd.co/)
 
+**_Food of Delicious in Dungeon / Dungeon Meshi_:** [Angela](https://www.instagram.com/ayaawesomesauce/)
+
 ## Operations
 
-**Public-facing profile picture:** [yuumocha](https://www.instagram.com/mochachinoillust/)
+**Public-facing profile picture:** [yuumocha](https://www.instagram.com/yuumochachino/)
 
 **Uniform hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
