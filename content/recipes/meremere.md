@@ -57,13 +57,13 @@ Makes enough for a 9" pie pan.
 2. Combine the ground-up hazelnuts, all-purpose flour, icing sugar, and salt in a bowl.
 3. Cut in the unsalted butter into the dry ingredients using a pastry blender (strongly recommended), two knives, or your hands.
 4. Gradully add water until you have a soft but not too sticky dough.
-5. Shape into a disk and chill for at least an hour.
-6. Once it's time to make the crust, remove the dough from the fridge and leave it out until it's soft enough to handle (10-20 minutes).
-7. Roll the dough into an 11 inch disk.
+5. Shape into a disk, cover with plastic wrap, and chill for at least an hour.
+6. Once it's time to make the crust, remove the dough from the fridge and leave it out at room temp until it's soft enough to handle (10-20 minutes).
+7. On a parchment paper, roll the dough into an 11 inch disk.
 8. Carefully transfer the dough to your pie tin, trim or shape the pie crust so it's even with the pie pan edge.
 9. Line the pie crust with alumnimum foil. Fill the pan with your favourite pie weight (I use dried beans) and use the foil to cover all the edges.
 10. Bake for 10-12 minutes on top of a metal sheet pan at 375 degrees.
-11. Remove the pie weights and bake until the crust bottom is lightly brown (This took me about 15 minutes).
+11. Remove the pie weights and foil. Bake until the crust bottom is lightly brown (This took me about 15 minutes).
 12. Let cool.
 
 ### Lingonberry-cherry spread
@@ -71,8 +71,8 @@ Makes enough for a 9" pie pan.
 In a small bowl, combine the lingonberry jam and cherry syrup.
 
 ### Dried fruits
-1. Chop your fruits if they are not small enough.
-2. Pour enough boiling water to submerge the fruits. Steep for 15-20 min.
+1. Chop your fruits if they are not small enough. Add them to a medium-large bowl.
+2. Pour enough boiling water to submerge the fruits. Cover the bowl with plastic wrap and steep for 15-20 min.
 3. Drain the fruits.
 
 ### Orange curd
@@ -83,28 +83,30 @@ In a small bowl, combine the lingonberry jam and cherry syrup.
 4. Whisk in the vanilla extract.
 5. Let cool. 
 
-### Pie cream
+### Pastry cream
 1. Separate your whites from the yolk. 
 2. Transfer the yolks to a medium bowl, add sugar, and whisk until you see a smooth.
 3. Sift flour and cornstarch into the bowl before combining. 
-4. Bring milk to a boil until it is steaming. Remove from the burner.
+4. In a medium saucepan, heat milk on medium-low heat until it's steaming. Remove from the burner.
 5. Gradually add half of the milk to the egg mixture while whisking.
 6. Place a mesh strainer on the pot of milk. Pour in the egg mixture to remove the cooked solids. 
 7. Turn the heat to medium low and keep whisking until the sauce starts to thicken. 
 8. Reduce the heat to low and whip the cream as hard as you can for 1-2 minutes. 
 9. Add vanilla extract.
-10. Fill a bowl with ice and cold water, before placing a clean bowl on top of that icy water bowl. This is your ice bath. Pour/spat the custard into this mixture.
+10. Fill a bowl with ice and cold water, before placing a clean bowl on top of that icy water bowl. This is your ice bath. Pour/spat the custard into this bowl.
 11. Keep stirring the custard until it is cool to touch. 
 12. Fold in the rehydrated fruits.
-13. If not assembling the pie immediately, cover with plastic wrap and refrigerate immediately. 
+13. If not assembling the pie immediately, cover the bowl with plastic wrap and refrigerate immediately. 
 
 ### Meringue
 
-1. Wipe a metal bowl and the beaters with vinegar or lemon juice.
-2. Add the egg whites.
-3. Whip the eggs to foamy. Add creme of tartar.
-4. Whip the eggs to soft peaks. 
-5. Gradually add sugar while whipping the eggs to stiff peaks.
+*These instructions assume you know what "soft peaks" and "stiff peaks" are. Read [this article](https://www.thekitchn.com/a-visual-guide-soft-peaks-firm-115557) if these terms are new to you.*
+
+1. Wipe a metal or glass bowl and the beaters with vinegar or lemon juice.
+2. Add the egg whites into your wiped bowl.
+3. Whip the eggs to foamy. Add creme of tartar if you're using them.
+4. Whip the eggs to soft peaks.
+5. Gradually add sugar (1 tbsp at a time) while whipping the eggs to stiff peaks.
 
 ### Putting it all together
 1. Spread orange curd on the floor of the pie crust.
@@ -117,3 +119,4 @@ In a small bowl, combine the lingonberry jam and cherry syrup.
 
 ### Notes
 * This dessert is best eaten within a day. 
+* I used a metal pie tin when making this recipe.
