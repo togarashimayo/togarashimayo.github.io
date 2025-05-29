@@ -61,10 +61,10 @@ Makes enough for a 9" pie pan.
 6. Once it's time to make the crust, remove the dough from the fridge and leave it out until it's soft enough to handle (10-20 minutes).
 7. Roll the dough into an 11 inch disk.
 8. Carefully transfer the dough to your pie tin, trim or shape the pie crust so it's even with the pie pan edge.
-9. Bake for 10-12 minutes at 400 degrees.
-10. Let cool.
-
-(This is not a recipe where you can use. A massive thank-you to Mira for pointing this out.)
+9. Line the pie crust with alumnimum foil. Fill the pan with your favourite pie weight (I use dried beans) and use the foil to cover all the edges.
+10. Bake for 10-12 minutes on top of a metal sheet pan at 375 degrees.
+11. Remove the pie weights and bake until the crust bottom is lightly brown (This took me about 15 minutes).
+12. Let cool.
 
 ### Lingonberry-cherry spread
 
