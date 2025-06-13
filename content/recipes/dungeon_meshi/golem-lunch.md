@@ -4,7 +4,7 @@ date: 2025-02-04
 menu: "main"
 weight: 50
 ---
-# Golem field fresh veggie lunch (Episode 4)
+# Delicious in Dungeon (Episode 4) - Golem field fresh veggie lunch
 
 ## Golem cabbage stew
 

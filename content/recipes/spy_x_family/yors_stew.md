@@ -7,7 +7,7 @@ weight: 50
 
 # Yor's stew
 
-*Adapted from Luisa Weis's Wiener Gulasch recipe from Classic German Cooking.*
+*Adapted from Luisa Weis's Wiener Gulasch recipe from Classic German Cooking. Massive thank-you to Mira Mendes for prompting some of the modifications.*
 
 I've included two different methods to make this.
 
@@ -25,13 +25,13 @@ I've included two different methods to make this.
 * 1 medium carrot
 * 1 tsp caraway seeds (crushed)
 * 2 cups beef stock
-* 1 tbsp corn or potato starch
+* 1 tbsp rice flour
 * Sour cream to taste (optional)
 
 ## Steps
 
 ### Prep
-1. Combine baking soda and water before pouring over the beef and stirring. Marinate in the fridge for 45 min.
+1. Combine baking soda and water before pouring over the beef in a large bowl. Stir that before marinating in the fridge for 45 min.
 2. Dice the onions into 1/8/-1/4 inch pieces.
 3. Mince the garlic.
 4. Peel and [cut the carrots into rolling wedges](https://www.justonecookbook.com/rangiri/).
@@ -65,4 +65,5 @@ I've included two different methods to make this.
 ## Notes
 * If you have a pestle and motar, crush the caraway seeds with that. Otherwise, use a rolling pin and a sandwich bag.
 * Camilla mentions how people in Yor's home region _might_ add sour cream to their stew. I didn't add it to to the initial batch, but I did add it to an individual serving the next day. It makes the stew taste slightly creamy without the sour taste.
+* Luisa's original recipe uses corn starch. I used potato starch in my first three attempts. Mira recommends using rice flour.
 * Don't add the sour cream if you plan on freezing the batch. Otherwise the mixture will curdle. 
