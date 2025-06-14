@@ -47,3 +47,15 @@ PS: I promise that they don't come with stories. I save them for my panel!
     * [Spicy chicken and whole stewed cabbage](spicy-chicken-and-whole-stewed-cabbage)
     * [Crepes (Red House Spice Peking duck wrapper recipe)](https://redhousespice.com/easy-chinese-tortilla/)
     * [Dinner rolls (Simply Recipes recipe)](https://www.simplyrecipes.com/quick-dinner-rolls-recipe-6744225)
+
+## Retro Gaming Eats - Nintendo edition
+
+* ["Koopasta" pesto pasta (recipetineats recipe)](https://www.recipetineats.com/pesto-pasta/)
+* [Superspicy curry](nintendo/superspicy-curry)
+* [Eggplant Wizard moussaka](nintendo/moussaka)
+* [Yoshi's cookies](nintendo/yoshis-cookies)
+* [Princess peach cake](nintendo/princess-peach-cake)
+* [Peanut cheesecake bars](nintendo/peanut-cheese-bars)
+* [Chateau Romani soda](nintendo/chateau-romani-soda)
+* [Pokeblocks](nintendo/pokeblocks) 
+* [Spiral Mountain honey cake](nintendo/spiral-mountain-cake)
