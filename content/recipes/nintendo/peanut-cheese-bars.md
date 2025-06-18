@@ -17,6 +17,6 @@ I used [Sally's Baking Addiction's recipe](https://sallysbakingaddiction.com/ore
 
 I used the [Heather's Home Bakery recipe](https://heathershomebakery.com/2023/06/07/no-bake-peanut-butter-cheesecake/) but:
 * Used a 9" square pan instead of a 9" spring form pan.
-* Used two cream cheese bare instead of three bars.
+* Used two cream cheese bars instead of three bars.
 * Did not make the peanut butter mousse.
 * Sprinkled peanuts on the ganache before the cheesecake goes into the fridge to set.

@@ -29,3 +29,4 @@ weight: 50
 
 ## Notes
 * For my "favourite sweetener", I used 25 mL of blueberry syrup (by accident because it was in a honey bottle) and 10 mL of honey. The original rewcipe uses light brown soft sugar.
+* I used two overripe bananas which made the cake denser.

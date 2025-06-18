@@ -44,7 +44,7 @@ To make the strawberry shortcake, I used [Omnivore Cookbook's recipe](https://om
 Using the source image as a guide...
 
 1. For the whipped cream decoration on the bottom cake, fill a disposable piping bag with whipped cream and a star-shaped nozzle (Wilton 1M). Make swirls before topping with a strawberry.
-2. For the whipped cream decoration on the top cake, use that same piping bag to pipe some whipped cream before pulling upwards at 90 degrees ([video example from Hafsa's Kitchen](https://youtu.be/c4i3w4g7eyA?feature=shared&t=200)). Top with a cherry, preferrably Ranier.
+2. For the whipped cream decoration on the top cake, use that same piping bag to pipe some whipped cream before pulling upwards at 90 degrees ([non-English video example from Hafsa's Kitchen](https://youtu.be/c4i3w4g7eyA?feature=shared&t=200)). Top with a cherry, preferrably Ranier.
 3. Add the "thank you" chocolate plate at the front of the cake.
 4. Add the star shape at the back of the cake but in front of the cherries. 
 5. If using any, top the cake with sanitized Mario and Peach figures.
