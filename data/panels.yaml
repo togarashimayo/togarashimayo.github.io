@@ -108,11 +108,11 @@ panels:
 - title: "Retro Gaming Eats - Nintendo Edition"
   rating: 13+
   short_description: Ever wanted to see what goes into someone's take on Princess Peach's cake from Super Mario 64? What about a Superspicy Curry? Join Mich Chan, your average foodie and home cook, as she documents her experiences replicating eats and treats from (...and inspired by) your favourite Nintendo-published games up to the Gamecube and GBA.
-  isActive: true
+  isActive: false
   conventions:
-  - Vancouver Retro Gaming Expo 2025 (upcoming)
+  - Vancouver Retro Gaming Expo 2025
   notes:
-  - The VGRE 2025 iteration will include samples produced in a residential kitchen.
+  - The VRGE 2025 iteration included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
 
 retired_panels:
 - title: Fans in the Professional Workplace
