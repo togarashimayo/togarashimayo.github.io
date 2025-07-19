@@ -18,9 +18,9 @@ Kudos to:
 ## To read
 
 ### Manga
-* *Delicious in Dungeon (Volume 2)* by Ryoko Kui
-* *Berserk* (Volumes 7-9) by Kentaro Miura
 * *Food Wars* (Volume 7) by Yuto Tsukuda
+* *Frieren* (Volume 11) by Kanehito Yamada
+* *Delicious in Dungeon* (Volume 5) by Ryoko Kui
 
 ### Manhwa
 * *Goong*
@@ -39,7 +39,7 @@ Kudos to:
 None right now
 
 ### Manhwa
-* *Villains are Destined to Die* (Volume 6) by Gwongyeoeul
+None right now
 
 ## Paused
 * *Remarried Empress*
@@ -54,11 +54,14 @@ None right now
 ## 2025
 
 ### Manga
+* *Delicious in Dungeon* (Volume 2-4) by Ryoko Kui
+* *Frieren* (Volume 9-10) by Kanehito Yamada
+* *Berserk* (Volumes 7-9) by Kentaro Miura
+* *Villains are Destined to Die* (Volume 6) by Gwongyeoeul
 * *The Promised Neverland* (Volume 5-6) by Kaiu Shirai
 * *Urusei Yatsura* (Volume 3) by Rumiko Takahashi
 * *Kill la Kill* (Volumes 3) by Ryo Akizuki and Kazuki Nakashima
 * *Food Wars* (Volume 6) by Yuto Tsukuda
-* *Frieren* (Volume 9) by Kanehito Yamada
 
 ## 2024
 
