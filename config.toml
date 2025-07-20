@@ -4,6 +4,9 @@ title = 'Mich Chan 🦈'
 theme = 'togarashimayo'
 relativeURLs = true
 enableEmoji = true
+enableRobotsTXT = true
+other-configs = "your-configs"
+
 
 [menu]
 
@@ -12,3 +15,34 @@ enableEmoji = true
   weight = 100
   identifier = "instagram"
   url = "/instagram/"
+
+[params]
+your-params-config: your-params-config
+robots = [
+  "AdsBot-Google",
+  "Amazonbot",
+  "anthropic-ai",
+  "Applebot",
+  "Applebot-Extended",
+  "AwarioRssBot",
+  "AwarioSmartBot",
+  "Bytespider",
+  "CCBot",
+  "ChatGPT",
+  "ChatGPT-User",
+  "Claude-Web",
+  "ClaudeBot",
+  "cohere-ai",
+  "DataForSeoBot",
+  "Diffbot",
+  "FacebookBot",
+  "Google-Extended",
+  "GPTBot",
+  "ImagesiftBot",
+  "magpie-crawler",
+  "omgili",
+  "Omgilibot",
+  "peer39_crawler",
+  "PerplexityBot",
+  "YouBot"
+]

@@ -1,0 +1,4 @@
+{{ range $robot := .Site.Params.robots }}
+    User-agent: {{ $robot }}
+    Disallow: /
+{{ end }}
