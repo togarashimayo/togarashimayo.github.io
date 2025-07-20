@@ -1,24 +1,15 @@
-baseURL = 'http://togarashimayo.com/'
-languageCode = 'en-us'
-title = 'Mich Chan 🦈'
-theme = 'togarashimayo'
-relativeURLs = true
-enableEmoji = true
-enableRobotsTXT = true
-other-configs = "your-configs"
+baseURL: 'http://togarashimayo.com/'
+languageCode: 'en-us'
+title: 'Mich Chan 🦈'
+theme: 'togarashimayo'
+relativeURLs: true
+enableEmoji: true
+enableRobotsTXT: true
+other-configs: "your-configs"
 
-
-[menu]
-
-  [[menu.main]]
-  name = "Instagram"
-  weight = 100
-  identifier = "instagram"
-  url = "/instagram/"
-
-[params]
-  your-params-config = your-params-config
-  robots = [
+params:
+  your-params-config: your-params-config
+  robots: [
     "AdsBot-Google",
     "Amazonbot",
     "anthropic-ai",
