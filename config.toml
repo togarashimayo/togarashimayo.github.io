@@ -17,7 +17,7 @@ other-configs = "your-configs"
   url = "/instagram/"
 
 [params]
-your-params-config: your-params-config
+your-params-config = your-params-config
 robots = [
   "AdsBot-Google",
   "Amazonbot",
