@@ -6,37 +6,35 @@ weight: 50
 ---
 # Delicious in Dungeon (Episode 4) - Golem field fresh veggie lunch
 
-## Golem cabbage stew
+## Whole stewed cabbage
 
 ### Ingredients
 - 1 small head green cabbage
-- 1/4 lb bacon
+- 7-8 strips of pork belly or bacon
 - 2 medium onions
 - 1 large carrot
-- 2 medium yellow potatoes
+- 4-6 small yellow potatoes
 - 1 tbsp neutral flavoured oil
 - 4-6 cups vegetable stock
+- 4 cloves minced garlic
 - Bay leaf
 
 ### Steps
 
-1. Decore the cabbage. Cut each cabbage half into quarters.
+1. Decore and halve the cabbage.
 2. Cut the carrot into 1/2 inch coins.
-3. Cut the potatoes into large chunks.
-4. Dice the bacon.
-5. In a large pot on medium heat, heat 1 tbsp neutral flavoured oil. Once heated, cook the bacon until crispy. Remove from the heat but keep the fat.
-6. Add onion and cook until translucent.
-7. Add carrot and cook till softened.
-8. Add potatoes and cook for a few minutes.
-9. Add cabbage leaves and cook till wilted.
-10. Add the vegetable stock and bay leaf. Bring to a boil. Then reduce the heat to medium-low, cover the pot with a lid, and cook for 15 minutes.
+3. In a large pot on medium heat, heat 1 tbsp neutral flavoured oil. Once heated, sear the bacon or pork belly. Drain on a paper towel.
+4. Drain the pot until you have 2 tbsp of fat left. Add onion and a splash of water and use a spatula to scrape up the browned bits. Cook those onions until transparent.
+5. Add the carrot and garlic and cook until you can smell the garlic.
+6. Add the stock, bay leaf, seared meat, stock, and cabbage halves. Bring to a boil. 
+7. Once boiled, reduce the heat to medium-low, cover the pot with a lid, and cook for 60-90 minutes.
+8. Remove the solids from the soup as it's needed for blanching the salad veggies.
+9. Plate the soup and the solida as if they're from the show.
 
 ## Turnip salad
 
-*I found Senshi's recipe nasty and don't recommend making it yourself without modifications*
-
 ### Ingredients (serves 1)
-- 1 small turnip or parsnip
+- 1 small white turnip or parsnip
 - 1 small carrot with greens
 - 1 tbsp olive oil
 - Salt to taste
@@ -45,4 +43,9 @@ weight: 50
 1. Cut turnip into thinly-sliced medallions.
 2. Remove the greens from the carrot. Wash that well.
 3. Cut carrot into very fine matchsticks.
-4. Toss turnip, carrrot, olive oil, and salt in a small bowl.
+4. Blanch the turnip, carrot, and carrot greens in the broth for 2 minutes each.
+5. Toss veggies, olive oil, and salt in a small bowl.
+
+## Notes
+* I got a slab of pork belly from T&T and cut that into strips with a sharp knife.
+* This recipe got a major overhaul on July 31 2025 as part of Otakuthon 2025 prep, so it resembles its in-show counterpart more. The previous version was based on an Irish cabbage stew, with the salad veggies being raw.
