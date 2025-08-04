@@ -8,6 +8,7 @@ weight: 50
 # More!
 
 Bits and pieces that don't belong in my bio nor my panel catalog.
+* [On generative AI in my work](../more/generative-ai)
 * [Visions and goals](../more/visions-and-goals)
 * [Food recommendations](../more/food-suggestions)
 * [Intro to Manhwa list - Otakon 2023](../more/intro-to-manhwa-list)
