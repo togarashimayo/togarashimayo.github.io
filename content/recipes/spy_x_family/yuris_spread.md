@@ -44,6 +44,9 @@ weight: 50
 1. Thinly slice the onion into half-moons.
 2. Combine olive oil, lemon juice, salt, and pepper to make a dressing.
 3. [Cut your sashimi into thin slices](https://www.justonecookbook.com/how-to-slice-and-plate-sashimi/) if not already pre-sliced.
+4. Add the onions on a chilled (preferably rectangular) plate. 
+5. Add the salmon slices.
+6. Pour the dressing on the salmon and top with the thinly sliced onions or chives. Serve immediately.
 
 ### Tomato caprese salad
 
@@ -54,11 +57,7 @@ weight: 50
 5. Combine olive oil, balsamic, honey, garlic, and basil until combined. Pour this dressing on the tomatoes and toss.
 6. Marinate the tomato at room temp for 2-3 minutes.
 7. Plate the mozza and tomatoes like in the show.
-
-### Plating
-
-Plate the food like how it's shown in the series!
-
+8. Drizzle with pesto (or balsalmic vinegar)!
 
 ## Notes
 * I used [Chasing the Donkey's ajvar recipe](https://www.chasingthedonkey.com/how-to-make-ajvar-recipe-roasted-red-pepper-sauce-recipe/), although you can buy jarred ajvar in a grocery store.
