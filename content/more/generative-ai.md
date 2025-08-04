@@ -44,7 +44,7 @@ I've seen this outcome on Eat New west where someone "duped" the Cactus Club ("C
 
 The below panelists wrote statements either about not using generative AI in their work, or pledging to add AI-free declarations in their panels. If you are a panelist who wrote similar statements and would like to be listed here, please let me know!
 
-* [Mike Toole (what prompted this statement)](https://bsky.app/profile/sam-animeherald.bsky.social/post/3lstxbdu4d226)
+* [Mike Toole (what prompted this statement)](https://bsky.app/profile/miketoole.com/post/3lstwn7tsis2j)
 * [Eri of Scarlet Rhapsody](https://bsky.app/profile/scarlet-rhapsody.com/post/3lsv234qzi22r)
 * [Samantha Ferreira of Anime Herald](https://bsky.app/profile/sam-animeherald.bsky.social/post/3lstxbdu4d226)
 * [Austin of Third Impact Anime](https://bsky.app/profile/arsarcantum.bsky.social/post/3lstzfiheml2m)
