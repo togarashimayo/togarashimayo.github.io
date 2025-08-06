@@ -20,13 +20,14 @@ weight: 50
 * 350g package extra firm tofu, [drained](https://www.masterclass.com/articles/how-to-drain-tofu)
 * 1/2 tsp turmeric
 * 1/2 - 1 tsp black salt (kala namak)
-* 2 tbsp all purpose flour
+* 2 tbsp all-purpose flour
 * 1/2 tsp onion powder
 * 3/4 tsp garlic powder
+* 1/4 tsp garlic salt (optional)
 * 1/4 tsp lobster base
 * few shakes of white pepper
 * 1-2 tbsp water
-* 7-12 halved cherry tomatoes (red, orange, green)
+* 7-12 halved red, orange, and green cherry tomatoes
 
 ## Steps
 
@@ -39,7 +40,7 @@ weight: 50
 5. Bake for 20 minutes. You'll notice that the skin will look burned. This is normal.
 6. Transfer peppers to a bowl and cover with plastic wrap. Steam for 20 minutes.
 7. Peel the peppers.
-8. Pound the peppers with a rolling pin (or even better, a meat hammer) in between two paper towels.
+8. Pound the peppers with a rolling pin (or even better, a meat hammer) in between two paper towels. 
 9. Arrange the red peppers in a small skillet so it creates a crust. Start with the "floor" and then create the "walls".
 
 ### Filling
