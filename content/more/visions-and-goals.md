@@ -13,7 +13,9 @@ I liked it enough that I also applied the program's principles to my convention 
 
 ## 2024 - 2025
 
-TBD
+### Dive deeper into culinary panels (Jan-Aug)
+* Cover the first season for Food of Delicious in Dungeon
+* 
 
 ## 2023 - 2024
 
