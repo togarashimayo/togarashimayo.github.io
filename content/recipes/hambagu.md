@@ -9,6 +9,8 @@ weight: 50
 
 *Hambagu recipe adapted from [Namiko Chen of Just One Cookbook's recipe](https://www.justonecookbook.com/hamburger-steak-hambagu/). The roasted tomatoes and potato wedges are my own recipe.*
 
+*Massive thank you to [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) for [making this recipe and sharing it with me](https://old.reddit.com/r/SpyxFamily/comments/1morny1/i_tried_making_loids_hamburger_steak_from_spy_x/)!*
+
 ## Ingredients (serves four)
 
 ### Hambagu mince
@@ -46,6 +48,7 @@ weight: 50
 * 1 tbsp olive oil
 * Salt and pepper to taste
 * 1 crown broccoli
+
 
 ## Steps
 
@@ -86,3 +89,4 @@ weight: 50
 ## Notes
 * Replacing the wine with grape juice will make the sauce taste sweeter and tangier.
 * You can subsitute the half-and-half cream and milk bread bread crumbs with milk and panko bread crumbs respectively (like in Namiko's original recipe). But it will be less flavourful.
+* If you want to add more flavour while sacrificing accuracy, you can add bell peppers like Sam did.
