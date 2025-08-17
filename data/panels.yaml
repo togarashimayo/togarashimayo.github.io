@@ -2,7 +2,7 @@ panels:
 - title: Anime in the Philippines
   rating: 13+
   short_description: How did an anime contribute to collapsing a Filipino dictatorship? Which titles are beloved in the Philippines yet are afterthoughts in the American anime fandom? Curious about how anime is perceived outside of Japan and North America? Join us as we explore the interesting relationship between the Philippines, anime, and Japan.
-  isActive: true
+  isActive: false
   category: anime
   notes:
   - This is my most popular panel (even overtaking Donghua, my previous flagship) since I started running it at Anime North 2023.
