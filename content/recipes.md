@@ -48,6 +48,21 @@ PS: I promise that they don't come with stories. I save them for my panel!
     * [Crepes (Red House Spice Peking duck wrapper recipe)](https://redhousespice.com/easy-chinese-tortilla/)
     * [Dinner rolls (Simply Recipes recipe)](https://www.simplyrecipes.com/quick-dinner-rolls-recipe-6744225)
 
+## This year in anime...food?!
+
+### 2024
+* [Crab nabe (Dandadan)](crab-nabe)
+* [Okonomiyaki (Ranma 1/2's 2024 remake)](okonomiyaki)
+
+### 2025
+* [Ice cream (Apothocary Diaries S2)](maomao-ice-cream)
+* [Risotto (Sakamoto Days)](sakamoto-days-risotto)
+* [Lemon chicken (Kowloon Generic Romance)](lemon-chicken)
+* [Croquette (Umamusume: Cinderella Grey)](croquette)
+* [Marinated chicken / kaarage (The Summer Hikaru Died)](marinated-chicken-karaage)
+* [Curry udon (My Dressup Darling S2)](curry-udon)
+* [Cat hotteok (K-Pop Demon Hunters)](hotteok)
+
 ## Retro Gaming Eats - Nintendo edition
 
 * ["Koopasta" pesto pasta (recipetineats recipe)](https://www.recipetineats.com/pesto-pasta/)
