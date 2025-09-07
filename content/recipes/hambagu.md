@@ -89,4 +89,5 @@ weight: 50
 ## Notes
 * Replacing the wine with grape juice will make the sauce taste sweeter and tangier.
 * You can subsitute the half-and-half cream and milk bread bread crumbs with milk and panko bread crumbs respectively (like in Namiko's original recipe). But it will be less flavourful.
-* If you want to add more flavour while sacrificing accuracy, you can add bell peppers like Sam did.
+* If you want to add more flavour to the potatoes while sacrificing accuracy, you can add bell peppers like Sam did.
+* You can also cook the broccoli in chicken broth. It will add a subtle chicken flavour to the broccoli, and you can also drink the (broccoli-flavoured) chicken broth on the side.
