@@ -19,8 +19,9 @@ Kudos to:
 
 ### Manga
 * *Food Wars* (Volume 7) by Yuto Tsukuda
-* *Frieren* (Volume 11) by Kanehito Yamada
-* *Delicious in Dungeon* (Volume 5) by Ryoko Kui
+* *Frieren* (Volume 12) by Kanehito Yamada
+* *Spy x Family* (Volume 4) by Tatsuya Endo
+* *Delicious in Dungeon* (Volume 6) by Ryoko Kui
 
 ### Manhwa
 * *Goong*
@@ -54,8 +55,9 @@ None right now
 ## 2025
 
 ### Manga
-* *Delicious in Dungeon* (Volume 2-4) by Ryoko Kui
-* *Frieren* (Volume 9-10) by Kanehito Yamada
+* *Delicious in Dungeon* (Volume 2-5) by Ryoko Kui
+* *Frieren* (Volume 9-11) by Kanehito Yamada
+* *Spy x Family* (Volume 2-3) by Tatsuya Endo
 * *Berserk* (Volumes 7-9) by Kentaro Miura
 * *Villains are Destined to Die* (Volume 6) by Gwongyeoeul
 * *The Promised Neverland* (Volume 5-6) by Kaiu Shirai
@@ -76,6 +78,7 @@ None right now
 * *Urusei Yatsura* (Volumes 1-2) by Rumiko Takahashi
 * *Komi Can't Communicate* (Volume 1-3) by Tomohito Oda
 * *Frieren* (Volumes 1-8) by Kanehito Yamada
+* *Spy x Family* (Volume 1) by Tatsuya Endo
 
 ### Manhwa
 * *Villains are Destined to Die* (Volume 1-5) by Gwongyeoeul

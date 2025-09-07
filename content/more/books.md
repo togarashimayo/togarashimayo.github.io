@@ -13,20 +13,22 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ### Fictional
 * *Heidi* (original German version) by Johanna Spyri
-* *Gregs Tagebuch: Ich war's nicht!* (*Diary of a Wimpy Kid: Dog Days*'s German translation) by Jeff Kinney
-* *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
-* *England, England* by Julian Barnes
+* *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
+* *We Need to Talk About Kevin* by Lionel Shriver
+* *The New Cooking School Cookbook* by America's Test Kitchen
 
 ### Non-Fictional
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
-* *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
-* *We Need to Talk About Kevin* by Lionel Shriver
+* *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
 
 ## Already read
 
 ### 2025
+* *England, England* by Julian Barnes
+* *Gregs Tagebuch: Ich war's nicht!* (*Diary of a Wimpy Kid: Dog Days*'s German translation) by Jeff Kinney
+* *Ratio* by Michael Ruhlman
 * *The Food Lab* by J. Kenji Lopez-Alt
 * *Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking* by Samin Nosrat
 * *Gregs Tagebuch: Jetzt reicht's!* (*Diary of a Wimpy Kid: The Last Straw*'s German translation) by Jeff Kinney
