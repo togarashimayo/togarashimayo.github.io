@@ -9,11 +9,23 @@ weight: 50
 
 *"Do you want me to drive to Save-On Foods?"* - the owner (hereafter, "Mira") when telling a table that she's out of Black Forest cake.
 
-If you know me personally, follow me on social media (be it through Eat New West or my public-facing accounts), or attended the first few minutes of _Anime in the Philippines_ starting with Sakura-Con 2024, you might know that I ~~stan~~ like this restaurant very much enough that it may as well be a running gag. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a repeat (and then a regular) customer after I did a walk-in two months later.
+If you know me personally, follow me on social media (be it through Eat New West or my public-facing accounts), or attended the first few minutes of any of my panels starting with Anime in the Philippines @ Sakura-Con 2024 (especially _Food of Spy x Family_), you might know that I ~~stan~~ like this restaurant very much enough that it may as well be a running gag. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a regular customer after I did a walk-in two months later.
 
 Please note that:
 1. I don't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
 2. Anything in arrow brackets is in German.
+
+---
+## 2025-05-03
+
+* [*Bluesky post*](https://bsky.app/profile/togarashimayo.com/post/3loczl6khyk2q)
+* Those cookies were thin mints from my friend [Dr. Emily Hall](https://webtoongenius.com/)! (I gave some to Mira)
+* *The "foodie-related project is Food of Spy x Family!*
+* *Bev from Aiyaohno is my baker friend; I commissioned her to make my partner's strawberry shortcakes for their birthday!*
+
+I popped by Tannenbaum with $partner yesterday (2025-05-03) after dinner to give Mira a box of cookies and get our usual dessert. Those cookies were my way of saying "thank you!" for her help with a foodie-related project, but that's another story.
+
+For now, she served us slices of her Erdbeersahnetorte (strawberry shortcake) and I am honour-bound to share a pic here - her take reminds me of my baker friend's Japanese strawberry shortcakes!
 
 ---
 

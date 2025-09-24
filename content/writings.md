@@ -13,7 +13,7 @@ A list of my writings.
 
 Eat New West is a FB group dedicated to documenting people's food adventures in the titular city and in adjacent areas. I'm a member of the group as my hair salon is in New West, and I'd like to find more delicious eats beyond ramen and German food. It is also where I hone my food writing skills, by painting a picture of the places I've been to.
 
-* [The Tannenbaum (multiple visits; most recent post on 2024-12-13)](tannenbaum)
+* [The Tannenbaum (multiple visits; most recent post on 2025-05-03)](tannenbaum)
 * [Burger Heaven (2024-11-27)](burger-heaven)
 * [Big Way (2024-11-01)](big-way)
 * [Kioku Cafe + Dining (2024-10-19)](kioku)
@@ -25,7 +25,12 @@ Eat New West is a FB group dedicated to documenting people's food adventures in 
 * [Greens and Beans + BAK'D (2024-06-21)](greens-and-bakd)
 * [Candy Alley (2024-04-10)](candy-alley)
 
-If you are a local food spot who is part of ENW, don't be afraid to send me an email asking me to drop by.
+House rules (on top of the existing ENW rules):
+* Expect genuine posts about my New West foodie adventures.
+* I do not write posts that reflect your personal tastes.
+* If you post something rude and I find past rude posts or comments in your history, I will block you _and_ let everyone in the thread (example) know so they can watch you better. 
+* I also block users who use AI imagery or recipes.
+* If you are a local food spot who is part of ENW, don't be afraid to send me an email asking me to drop by.
 
 ## Misc
 
