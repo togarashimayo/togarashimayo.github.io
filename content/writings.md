@@ -28,7 +28,7 @@ Eat New West is a FB group dedicated to documenting people's food adventures in 
 House rules (on top of the existing ENW rules):
 * Expect genuine posts about my New West foodie adventures.
 * I do not write posts that reflect your personal tastes.
-* If you post something rude and I find past rude posts or comments in your history, I will block you _and_ let everyone in the thread (example) know so they can watch you better. 
+* If you say something rude in my posts and I find past rude posts or comments in your history, I will block you.
 * I also block users who use AI imagery or recipes.
 * If you are a local food spot who is part of ENW, don't be afraid to send me an email asking me to drop by.
 
