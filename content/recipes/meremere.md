@@ -49,6 +49,11 @@ Makes enough for a 9" pie pan.
 * 30 mL lingonberry jam
 * 7.5 mL syrup from marschino cherries
 
+### Meringue
+* 4 egg whites
+* 80g granulated white sugar
+* ½ tsp crème of tartar (optional)
+
 ## Steps
 
 ### Hazelnut crust
