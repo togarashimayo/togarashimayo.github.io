@@ -7,6 +7,8 @@ weight: 50
 
 # Meremere layered meringue pie
 
+Warning: This is a complex recipe (...and the hardest thing I've worked on for panels in general). I highly recommend that you have past baking or dessert making experience (specifically "blind baking" other pies, making custard, and making French meringue) before attempting this recipe. 
+
 *Meremere component recipes adapted from [Del's Cooking Twist](https://www.delscookingtwist.com/hazelnut-pie-crust/) (hazelnut crust), [How Sweet Eats](https://www.howsweeteats.com/2023/06/orange-meringue-pie/) (orange curd), [Cooking with Dog](https://cookingwithdog.com/recipe/cream-pan/) (pastry cream), and Sally's Baking Addiction (meringue)*
 
 Makes enough for a 9" pie pan.
