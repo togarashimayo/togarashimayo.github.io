@@ -9,10 +9,10 @@ weight: 50
 
 *"Do you want me to drive to Save-On Foods?"* - the owner (hereafter, "Mira") when telling a table that she's out of Black Forest cake.
 
-If you know me personally, follow me on social media (be it through Eat New West or my public-facing accounts), or attended the first few minutes of any of my panels starting with Anime in the Philippines @ Sakura-Con 2024 (especially _Food of Spy x Family_), you might know that I ~~stan~~ like this restaurant very much enough that it may as well be a running gag. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a regular customer after I did a walk-in two months later.
+If you know me personally, follow me on social media (be it through Eat New West or my public-facing accounts), or attended the first few minutes of any of my panels between Anime in the Philippines @ Sakura-Con 2024 and Food of Spy x Family Highlights @ Akimatsuri 2025, you might know that I ~~stan~~ liked this restaurant very much enough that it may as well have been a running gag. [Keichoro's birthday dinner](https://www.instagram.com/p/Cx9gKG0Lt9m/) did a good job at hyping me up considering my German language-learning interests, with Mira speedrunning her way into converting me into a regular customer after I did a walk-in two months later.
 
 Please note that:
-1. I don't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
+1. I didn't document all of my visits on ENW (compared to Instagram Stories). I would only do so if something exciting happened, because talking about ordering the same Wiener schnitzel and black forest cake twice per month gets stale easily.
 2. Anything in arrow brackets is in German.
 
 ---
@@ -37,7 +37,7 @@ For now, she served us slices of her Erdbeersahnetorte (strawberry shortcake) an
 
 To celebrate hitting my (then-almost) one year of regularly showing up to that restaurant, I returned to Tannenbaum with my half-German friend Zerogouki (again!) last Saturday for lunch.
 
-I had the Jägerpfanne and the (fried) potatoes, which was what I ordered during my first visit last year...in German. They're like my previous visits: it's Mira Mendes; you know what you will get and they're solid. If you know, you know. If not...
+I had the Jägerpfanne and the (fried) potatoes, which was what I ordered during my first visit last year...in German. They're like my previous visits: it's Mira *[last name removed]*; you know what you will get and they're solid. If you know, you know. If not...
 
 You will order your food and be forced to let Mira (pretend to) be your mom during your visit, which does include her playfully teasing you. It doesn't matter if you're older than her or hate being teased. It's part of the contract; you will accept both that teasing and Mira as your temporary mother figure.
 

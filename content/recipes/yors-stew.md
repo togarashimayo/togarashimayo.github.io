@@ -5,9 +5,9 @@ menu: "main"
 weight: 50
 ---
 
-# Yor's stew (S1E14)
+# Spy x Family - Yor's stew (S1E14)
 
-*Adapted from Luisa Weiss's Wiener Gulasch recipe from [Classic German Cooking](https://www.penguinrandomhouse.com/books/716001/classic-german-cooking-by-luisa-weiss/). Massive thank-you to [Mira Mendes](http://thetannenbaum.com) for conceiving some of the modifications that I've implemented, and [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) and his sister for [making this recipe + letting us know how it went](https://old.reddit.com/r/SpyxFamily/comments/1n01o4m/i_tried_making_yors_stew_from_spy_x_family_thanks/?share_id=Bxn3ezQC6Sx7zCoNhHxCm).*
+*Adapted from Luisa Weiss's Wiener Gulasch recipe from [Classic German Cooking](https://www.penguinrandomhouse.com/books/716001/classic-german-cooking-by-luisa-weiss/). Massive thank-you to Mira M for conceiving some of the modifications that I've implemented, and [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) and his sister for [making this recipe + letting us know how it went](https://old.reddit.com/r/SpyxFamily/comments/1n01o4m/i_tried_making_yors_stew_from_spy_x_family_thanks/?share_id=Bxn3ezQC6Sx7zCoNhHxCm).*
 
 I've included two different methods to make this.
 

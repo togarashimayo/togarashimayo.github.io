@@ -23,9 +23,6 @@ Oof, this one is tricky as I live in Metro Vancouver and been to so many restaur
     * If any of you received matcha shortbread from me during out-of-Vancouver cons (starting with Otakon 2023, where I dropped one to the con's programming director), they come from here. Aiyaohno may not be prestigious, but the shortbread is durable while highlighting Japanese culture in Vancouver.
         * “That is so good!” - Tsukino-Con's panel coordinator, as he walked past by me taking a bite out of that cookie during the 2024 con.
     * This is where I took my _Donghua_ [intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3kkujntu26k25), thanks to Greg.
-* The Tannenbaum Restaurant ("Tannenbaum"; vielen Dank [Keichoro](https://www.instagram.com/keichoro03/)!) - Homestyle German fare with the most extreme customer service I’ve seen in my life going to restaurants.
-    * I've documented this restaurant a couple times on Eat New West. I've also mirrored the posts on my website, considering that the group is members only.
-    * While Mira wasn't the photographer, I took [my _Anime in the Philippines_ intro slide pic](https://bsky.app/profile/togarashimayo.com/post/3kxjnp2byci2k) in her restaurant.
 * Butterfly Tea & Dessert ("Butterfly") - K-Pop inspired bubble tea place that's cheaper than what the chains offer.
     * I am not part of the ARMY let alone a K-Pop stan, but I come here because the drinks (both the quality and creativity) slap, the service I've received from Nush (daughter and the "face" of the cafe), Deepa (mom), and Anil (dad) are extreme. 
         * Nush took [the intro slide picture that I use for both _Hunger Games vs. Battle Royale_ and any Korean-adjacent panels](https://bsky.app/profile/togarashimayo.com/post/3koauarygrg2v).
