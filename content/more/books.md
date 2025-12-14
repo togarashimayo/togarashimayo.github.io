@@ -15,17 +15,20 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
 * *We Need to Talk About Kevin* by Lionel Shriver
-* *The New Cooking School Cookbook* by America's Test Kitchen
+* *Never Split the Difference: Negotiating As If Your Life Depended On It* by Chris Voss
 
 ### Non-Fictional
+* *Philippine Society and Revolution* by Amado Guerrero
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 
 ## Currently 
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
+* *Gregs Tagebuch: Keine Panik!* (*Diary of a Wimpy Kid: Cabin Fever*'s German translation) by Jeff Kinney
 
 ## Already read
 
 ### 2025
+* *The New Cooking School Cookbook* by America's Test Kitchen
 * *England, England* by Julian Barnes
 * *Gregs Tagebuch: Ich war's nicht!* (*Diary of a Wimpy Kid: Dog Days*'s German translation) by Jeff Kinney
 * *Ratio* by Michael Ruhlman
