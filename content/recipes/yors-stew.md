@@ -69,4 +69,4 @@ I've included two different methods to make this.
 * Luisa's original recipe uses corn starch. I used potato starch in my first three attempts. Use rice flour if you want a more matte finish.
 * Don't add the sour cream if you plan on freezing the batch. Otherwise the mixture will curdle. 
 * I prefer to roast the potato chunks in olive oil for 15-20 minutes 450 degrees. I've found that the texture is better, combined with how the chunks look more attractive in the stew compared to using a whole potato.
-* I haven't tested this yet, but [u/WYSE_Bookworm adapted this recipe so it works in a slow cooker](https://old.reddit.com/r/SpyxFamily/comments/1n01o4m/i_tried_making_yors_stew_from_spy_x_family_thanks/ns0kpow/?context=2).
+* I haven't tested this yet, but [u/WISE_bookwyrm adapted this recipe so it works in a slow cooker](https://old.reddit.com/r/SpyxFamily/comments/1n01o4m/i_tried_making_yors_stew_from_spy_x_family_thanks/ns0kpow/?context=2).
