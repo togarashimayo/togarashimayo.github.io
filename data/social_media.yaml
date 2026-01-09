@@ -1,15 +1,7 @@
-- title: "Facebook"
-  icon: logo-facebook
-  url: "http://facebook.com/togarashimayo"
-  colour: "#1778F2"
 - title: "Bluesky"
   icon: cloud
   url: "https://bsky.app/profile/togarashimayo.com"
   colour: "#3A83F6"
-- title: "Mastodon"
-  icon: logo-mastodon
-  url: "https://mastodon.social/@togarashimayo"
-  colour: "#615FF9"
 - title: "Instagram/Threads"
   icon: logo-instagram
   url: "http://instagram.com/togarashimayogram"
@@ -22,3 +14,7 @@
   icon: logo-reddit
   url: "http://reddit.com/u/togamayo_mich"
   colour: "#FF5700"
+- title: "Facebook"
+  icon: logo-facebook
+  url: "http://facebook.com/togarashimayo"
+  colour: "#1778F2"
