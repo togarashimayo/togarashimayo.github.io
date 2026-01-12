@@ -19,9 +19,9 @@ Kudos to:
 
 ### Manga
 * *Food Wars* (Volume 7) by Yuto Tsukuda
-* *Frieren* (Volume 12) by Kanehito Yamada
-* *Spy x Family* (Volume 4) by Tatsuya Endo
-* *Delicious in Dungeon* (Volume 6) by Ryoko Kui
+* *Frieren* (Volume 13) by Kanehito Yamada
+* *Spy x Family* (Volume 5) by Tatsuya Endo
+* *Delicious in Dungeon* (Volume 10) by Ryoko Kui
 
 ### Manhwa
 * *Goong*
@@ -52,12 +52,17 @@ None right now
 * The Girl Downstairs
 * Cursed Princess Club
 
+## 2026
+
+### Manga
+* *Delicious in Dungeon* (Volume 8-9) by Ryoko Kui
+
 ## 2025
 
 ### Manga
-* *Delicious in Dungeon* (Volume 2-5) by Ryoko Kui
-* *Frieren* (Volume 9-11) by Kanehito Yamada
-* *Spy x Family* (Volume 2-3) by Tatsuya Endo
+* *Delicious in Dungeon* (Volume 2-7) by Ryoko Kui
+* *Spy x Family* (Volume 2-4) by Tatsuya Endo
+* *Frieren* (Volume 9-12) by Kanehito Yamada
 * *Berserk* (Volumes 7-9) by Kentaro Miura
 * *Villains are Destined to Die* (Volume 6) by Gwongyeoeul
 * *The Promised Neverland* (Volume 5-6) by Kaiu Shirai
