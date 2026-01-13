@@ -7,6 +7,8 @@ weight: 50
 
 # Loid's hambagu
 
+Last updated: 2025-10-25
+
 *Hambagu recipe adapted from [Namiko Chen of Just One Cookbook's recipe](https://www.justonecookbook.com/hamburger-steak-hambagu/). The roasted tomatoes and potato wedges are my own recipe.*
 
 *Massive thank you to [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) for [making this recipe and sharing it with me](https://old.reddit.com/r/SpyxFamily/comments/1morny1/i_tried_making_loids_hamburger_steak_from_spy_x/)!*
@@ -16,7 +18,7 @@ weight: 50
 ### Hambagu mince
 
 * 1/2 onion
-* 12oz ground meat (I like 4oz pork and 8oz beef)
+* 12oz ground meat (I typically use 12oz beef)
 * 1/2 tsp nutmeg or cinnamon
 * 1/3 cup [breadcrumbs made from milk bread](https://www.allrecipes.com/article/how-to-make-breadcrumbs/)
 * 2 tbsp half and half cream
