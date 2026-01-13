@@ -15,11 +15,16 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
 * *We Need to Talk About Kevin* by Lionel Shriver
-* *Never Split the Difference: Negotiating As If Your Life Depended On It* by Chris Voss
 
 ### Non-Fictional
 * *Philippine Society and Revolution* by Amado Guerrero
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
+* *Never Split the Difference* by Christopher Voss
+* *Persepolis* (original French version) by Marjane Satrapi
+* *I will Teach You to Be Rich* by Ramit Sethi
+* *Kitchen Confidential* by Anthony Bourdain
+* *The Wealth Ladder* by Nick Maggiulli
+* *The Little Book of Common Sense Investing* by John C Bogle
 
 ## Currently 
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
