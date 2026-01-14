@@ -18,13 +18,14 @@ weight: 50
 * 500-750mL fine breadcrumbs
 
 ## Steps
-1. Beat the eggs in a wide shallow bowl. Whisk in 4 tbsp of the oil and water. Set aside.
-2. Add flour in another wide shallow bowl.
-3. Add breadcrumbs in another wide shallow bowl.
-4. Butterfly the chicken breasts and pound until thin with a meat mallet or a rolling pin. 
+1. Beat the eggs in a medium mixing bowl. Whisk in 4 tbsp of the oil and water. Set aside.
+2. Add flour in a shallow baking dish.
+3. Add breadcrumbs in another shallow baking dish.
+4. Butterfly the chicken breasts. Pound until thin (think 1/4") with a meat mallet or a rolling pin. 
 5. Dredge each breast in flour, coat in the egg wash, and dredge in the bread crumbs
 6. Pour 1/2 to 1 cup of oil in a small skillet, and set over medium-high heat. When hot, add a cutlet into the pan. Cook on one side for 3-5 minutes.
-7. Flip chicken breast and cook for another 3-5 minutes. Drain on a paper towel.
+7. Flip chicken breast and cook for another 3-5 minutes. Drain on a paper towel or a wire rack.
 
 ## Notes
-* I like buying bread on sale, drying them, and turning them into fine breadcrumbs by grinding them into a food processor.
+* I use air-chilled chicken breasts from Costco.
+* I like buying bread on sale (or even bread crusts), drying them using an oven at 200 degrees C, and turning them into fine breadcrumbs by grinding them into a food processor.
