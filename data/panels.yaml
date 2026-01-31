@@ -69,12 +69,13 @@ panels:
   - Tsukino-Con 2024 (as "Comedic Japanese Commercials")
   - Harumatsuri 2024
 - title: "Let's Compare: Hunger Games vs. Battle Royale"
-  rating: 18+
-  short_description: Dystopian settings! Governments forcing kids to kill each other! Melodrama??? If you think that the Hunger Games ripped off Battle Royale for any of those reasons, think again. We’ll look at the similarities and differences between those two worlds, including new information from the Ballad of Songbirds and Snakes (aka the Hunger Games prequel).
+  rating: 16+, 18+
+  short_description: "Dystopian settings! Governments forcing kids to kill each other! Melodrama??? If you think that the Hunger Games ripped off Battle Royale for any of those reasons, think again. We’ll look at the similarities and differences between those two worlds, including new information from The Hunger Games: Sunrise on the Reaping."
   category: japanese
-  isActive: false
+  isActive: true
   conventions:
   - 'Sakura-Con 2024 (as "The Hunger Games vs. Battle Royale: A Comparison")'
+  - 'Tsukino-Con 2026 (as "Hunger Games vs. Battle Royale" and as a 16+ panel; upcoming)'
 - title: Mario The Brand Ambassador
   rating: 13+
   category: video games
@@ -85,7 +86,7 @@ panels:
   notes:
   - Manga Planet covered this panel as part of their Anime North Online recap.
   - I've put this panel on indefinite hiatus, until I can find a way to turn it into a 60-minute panel while generalizing the content to "tie-in products for any video game in general". Sonic curry, anyone?
-- title: "Eat Ostania: The Food of Spy x Family"
+- title: "Eat the Anime: Spy x Family"
   rating: 13+
   short_description: While not really a food anime, Spy x Family showcases plenty of mouth-watering food along with the usual Forger family shenanigans. Come join Mich Chan as she highlights the dishes featured in the show, including how you can make them yourself at home. 
   isActive: true
@@ -96,32 +97,39 @@ panels:
   - Harumatsuri 2025 (show highlights)
   - Anime North 2025 (show highlights)
   - Otakuthon 2025 (S1)
-- title: "Senshi's Cookbook: The Food of Delicious in Dungeon (Ep 1-4)"
+  - Akimatsuri 2025 (show highlights)
+  - Tsukino-Con 2026 (S3; upcoming)
+  notes:
+  - 'This panel was previously called "Eat Ostania: The Food of Spy x Family" until Akimatsuri 2025, before I switched to the more consistent "Eat the Anime" branding.'
+- title: "Eat the Anime: Delicious in Dungeon"
   rating: 13+
   short_description: Ever read or watched Dungeon Meshi (Delicious in Dungeon) where Senshi's cooking makes you hungry for the real deal? Join Mich Chan as she tries to adapt his recipes from the first four episodes (...plus more?) for your kitchen at home!
   isActive: true
   conventions:
-  - 'Tsukino-Con 2025'
-  - 'UBC Pop-Up Hanami 2025'
-  - 'Harumatsuri 2025'
-  - 'Anime North 2025 (ft. Angela)'
-  - Otakuthon 2025
+  - 'Tsukino-Con 2025 (E1-4)'
+  - 'UBC Pop-Up Hanami 2025 (E1-4)'
+  - 'Harumatsuri 2025 (E1-4)'
+  - 'Anime North 2025 (E1-4; ft. Angela)'
+  - Otakuthon 2025 (E1-4)
   notes:
-  - This panel also goes by "The Food of Dungeon Meshi (Ep 1-4)" to help cons save on guidebook space.
-- title: "Retro Gaming Eats - Nintendo Edition"
+  - This panel also goes by "The Food of Dungeon Meshi" to help cons save on guidebook space.
+  - 'This panel was previously called "Senshi''s Cookbook: The Food of Delicious in Dungeon" until Otakuthon 2025, before I switched to the more consistent "Eat the Anime" branding.'
+- title: "Eat the Video Game: Nintendo"
   rating: 13+
-  short_description: Ever wanted to see what goes into someone's take on Princess Peach's cake from Super Mario 64? What about a Superspicy Curry? Join Mich Chan, your average foodie and home cook, as she documents her experiences replicating eats and treats from (...and inspired by) your favourite Nintendo-published games up to the Gamecube and GBA.
-  isActive: false
+  short_description: "Ever wanted to see what goes into someone's take on Princess Peach's cake from Super Mario 64? What about the Salmon Meuniere from Zelda: Breath of the Wild or the Superspicy Curry from Kirby (...and Super Smash Bros)? Join Mich Chan, your average foodie and home cook, as she documents her experiences replicating eats and treats from your favourite Nintendo games!"
+  isActive: true
   conventions:
-  - Vancouver Retro Gaming Expo 2025
+  - Vancouver Retro Gaming Expo 2025 (as "Retro Gaming Eats - Nintendo Edition")
+  - Fan Expo Vancouver 2026 (upcoming)
   notes:
-  - The VRGE 2025 iteration included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
+  - The VRGE 2025 iteration covered games up to the GBA and GameCube. It also included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
 - title: "This year in anime...food?!"
   rating: 13+
   short_description: Hunger for the food featured in this year's (...and last fall's) anime? Join Mich Chan as she tries to replicate some of those foods, including how you can make them yourself at home!
   isActive: true
   conventions:
   - 'SFU Summer Festival 2025'
+  - 'Tsukino-Con 2026 (as "2025 in Anime...food?!"; upcoming)'
 
 retired_panels:
 - title: Fans in the Professional Workplace
