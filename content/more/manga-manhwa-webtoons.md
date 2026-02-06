@@ -18,10 +18,10 @@ Kudos to:
 ## To read
 
 ### Manga
-* *Food Wars* (Volume 7) by Yuto Tsukuda
+* *Food Wars* (Volume 8) by Yuto Tsukuda
 * *Frieren* (Volume 13) by Kanehito Yamada
-* *Spy x Family* (Volume 5) by Tatsuya Endo
-* *Delicious in Dungeon* (Volume 10) by Ryoko Kui
+* *Spy x Family* (Volume 6) by Tatsuya Endo
+* *Delicious in Dungeon* (Volume 12) by Ryoko Kui
 
 ### Manhwa
 * *Goong*
@@ -55,7 +55,9 @@ None right now
 ## 2026
 
 ### Manga
-* *Delicious in Dungeon* (Volume 8-9) by Ryoko Kui
+* *Spy x Family* (Volume 5) by Tatsuya Endo
+* *Food Wars* (Volume 7) by Yuto Tsukuda
+* *Delicious in Dungeon* (Volume 8-11) by Ryoko Kui
 
 ## 2025
 

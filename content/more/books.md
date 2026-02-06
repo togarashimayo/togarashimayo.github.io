@@ -21,7 +21,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
 * *Never Split the Difference* by Christopher Voss
 * *Persepolis* (original French version) by Marjane Satrapi
-* *I will Teach You to Be Rich* by Ramit Sethi
 * *Kitchen Confidential* by Anthony Bourdain
 * *The Wealth Ladder* by Nick Maggiulli
 * *The Little Book of Common Sense Investing* by John C Bogle
@@ -31,6 +30,9 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Gregs Tagebuch: Keine Panik!* (*Diary of a Wimpy Kid: Cabin Fever*'s German translation) by Jeff Kinney
 
 ## Already read
+
+### 2026
+* *I will Teach You to Be Rich* by Ramit Sethi
 
 ### 2025
 * *The New Cooking School Cookbook* by America's Test Kitchen
