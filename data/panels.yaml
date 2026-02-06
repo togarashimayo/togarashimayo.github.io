@@ -123,12 +123,13 @@ panels:
   - Fan Expo Vancouver 2026 (upcoming)
   notes:
   - The VRGE 2025 iteration covered games up to the GBA and GameCube. It also included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
-- title: "This year in anime...food?!"
+- title: "Eat the Anime: 2025 shows"
   rating: 13+
   short_description: Hunger for the food featured in this year's (...and last fall's) anime? Join Mich Chan as she tries to replicate some of those foods, including how you can make them yourself at home!
   isActive: true
   conventions:
   - 'SFU Summer Festival 2025'
+  - 'Fan Expo Vancouver 2026 (upcoming)'
   - 'Tsukino-Con 2026 (as "2025 in Anime...food?!"; upcoming)'
 
 retired_panels:
