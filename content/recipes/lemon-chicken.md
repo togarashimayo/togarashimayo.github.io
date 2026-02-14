@@ -13,7 +13,7 @@ weight: 50
 ## Ingredients
 
 ### Chicken + marinade
-* 1 lb chicken breast
+* 1 lb chicken breast OR thighs
 * 5 mL salt
 * 5 mL sugar
 * 2.5 mL white pepper
@@ -48,6 +48,7 @@ Optional: lemon slices to garnish
 2. In a bowl, combine the sugar, salt, white pepper, Shaoxing wine, and soy sauce. Add the chicken breast and massage the mixture into the chicken. Chill for at least 2 hours.
 3. Smash the garlic cloves and ginger.
 4. Zest the lemon, cut into slices, and squeeze the juice.
+5. Combine the water, sugar, milk powder, shaoxing wine, and starch in a small bowl.
 
 ### Sauce
 1. In a small pot over medium heat, add 7.5mL tbsp of oil. Add the garlic and ginger and stir until fragrent. 
@@ -60,7 +61,7 @@ Optional: lemon slices to garnish
 1. Heat up 1 cup of neutral oil in a wok or a medium pot over medium heat.
 2. Combine the starch, flour, salt, white pepper, oil, and tumeric if using.
 3. Dredge the chicken in the starch.
-4. Once the oil is heated, drop up to 6 pieces of chicken in the pot and fry for about 2-3 minutes.
+4. Once the oil is heated, drop up to 6 pieces of chicken in the pot and fry for about 2-3 minutes. Do not add more than six, as adding more pieces will drop the oil's temperature. 
 5. Remove chicken with a slotted spoon and drain on either a plate with paper towels, or a wire rack. Repeat until you've fried all the chicken.
 
 ### Serving
@@ -68,7 +69,8 @@ Add the chicken to a plate, pour sauce over it, and garnish with lemon slices. S
 
 ## Notes
 * I marinated my chicken for 6h.
+* America's Test Kitchen suggests microwaving the lemon for 10 seconds to get more juice out of the lemon.
 * If you don't have a microplane, you can peel the lemon while avoiding the white stuff (pith) and then finely mincing it.
 * Can subsitute olive oil for sesame oil if you don't have any on hand, but it will change the flavour profile.
 * If you have a wooden chopstick, you can use it to test oil temperature by putting the chopstick tip in the oil and seeing whether it bubbles. (It bubbles when it is hot enough)
-* I didn't do this when first making the chicken, but you can twice (or thrice) fry the chicken. I've elaborated a bit about it while making [the marinated chicken from *The Summer Hikaru Died*](./marinated-chicken-karaage.md). 
+* You can twice (or thrice) fry the chicken. I've elaborated a bit about it while making [the marinated chicken from *The Summer Hikaru Died*](./marinated-chicken-karaage.md), but recommend only twice-frying the chicken. Thrice-frying would make the chicken taste a bit burned. 
