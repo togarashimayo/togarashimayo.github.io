@@ -33,7 +33,7 @@ weight: 50
 ### Stripe icing
 
 * 50 grams powdered sugar
-* At least 5 mL milk
+* At least 5 mL whole milk
 * dash of vanilla extract
 
 ## Steps
@@ -47,8 +47,9 @@ weight: 50
 5. Once kneaded, transfer the dough to a lightly greased bowl and lightly cover the dough with some of the oil in the greased bowl. Cover with plastic wrap and let rise for 90-120 minutes.
 6. Punch the dough to remove the air, transfer to another lightly floured surface, and roll the dough to a thickness between 3/4" to 1".
 7. Cut donut rounds out of the dough. Transfer to a sheet pan, cover with a plastic wrap, and let it rise for about 30 minutes.
-8. Heat a medium to large saucepan containing at least 3/4" of oil until it's 375 degrees. Don't skimp on the oil unless you want your donuts' sides to look like Alysa Liu's halo hair.
-9. Add 2-3 donuts at a time and cook each side for one minute. Remove each with a metal slotted spoon, a metal slotted spatula, or a heat resistant pair of tongs, before placing on a wire rack. Repeat for the other rounds.
+8. For the iconic tire shape, cut angled notches close to the donuts' edges. 
+9. Heat a medium to large saucepan containing at least 3/4" of oil until it's 375 degrees. Don't skimp on the oil unless you want your donuts' sides to look like [Alysa Liu's halo hair](https://www.allure.com/story/figure-skater-alysa-liu-hair-olympics).
+10. Add 2-3 donuts at a time and cook each side for one minute. Remove each with a metal slotted spoon, a metal slotted spatula, or a heat resistant pair of tongs, before placing on a wire rack. Repeat for the other rounds.
 
 ### Glaze
 1. In a food processor, grind the dehydrated strawberries into a powder.
@@ -64,9 +65,10 @@ Combine the powdered sugar, milk, and vanilla in a small disposable sandwich bag
 3. Drizzle some stripes on the glazed donut.
 4. Let the donut set for at least 20 minutes.
 
-## 
+## Notes
+* I used a mix of avocado oil and leftover canola oil to fry the donuts.
 * I've found that dehydrated strawberries are the cheapest from an Asian grocery store. 
-* If you don't have a food thermometer, you can also use a wooden chopstick to check temperature. Dip the tip in the oil to check whether it slowly bubbles (the oil is hot enough if so).
-* I used a biscuit cutter to cut the rounds and an icing coupler to cut the rounds. This might be easier if you have a donut cutter. 
-* For the rounds, add 5-6 donuts at a time and cook each side for 30 seconds.
-* I like to place plastic wrap underneath the racks for easy cleanup. 
+* If you don't have a food thermometer, you can also use a wooden chopstick to check the fryer oil's temperature. Dip the tip in the oil to check whether it slowly bubbles (the oil is hot enough if so).
+* I used a 3" biscuit cutter to cut the rounds and an icing coupler to cut the holes. This might be easier if you have a donut cutter. 
+* For the holes, add 5-6 donut holes at a time and cook each side for 30 seconds.
+* I like to place plastic wrap underneath the wire racks for easy cleanup (just gather the plastic wrap after making the donuts and throw into the trash). 
