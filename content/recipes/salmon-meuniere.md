@@ -5,9 +5,11 @@ menu: "main"
 weight: 50
 ---
 
-## Ingredients
+# Salmon Meuniere (Zelda: Breath of the Wild)
 
 *[Beurre blanc recipe from Serious Eats](https://www.seriouseats.com/beurre-blanc-recipe-7643412)*
+
+## Ingredients
 
 ### Salmon steaks
 
@@ -17,7 +19,7 @@ weight: 50
 
 ### Tomatoes
 
-* 4 Roma tomatoes
+* 4 medium-sized roasting tomatoes such as Roma
 * Salt, pepper, and herb seasoning
 
 ### Salad
@@ -40,6 +42,7 @@ weight: 50
 
 1. [Debone the salmon steak](https://champagne-tastes.com/how-to-debone-salmon-steaks/) (link for those who haven’t deboned).
 2. In a medium pan with butter or oil over medium heat, cook the salmon on one side for 5 minutes. Flip over and cook for another 5 minutes.
+3. Remove from the heat.
 
 ### Roasted tomatoes
 
@@ -49,7 +52,7 @@ weight: 50
 
 ### Sauce
 
-1. Cut the butter into 1" cubes. Chill in the fridge.
+1. Cut the butter into 1" cubes. Chill in the fridge while you create the reduction.
 2. In a small saucepan over medium heat, combine white wine, shallots, and white wine vinegar. Reduce until you have 7.5-15 mL of liquid left.
 3. Gradually whisk in the butter cubes (1-2 at a time) into the sauce. You should either have a milky emulsion or shallot-flavoured butter.
 
@@ -57,4 +60,4 @@ weight: 50
 In a mason jar, add oil, acid, and either the maple syrup or honey. Shake until mixed, and use the dressing in your salad greens.
 
 ## Notes
-* The original BOTW recipe mentions goat butter. I wouldn’t recommend using goat butter, as the butter‘s gaminess amplifies the fish‘s fishiness and detract from the rest of the dish.
+* The original BOTW recipe mentions goat butter. While game-accurate, I wouldn’t recommend using goat butter. The butter‘s gaminess amplifies the fish‘s fishiness and detract from the rest of the dish.
