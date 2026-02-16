@@ -66,7 +66,9 @@ PS: I promise that they don't come with stories. I save them for my panel!
 * [Curry udon (My Dressup Darling S2)](curry-udon)
 * [Cat hotteok (K-Pop Demon Hunters)](hotteok)
 
-## Retro Gaming Eats - Nintendo edition
+## Eat the Video Game: Nintendo 
+
+Introduced in the OG Retro Gaming Eats - Nintendo edition (1.0):
 
 * ["Koopasta" pesto pasta (recipetineats recipe)](https://www.recipetineats.com/pesto-pasta/)
 * [Superspicy curry](superspicy-curry)
@@ -77,6 +79,11 @@ PS: I promise that they don't come with stories. I save them for my panel!
 * [Chateau Romani soda](chateau-romani-soda)
 * [Pokeblocks](pokeblocks) 
 * [Spiral Mountain honey cake](spiral-mountain-cake)
+
+Introduced in the Fan Expo Van 2026 iteration (1.1):
+* [Mario Kart World Switch 2 tire donut](tire-donut)
+* [Poffins](poffins)
+* [Salmon Meuniere](salmon-meuniere)
 
 ## Misc
 *Unrelated recipes from my personal life*
