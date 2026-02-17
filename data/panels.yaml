@@ -100,7 +100,7 @@ panels:
   - Akimatsuri 2025 (show highlights)
   - Tsukino-Con 2026 (S3; upcoming)
   notes:
-  - 'This panel was previously called "Eat Ostania: The Food of Spy x Family" until Akimatsuri 2025, before I switched to the more consistent "Eat the Anime" branding.'
+  - 'This panel was previously called "Eat Ostania: The Food of Spy x Family" until Akimatsuri 2025, before I switched to the more consistent "Eat the Anime" branding. It still goes by "Food of Spy x Family" at Tsukino-Con to save on guidebook space.'
 - title: "Eat the Anime: Delicious in Dungeon"
   rating: 13+
   short_description: Ever read or watched Dungeon Meshi (Delicious in Dungeon) where Senshi's cooking makes you hungry for the real deal? Join Mich Chan as she tries to adapt his recipes from the first four episodes (...plus more?) for your kitchen at home!
@@ -121,9 +121,9 @@ panels:
   conventions:
   - Vancouver Retro Gaming Expo 2025 (as "Retro Gaming Eats - Nintendo Edition")
   - Fan Expo Vancouver 2026
-  - Retro Gaming Expo 2026 (upcoming)
+  - Vancouver Retro Gaming Expo 2026 (upcoming)
   notes:
-  - The VRGE 2025 iteration covered games up to the GBA and GameCube. It also included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
+  - All VRGE iterations covered games up to the GBA and GameCube. It also included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
 - title: "Eat the Anime: 2025 shows"
   rating: 13+
   short_description: Hunger for the food featured in this year's (...and last fall's) anime? Join Mich Chan as she tries to replicate some of those foods, including how you can make them yourself at home!
@@ -176,7 +176,7 @@ retired_panels:
   rating: 13+
   short_description: A look at anime set in or heavily inspired by Germany (...plus Austria and Switzerland, forming the "DACH region"), along with how the country influenced Japanese culture and society.
   category: anime
-  retirement_reason: "More interested in doing panels that each zoom in on a specific aspect of German culture; replaced with the \"Eat Ostania: The Food of Spy x Family\" series."
+  retirement_reason: "More interested in doing panels that each zoom in on a specific aspect of German culture; replaced with the \"Eat the Anime: Spy x Family\" series."
   isActive: false
   conventions:
   - Akimatsuri 2022
