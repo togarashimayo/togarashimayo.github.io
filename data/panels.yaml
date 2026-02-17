@@ -120,7 +120,8 @@ panels:
   isActive: true
   conventions:
   - Vancouver Retro Gaming Expo 2025 (as "Retro Gaming Eats - Nintendo Edition")
-  - Fan Expo Vancouver 2026 (upcoming)
+  - Fan Expo Vancouver 2026
+  - Retro Gaming Expo 2026 (upcoming)
   notes:
   - The VRGE 2025 iteration covered games up to the GBA and GameCube. It also included samples produced in a residential kitchen (Yoshi's cookies, Spiral Mountain Honey Cake, and Pokeblocks).
 - title: "Eat the Anime: 2025 shows"
@@ -129,7 +130,7 @@ panels:
   isActive: true
   conventions:
   - 'SFU Summer Festival 2025'
-  - 'Fan Expo Vancouver 2026 (upcoming)'
+  - 'Fan Expo Vancouver 2026'
   - 'Tsukino-Con 2026 (as "2025 in Anime...food?!"; upcoming)'
 
 retired_panels:
