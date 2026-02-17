@@ -13,7 +13,7 @@ If you ever make any of these recipes and share them on social media, please tag
 
 PS: I promise that they don't come with stories. I save them for my panel!
 
-## Eat Ostania: Food of Spy x Family 
+## Eat the Anime: Spy x Family
 
 ### S1
 * [Camilla's gratin](gratin)
@@ -37,7 +37,7 @@ PS: I promise that they don't come with stories. I save them for my panel!
     * [Peanut sauce (The Little Kitchen recipe)](https://www.thelittlekitchen.net/peanut-sauce/)
 * [Meremere](meremere)
 
-## Senshi's Cookbook: The Food of Delicious in Dungeon (E1-4)
+## Eat the Anime: Delicious in Dungeon (E1-4)
 
 * ["Huge Scorpion" + "Walking Mushroom" hot pot](scorpion-mushroom-hot-pot)
 * ["Man-eating plant" tart](man-eating-plant-tart)
@@ -51,7 +51,7 @@ PS: I promise that they don't come with stories. I save them for my panel!
     * [Crepes (Red House Spice Peking duck wrapper recipe)](https://redhousespice.com/easy-chinese-tortilla/)
     * [Dinner rolls (Simply Recipes recipe)](https://www.simplyrecipes.com/quick-dinner-rolls-recipe-6744225)
 
-## This year in anime...food?!
+## Eat the Anime: 2025 shows
 
 ### 2024
 * [Crab nabe (Dandadan)](crab-nabe)
