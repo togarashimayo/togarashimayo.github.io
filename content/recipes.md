@@ -29,7 +29,14 @@ PS: I promise that they don't come with stories. I save them for my panel!
 * [Macarons of Knowledge recipe](macarons-of-knowledge)
 
 ### S3
+* [Croquettes](spy-x-family-croquette)
+* [Tea sweets / snacks](tea-snacks)
 * [Yakisoba burger](yakisoba-burger)
+* [Beef wellington](beef-wellington)
+* [Loid's eggs in a hole](eggs-in-a-hole)
+* [Yor's pancakes / Mint chocolate kebab](yors-pancakes)
+
+(For apple pudding, just mix apple juice with vanilla pudding powder)
 
 ### Code White
 * Peanut chicken
@@ -61,7 +68,7 @@ PS: I promise that they don't come with stories. I save them for my panel!
 * [Ice cream (Apothocary Diaries S2)](maomao-ice-cream)
 * [Risotto (Sakamoto Days)](sakamoto-days-risotto)
 * [Lemon chicken (Kowloon Generic Romance)](lemon-chicken)
-* [Croquette (Umamusume: Cinderella Grey)](croquette)
+* [Croquette (Umamusume: Cinderella Grey)](uma-musume-croquette)
 * [Marinated chicken / kaarage (The Summer Hikaru Died)](marinated-chicken-karaage)
 * [Curry udon (My Dressup Darling S2)](curry-udon)
 * [Cat hotteok (K-Pop Demon Hunters)](hotteok)
