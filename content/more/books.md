@@ -15,6 +15,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
 * *We Need to Talk About Kevin* by Lionel Shriver
+* *Demon Copperhead* by Barbara Kingsolver
 
 ### Non-Fictional
 * *Philippine Society and Revolution* by Amado Guerrero
@@ -23,7 +24,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Persepolis* (original French version) by Marjane Satrapi
 * *Kitchen Confidential* by Anthony Bourdain
 * *The Wealth Ladder* by Nick Maggiulli
-* *The Little Book of Common Sense Investing* by John C Bogle
 
 ## Currently 
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
@@ -32,6 +32,8 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Already read
 
 ### 2026
+* *Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants* by Ann Hui
+* *The Little Book of Common Sense Investing* by John C Bogle
 * *I will Teach You to Be Rich* by Ramit Sethi
 
 ### 2025
