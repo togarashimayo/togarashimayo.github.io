@@ -20,8 +20,10 @@ Kudos to:
 ### Manga
 * *Food Wars* (Volume 9) by Yuto Tsukuda
 * *Frieren* (Volume 13) by Kanehito Yamada
-* *Spy x Family* (Volume 7) by Tatsuya Endo
-* *Delicious in Dungeon* (Volume 13) by Ryoko Kui
+* *Spy x Family* (Volume 10) by Tatsuya Endo
+* *Delicious in Dungeon* (Volume 14) by Ryoko Kui
+* *Witch Hat Atelier* (Volume 2) by Kamome Shirahama
+* *Komi Can't Communicate* (Volume 5-6) by Tomohito Oda
 
 ### Manhwa
 * *Goong*
@@ -55,10 +57,12 @@ None right now
 ## 2026
 
 ### Manga
-* *Delicious in Dungeon* (Volume 8-12) by Ryoko Kui
-* *Spy x Family* (Volume 6) by Tatsuya Endo
+* *Spy x Family* (Volume 6-9) by Tatsuya Endo
+* *Delicious in Dungeon* (Volume 8-13) by Ryoko Kui
+* *Witch Hat Atelier* (Volume 1) by Kamome Shirahama
+* *Komi Can't Communicate* (Volume 5-6) by Tomohito Oda
+* *Villains are Destined to Die* (Volume 7) by Gwongyeoeul
 * *Food Wars* (Volume 8) by Yuto Tsukuda
-* *Komi Can't Communicate* (Volume 4) by Tomohito Oda
 
 ## 2025
 
