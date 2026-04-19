@@ -5,7 +5,7 @@ panels:
   isActive: false
   category: anime
   notes:
-  - This is my most popular panel (even overtaking Donghua, my previous flagship) since I started running it at Anime North 2023.
+  - This is my most popular non-cooking panel (even overtaking Donghua, my previous flagship) since I started running it at Anime North 2023.
   - Some of the other topics I cover include anime broadcasting in the Philippines, historical events that have clear and direct implications for anime in the country, and random Philippine facts woven in-between (such as the 2022-2023 onion crisis).
   - Ogiue Maniax, Scarlet Rhapsody, and Samantha Ferreira (of Anime Herald) covered the panel in their respective Otakon 2023, Sakura-Con 2024, and Otakon 2024 recaps.
   - Members from Canada-Philippines Solidarity for Human Rights (CPSHR) and Anakbayan hosted this panel at Anirevo Vancouver 2025. They combined the panel's subject matter with how it relates to both then-president Marcos Sr. and the martial law.
@@ -59,6 +59,7 @@ panels:
   - Vanhoover Pony Expo 2024
   - Tsukino-Con 2024 (ft. Nyanko Pankotanko)
   - SFU x BCIT Summer Festival 2024 (as "The pitfalls I've fell into as a panelist")
+  - Harumatsuri 2025 (ft. Levi; upcoming)
 - title: Japanese Commercials That (Try To) Make You Laugh
   rating: general
   short_description:  A showcase of some of the funniest and weirdest Japanese commercials, from Mem-Cho squishing mosquitos to Britney Spears selling you candy.
@@ -99,6 +100,8 @@ panels:
   - Otakuthon 2025 (S1)
   - Akimatsuri 2025 (show highlights)
   - Tsukino-Con 2026 (S3)
+  - Harumatsuro 2026 (S3)
+  - Anime North 2026 (show highlights ft. Sam from Otakuthon; upcoming)
   notes:
   - 'This panel was previously called "Eat Ostania: The Food of Spy x Family" until Akimatsuri 2025, before I switched to the more consistent "Eat the Anime" branding. It still goes by "Food of Spy x Family" at Tsukino-Con to save on guidebook space.'
 - title: "Eat the Anime: Delicious in Dungeon"
@@ -109,8 +112,9 @@ panels:
   - 'Tsukino-Con 2025 (E1-4)'
   - 'UBC Pop-Up Hanami 2025 (E1-4)'
   - 'Harumatsuri 2025 (E1-4)'
-  - 'Anime North 2025 (E1-4; ft. Angela)'
+  - 'Anime North 2025 (E1-4 ft. Angela)'
   - Otakuthon 2025 (E1-4)
+  - 'Anime North 2026 (E5-8 ft. Angela)'
   notes:
   - This panel also goes by "The Food of Dungeon Meshi" to help cons save on guidebook space.
   - 'This panel was previously called "Senshi''s Cookbook: The Food of Delicious in Dungeon" until Otakuthon 2025, before I switched to the more consistent "Eat the Anime" branding.'
@@ -183,6 +187,8 @@ retired_panels:
   - Sakura-Con 2023
 
 anime_north_roundtables:
+- title: How to Panel a Panel (Anime North 2026 with Study of Swords, Orian, Chayward, and Fingers)
+- title: Explaining Anime to Your Mom (Anime North 2026 with Angela)
 - title: How to Panel a Panel (Anime North 2025 with Study of Swords, Fingers, Azrae, and Lu)
 - title: Explaining Anime to Your Mom (Anime North 2025 with Angela)
 - title: Convention Horror Stories (Anime North 2025)
