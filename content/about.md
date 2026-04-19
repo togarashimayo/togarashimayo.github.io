@@ -10,7 +10,7 @@ weight: 50
 
 My first experience working with panels was in 2016 while gofering at Anime Revolution (Anirevo). I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018.
 
-After the Summer 2019 con, it was time to leave the year-round team and make my next move: run my own panels!
+That experience served as a finishing school for my next move after leaving the staff following the Summer 2019 con: running my own panels!
 
 Because of my past background, I can see panels from a staffer's perspective. I understand how conventions pick panels including how they see specific types of panels, how panel moderators evaluate my performance and factor it in during future intakes, and how to make the most out of (while not stressing) my panel coordinator. Knowing those concepts help with pitching and delivery, as it helps me show value in my work (be it to the attendees or to my coordinator).
 
@@ -60,11 +60,12 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
     * I'm also afraid to say that I am a fast talker in some situations (...and in both English and German). Still working on pacing my speed, however!
 * I don't drink alcohol, although:
     * I don't mind having it in my food (such as sake in teriyaki salmon or red wine in some beef bourguignon).
-    * I drink copious amounts of tea, with the occasional craft soda.
+    * I drink decaf coffee and infusions (with the occasional hojicha latte or craft soda)
 * I can speed read, and it's why I prefer reading manga (and to a greater extent, manhwa and webtoons) compared to watching anime.
 
 ### Misc
 * Current residence: Metro Vancouver, British Columbia
 * Favourite characters: Gawr Gura, Anya Forger, Kotori Minami
-* Favourite tea: Murchie's Assam Tippy (thanks Plantastic Cosplay!), sencha
-* Currently watching: [Delicious in Dungeon](https://myanimelist.net/anime/52701/Dungeon_Meshi)
+* Favourite craft sodas: Paulaner Spezi/Sunset, Bundaberg (in general)
+* Currently watching: [Delicious in Dungeon](https://myanimelist.net/anime/52701/Dungeon_Meshi), [Witch Hat Atelier](https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier)
+* Currently listening to: Ado
