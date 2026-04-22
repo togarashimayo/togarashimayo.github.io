@@ -52,14 +52,16 @@ panels:
   rating: general
   short_description: Love panels? Interested in running your own panels but don’t know where to start? If so Mich Chan of Togarashi Mayo (a former panels coordinator and current experienced amateur panelist) is here to help! Join her as she walks you through how to create your first panel, from ideation to post-panel reflection.
   category: convention meta
-  isActive: false
+  isActive: true
+  notes:
+  - This panel is best ran with the host con's panel/programming coordinator (or assistant panel coordinator) as a co-panelist, since they can provide insight into how their con's panel selection process works, what they look for in a panel, and other con-specific tips.
   conventions:
   - Tsukino Matsuri 2023 (as "So you want to run a panel?")
   - Akimatsuri 2023 (ft. Plantastic Cosplay)
   - Vanhoover Pony Expo 2024
   - Tsukino-Con 2024 (ft. Nyanko Pankotanko)
   - SFU x BCIT Summer Festival 2024 (as "The pitfalls I've fell into as a panelist")
-  - Harumatsuri 2025 (ft. Levi; upcoming)
+  - Harumatsuri 2025 (ft. Lee; upcoming)
 - title: Japanese Commercials That (Try To) Make You Laugh
   rating: general
   short_description:  A showcase of some of the funniest and weirdest Japanese commercials, from Mem-Cho squishing mosquitos to Britney Spears selling you candy.
@@ -100,7 +102,7 @@ panels:
   - Otakuthon 2025 (S1)
   - Akimatsuri 2025 (show highlights)
   - Tsukino-Con 2026 (S3)
-  - Harumatsuro 2026 (S3)
+  - Harumatsuri 2026 (S3)
   - Anime North 2026 (show highlights ft. Sam from Otakuthon; upcoming)
   notes:
   - 'This panel was previously called "Eat Ostania: The Food of Spy x Family" until Akimatsuri 2025, before I switched to the more consistent "Eat the Anime" branding. It still goes by "Food of Spy x Family" at Tsukino-Con to save on guidebook space.'
@@ -131,7 +133,7 @@ panels:
 - title: "Eat the Anime: 2025 shows"
   rating: 13+
   short_description: Hunger for the food featured in this year's (...and last fall's) anime? Join Mich Chan as she tries to replicate some of those foods, including how you can make them yourself at home!
-  isActive: true
+  isActive: false
   conventions:
   - 'SFU Summer Festival 2025'
   - 'Fan Expo Vancouver 2026'
@@ -188,14 +190,11 @@ retired_panels:
 
 anime_north_roundtables:
 - title: How to Panel a Panel (Anime North 2026 with Study of Swords, Orian, Chayward, and Fingers)
-- title: Explaining Anime to Your Mom (Anime North 2026 with Angela)
+- title: Explaining Anime to Your Mom (Anime North 2024-2026 with Angela)
 - title: How to Panel a Panel (Anime North 2025 with Study of Swords, Fingers, Azrae, and Lu)
-- title: Explaining Anime to Your Mom (Anime North 2025 with Angela)
 - title: Convention Horror Stories (Anime North 2025)
 - title: How to Panel a Panel (Anime North 2024 with Orian and Picky33)
-- title: World of Korean Manhwa (Anime North 2024, with Orian, Leo, and Rosa)
-- title: Explaining Anime to Your Mom (Anime North 2024)
-- title: World of Korean Manhwa (Anime North 2023, with Orian, Leo, and Rosa)
+- title: World of Korean Manhwa (Anime North 2023-2024, with Orian, Leo, and Rosa)
 - title: Legend of Zelda Megapanel (Anime North 2023)
 - title: Spy x Family (Anime North 2023)
 - title: Korean Manhwa (Anime North 2022, with Kris and Orian)
