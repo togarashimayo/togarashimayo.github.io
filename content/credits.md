@@ -31,9 +31,11 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 *Only listing people who have tried at least two dishes _and_ gave genuine feedback*
 
-**They've been doing so much testing for me that I lost track:** [Bev](https://aiyaohno.com/), [Keichoro](https://www.instagram.com/keichoro03), Devon, Angela, Keith
+**They've been doing so much testing for me that I lost track:** [Bev](https://aiyaohno.com/), [Keichoro](https://www.instagram.com/keichoro03), Devon, Angela, Keith, my wonderful family
 
-**At least two dishes:** [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, Zerogouki, [Leona G](https://greensandbeansdeli.com/)
+**At least five dishes:** [Jesse Betteridge](https://linktr.ee/jbetteridge "Jesse regularly advises me with creating and deploying panels.") of [Zannen, Canada](http://zannen.ca), Christine
+
+**At least two dishes:** [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/)
 
 ## <3
 
@@ -44,4 +46,4 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels), Tsukino-Con Programming, [Vancouver Anime Convention Society](https://animeevolution.com/), [SFU Anime](https://sfuani.me/), [NoS Anime](https://nosanime.tumblr.com/), [Canada-Philippines Solidarity for Human Rights](https://www.instagram.com/cps.vancouver/), [Anakbayan BC](https://www.instagram.com/anakbayanbc), and [nwPlus](https://nwplus.io/)
 
-**Individuals:**  [Jesse Betteridge](https://linktr.ee/jbetteridge "Jesse regularly advises me with creating and deploying panels.") of [Zannen, Canada](http://zannen.ca), [Jay Agonoy](http://jayagonoy.com "Jay helped me with my Tagalog pronounciation between Sakura-Con 2023 and Anime North 2023."), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social "Dave has been a big help in promoting Anime in the Philippines during Anime North and Otakon 2023 and 2024, even mentioning the panel during Anime Hell for the former."), [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/ "Arnold obviously specializes in making buildings more accessible, but he did give me some pointers on how I can make my presentations more inclusive to my audience."), and [Nush](https://www.instagram.com/butterfly.bbt/ "Nush took the picture of me Shinji posing at her cafe, which is my intro slide pic for my respective Battle Royale vs. The Hunger Games and Korean-adjacent panels")
+**Individuals:** [Jay Agonoy](http://jayagonoy.com "Jay helped me with my Tagalog pronounciation between Sakura-Con 2023 and Anime North 2023."), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social "Dave has been a big help in promoting Anime in the Philippines during Anime North and Otakon 2023 and 2024, even mentioning the panel during Anime Hell for the former."), [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/ "Arnold obviously specializes in making buildings more accessible, but he did give me some pointers on how I can make my presentations more inclusive to my audience."), and [Nush](https://www.instagram.com/butterfly.bbt/ "Nush took the picture of me Shinji posing at her cafe, which is my intro slide pic for my respective Battle Royale vs. The Hunger Games and Korean-adjacent panels")
