@@ -19,18 +19,18 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ### Non-Fictional
 * *Philippine Society and Revolution* by Amado Guerrero
 * *Modern Software Engineering: Doing What Works to Build Better Software Faster* by Dave Farley
-* *Never Split the Difference* by Christopher Voss
 * *Persepolis* (original French version) by Marjane Satrapi
-* *Kitchen Confidential* by Anthony Bourdain
 
 ## Currently 
-* *Cryng in H Mart* by Michelle Zauner
+* *Never Split the Difference* by Christopher Voss
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
 * *Gregs Tagebuch: Keine Panik!* (*Diary of a Wimpy Kid: Cabin Fever*'s German translation) by Jeff Kinney
 
 ## Already read
 
 ### 2026
+* *Kitchen Confidential* by Anthony Bourdain
+* *Cryng in H Mart* by Michelle Zauner
 * *Cloud Atlas* by David Mitchell
 * *The Wealth Ladder* by Nick Maggiulli
 * *Demon Copperhead* by Barbara Kingsolver

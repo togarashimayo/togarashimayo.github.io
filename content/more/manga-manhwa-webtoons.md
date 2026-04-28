@@ -14,16 +14,14 @@ Kudos to:
 * Rosa, [Orian](https://www.twitch.tv/orianhdx), Jaune, and Leo for sharing their interest in manhwa and webtoons with me.
 * [Ki Cafe](https://order.ki-tea.com/) for their semi-public manga collection. This was a big help in helping me evaluate whether a manga is worth reading without having to twiddle my thumbs with the public libraries.
 * The Vancouver Public Library for their public manga collection. 
+* [Bassman Reviews](https://www.youtube.com/@bassman.reviews) for looping me in about Naoki Urasawa's work.
 
 ## To read
 
 ### Manga
-* *Food Wars* (Volume 9) by Yuto Tsukuda
 * *Frieren* (Volume 13) by Kanehito Yamada
-* *Spy x Family* (Volume 10) by Tatsuya Endo
-* *Delicious in Dungeon* (Volume 14) by Ryoko Kui
 * *Witch Hat Atelier* (Volume 2) by Kamome Shirahama
-* *Komi Can't Communicate* (Volume 5-6) by Tomohito Oda
+* *Billy Bat* (Volume 1) by Naoki Urasawa
 
 ### Manhwa
 * *Goong*
@@ -39,7 +37,11 @@ Kudos to:
 ## Currently reading
 
 ### Manga
-None right now
+* *Asadora!* (Volume 1) by Naoki Urasawa
+* *Komi Can't Communicate* (Volume 7) by Tomohito Oda
+* *Delicious in Dungeon* (Volume 14) by Ryoko Kui
+* *Spy x Family* (Volume 10) by Tatsuya Endo
+* *Food Wars* (Volume 9) by Yuto Tsukuda
 
 ### Manhwa
 None right now
