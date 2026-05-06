@@ -7,11 +7,11 @@ weight: 50
 
 # Loid's hambagu
 
-Last updated: 2025-10-25
+Last updated: 2026-05-05
 
 *Hambagu recipe adapted from [Namiko Chen of Just One Cookbook's recipe](https://www.justonecookbook.com/hamburger-steak-hambagu/). The roasted tomatoes and potato wedges are my own recipe.*
 
-*Massive thank you to [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) for [making this recipe and sharing it with me](https://old.reddit.com/r/SpyxFamily/comments/1morny1/i_tried_making_loids_hamburger_steak_from_spy_x/)!*
+*Massive thank you to [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) for [making this recipe and sharing it with me](https://old.reddit.com/r/SpyxFamily/comments/1morny1/i_tried_making_loids_hamburger_steak_from_spy_x/), and Mira M for troubleshooting my potatoes!*
 
 ## Ingredients (serves four)
 
@@ -20,21 +20,21 @@ Last updated: 2025-10-25
 * 1/2 onion
 * 12oz ground meat (I typically use 12oz beef)
 * 1/2 tsp nutmeg or cinnamon
-* 1/3 cup [breadcrumbs made from milk bread](https://www.allrecipes.com/article/how-to-make-breadcrumbs/)
-* 2 tbsp half and half cream
+* 1/3 cup [breadcrumbs made from milk bread](https://www.allrecipes.com/article/how-to-make-breadcrumbs/) (or panko breadcrumbs)
+* 2 tbsp half and half cream (or milk)
 * 1 egg
 
 ### Cooking the patties
 
 * 1 tbsp neutral oil
-* 3 tbsp red wine or grape juice
+* 3 tbsp grape juice (or red wine)
 
 ### Cooking the sauce
 
-* 1 tbsp unsalted butter
+* 1 tbsp unsalted butter OR beef suet
 * 3 tbsp tomato paste
 * 3 tbsp tonkatsu or takoyaki sauce
-* 3 tbsp red wine (use grape juice for a non-alcoholic/halal subsitute)
+* 3 tbsp grape juice (or red wine)
 * 3 tbsp water
 
 ### Fried potato (Bratkartoffeln) wedges
@@ -89,7 +89,7 @@ Last updated: 2025-10-25
 2. Cut the broccoli in to small florets and [steam](https://www.simplyrecipes.com/recipes/steamed_broccoli/). 
 
 ## Notes
-* Replacing the wine with grape juice will make the sauce taste sweeter and tangier.
+* I prefer making this with grape juice compared to wine, as it's tangier and cheaper.
 * You can subsitute the half-and-half cream and milk bread bread crumbs with milk and panko bread crumbs respectively (like in Namiko's original recipe). But it will be less flavourful.
 * If you want to add more flavour to the potatoes while sacrificing accuracy, you can add bell peppers like Sam did.
 * You can also cook the broccoli in chicken broth. It will add a subtle chicken flavour to the broccoli, and you can also drink the (broccoli-flavoured) chicken broth on the side.
