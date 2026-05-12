@@ -15,6 +15,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
 * *We Need to Talk About Kevin* by Lionel Shriver
+* *The Testaments* by Margaret Atwood
 
 ### Non-Fictional
 * *Philippine Society and Revolution* by Amado Guerrero
@@ -23,12 +24,17 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ## Currently 
 * *Never Split the Difference* by Christopher Voss
+* *Fluent Forever: How to Learn Any Language Fast and Never Forget It* by Gabriel Wyner
+* *Eat the Frog* by Brian Tracy
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
-* *Gregs Tagebuch: Keine Panik!* (*Diary of a Wimpy Kid: Cabin Fever*'s German translation) by Jeff Kinney
+* *My First Bilingual Book - Colors (English–Korean)* by Milet Publishing
+* *My First Bilingual Book - A Day (English–Korean)* by Milet Publishing
 
 ## Already read
 
 ### 2026
+* *Gregs Tagebuch: Keine Panik!* (*Diary of a Wimpy Kid: Cabin Fever*'s German translation) by Jeff Kinney
+* *Mastering the Art of Japanese Home Cooking* by Masaharu Morimoto
 * *Kitchen Confidential* by Anthony Bourdain
 * *Cryng in H Mart* by Michelle Zauner
 * *Cloud Atlas* by David Mitchell
