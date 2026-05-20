@@ -34,6 +34,7 @@ The "base" recipe I use for making Pokeblocks (Pokemon Ruby/Saphire/Emerald) and
 
 
 ## Notes
+* If you are making the treasure bug jam bread sandwich, you can put the gems in between a burger bun and a bit of [snowcone syrup](http://localhost:1313/recipes/exorcism-sorbet/).
 * I used strawberry and lemon as my flavours.
 * People swear by the telephone brand. But I've gotten away with using golden cup and Fujishoku. 
 * I also cut off the edges so they look sharp.

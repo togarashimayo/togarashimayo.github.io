@@ -44,7 +44,9 @@ PS: I promise that they don't come with stories. I save them for my panel!
     * [Peanut sauce (The Little Kitchen recipe)](https://www.thelittlekitchen.net/peanut-sauce/)
 * [Meremere](meremere)
 
-## Eat the Anime: Delicious in Dungeon (E1-4)
+## Eat the Anime: Delicious in Dungeon
+
+### Episodes 1-4
 
 * ["Huge Scorpion" + "Walking Mushroom" hot pot](scorpion-mushroom-hot-pot)
 * ["Man-eating plant" tart](man-eating-plant-tart)
@@ -57,6 +59,15 @@ PS: I promise that they don't come with stories. I save them for my panel!
     * [Spicy chicken and whole stewed cabbage](spicy-chicken-and-whole-stewed-cabbage)
     * [Crepes (Red House Spice Peking duck wrapper recipe)](https://redhousespice.com/easy-chinese-tortilla/)
     * [Dinner rolls (Simply Recipes recipe)](https://www.simplyrecipes.com/quick-dinner-rolls-recipe-6744225)
+
+### Episodes 5-8
+* [Treasure bug jam](kohakutou-base)
+* [Special Interfaith Holy Water](interfaith-holy-water)
+* [Exorcism Sorbet](exorcism-sorbet)
+* [Court cuisine full course meal](court-cuisine-meal)
+* [Porridge made from grain that was just lying around](dungeon-porridge)
+* [Grilled parasite (Just One Cookbook unagi recipe)](https://www.justonecookbook.com/unagi-don-unadon/)
+* [Grilled kelpie](grilled-kelpie)
 
 ## Eat the Anime: 2025 shows
 
@@ -84,7 +95,7 @@ Introduced in the OG Retro Gaming Eats - Nintendo edition (1.0):
 * [Princess peach cake](princess-peach-cake)
 * [Peanut cheesecake bars](peanut-cheese-bars)
 * [Chateau Romani soda](chateau-romani-soda)
-* [Pokeblocks](pokeblocks) 
+* [Pokeblocks](kohakutou-base) 
 * [Spiral Mountain honey cake](spiral-mountain-cake)
 
 Introduced in the Fan Expo Van 2026 iteration (1.1):
