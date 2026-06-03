@@ -23,9 +23,7 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Persepolis* (original French version) by Marjane Satrapi
 
 ## Currently 
-* *Never Split the Difference* by Christopher Voss
 * *Fluent Forever: How to Learn Any Language Fast and Never Forget It* by Gabriel Wyner
-* *Eat the Frog* by Brian Tracy
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
 * *My First Bilingual Book - Colors (English–Korean)* by Milet Publishing
 * *My First Bilingual Book - A Day (English–Korean)* by Milet Publishing
@@ -33,6 +31,9 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Already read
 
 ### 2026
+* *The Boba Book: Bubble Tea and Beyond* by Andrew Chau and Bin Chen
+* *Eat the Frog* by Brian Tracy
+* *Never Split the Difference* by Christopher Voss
 * *Gregs Tagebuch: Keine Panik!* (*Diary of a Wimpy Kid: Cabin Fever*'s German translation) by Jeff Kinney
 * *Mastering the Art of Japanese Home Cooking* by Masaharu Morimoto
 * *Kitchen Confidential* by Anthony Bourdain

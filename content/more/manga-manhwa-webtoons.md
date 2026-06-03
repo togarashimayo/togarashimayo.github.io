@@ -20,11 +20,10 @@ Kudos to:
 
 ### Manga
 * *Frieren* (Volume 13) by Kanehito Yamada
-* *Witch Hat Atelier* (Volume 2) by Kamome Shirahama
 * *Billy Bat* (Volume 1) by Naoki Urasawa
 * *Komi Can't Communicate* (Volume 9) by Tomohito Oda
 * *Asadora!* (Volume 4) by Naoki Urasawa
-* *The Way of the Househusband* (Volume 3) by Kousuke Oono
+* *The Way of the Househusband* (Volume 4) by Kousuke Oono
 
 ### Manhwa
 * *Goong*
@@ -40,10 +39,9 @@ Kudos to:
 ## Currently reading
 
 ### Manga
+* *Witch Hat Atelier* (Volume 2) by Kamome Shirahama
 * *Spy x Family* (Volume 13) by Tatsuya Endo
 * *Food Wars* (Volume 9) by Yuto Tsukuda
-* *Asadora!* (Volume 3) by Naoki Urasawa
-* *Mujirushi: The Sign of Dreams* by Naoki Urasawa
 
 ### Manhwa
 None right now
@@ -61,8 +59,9 @@ None right now
 ## 2026
 
 ### Manga
-* *The Way of the Househusband* (Volume 1-2) by Kousuke Oono
-* *Asadora!* (Volume 1-2) by Naoki Urasawa
+* *Asadora!* (Volume 1-3) by Naoki Urasawa
+* *Mujirushi: The Sign of Dreams* by Naoki Urasawa
+* *The Way of the Househusband* (Volume 1-3) by Kousuke Oono
 * *Komi Can't Communicate* (Volume 5-8) by Tomohito Oda
 * *Spy x Family* (Volume 6-12) by Tatsuya Endo
 * *Delicious in Dungeon* (Volume 8-14) by Ryoko Kui
