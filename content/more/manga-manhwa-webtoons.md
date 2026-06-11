@@ -21,7 +21,11 @@ Kudos to:
 ### Manga
 * *Frieren* (Volume 13) by Kanehito Yamada
 * *Billy Bat* (Volume 1) by Naoki Urasawa
-* *Komi Can't Communicate* (Volume 9) by Tomohito Oda
+* *Komi Can't Communicate* (Volume 11) by Tomohito Oda
+* *Witch Hat Atelier* (Volume 4) by Kamome Shirahama
+* *Spy x Family* (Volume 6-14) by Tatsuya Endo
+* *Komi Can't Communicate* (Volume 11) by Tomohito Oda
+* *Food Wars* (Volume 10) by Yuto Tsukuda
 * *Asadora!* (Volume 4) by Naoki Urasawa
 * *The Way of the Househusband* (Volume 4) by Kousuke Oono
 
@@ -39,9 +43,7 @@ Kudos to:
 ## Currently reading
 
 ### Manga
-* *Witch Hat Atelier* (Volume 2) by Kamome Shirahama
-* *Spy x Family* (Volume 13) by Tatsuya Endo
-* *Food Wars* (Volume 9) by Yuto Tsukuda
+None right now
 
 ### Manhwa
 None right now
@@ -59,15 +61,15 @@ None right now
 ## 2026
 
 ### Manga
+* *Witch Hat Atelier* (Volume 1-3) by Kamome Shirahama
+* *Spy x Family* (Volume 6-14) by Tatsuya Endo
+* *Komi Can't Communicate* (Volume 5-10) by Tomohito Oda
+* *Food Wars* (Volume 7-9) by Yuto Tsukuda
 * *Asadora!* (Volume 1-3) by Naoki Urasawa
 * *Mujirushi: The Sign of Dreams* by Naoki Urasawa
 * *The Way of the Househusband* (Volume 1-3) by Kousuke Oono
-* *Komi Can't Communicate* (Volume 5-8) by Tomohito Oda
-* *Spy x Family* (Volume 6-12) by Tatsuya Endo
 * *Delicious in Dungeon* (Volume 8-14) by Ryoko Kui
 * *Villains are Destined to Die* (Volume 7-8) by Gwongyeoeul
-* *Food Wars* (Volume 8) by Yuto Tsukuda
-* *Witch Hat Atelier* (Volume 1) by Kamome Shirahama
 
 ## 2025
 
