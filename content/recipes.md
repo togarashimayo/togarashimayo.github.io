@@ -103,6 +103,12 @@ Introduced in the Fan Expo Van 2026 iteration (1.1):
 * [Poffins](poffins)
 * [Salmon Meuniere](salmon-meuniere)
 
+Introduced in the Retro Gaming Expo 2026 iteration (1.2):
+* [Ink pasta](ink-pasta)
+* [Duck dinner](duck-dinner)
+
+For Yeto's soup, I  I used [The Salty Marshmallow’s recipe](https://thesaltymarshmallow.com/easy-pumpkin-soup/), but omitted the ginger, caramelized the onions for 45 minutes, and added in 3 oz of goat cheese.
+
 ## Misc
 *Unrelated recipes from my personal life*
 * [Focaccia](focaccia)
