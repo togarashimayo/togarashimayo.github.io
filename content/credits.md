@@ -15,9 +15,15 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **_Eat the Anime: Spy x Family_:** [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived) (Anime North 2026)
 
+**_Eat the Video Game: Retro Nintendo_:** [Kasuminn](https://www.instagram.com/kasuminn.cos/) (Retro Gaming Expo 2026)
+
+**_Panelling for Dummies_:** Lee (Harumatsuri 2026)
+
 ## Operations
 
 **Secondary:** [Sheryl Laine (Candy Alley)](https://www.instagram.com/candyalleyy/)
+
+**Intern:** [Sam from Otakuthon](https://old.reddit.com/user/LoadingRevived)
 
 **Public-facing profile picture:** [yuumocha](https://www.instagram.com/yuumochachino/)
 
@@ -35,12 +41,12 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **At least five dishes:** [Jesse Betteridge](https://linktr.ee/jbetteridge "Jesse regularly advises me with creating and deploying panels.") of [Zannen, Canada](http://zannen.ca), Christine
 
-**At least two dishes:** [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/)
+**At least two dishes:** [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/), and Jeff
 
 ## <3
 
 **Alumni:** 
-* Co-panelists: [Wesson Grey](https://www.twitch.tv/ProjectWessonGrey),  [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/), [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/), [Plantastic Cosplay](https://plantastic.picobin.com/), and [Nyanko Pankotanko](https://nyanpan.carrd.co/) 
+* Co-panelists: [Wesson Grey](https://www.twitch.tv/wessongrey),  [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/), [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/), [Plantastic Cosplay](https://plantastic.picobin.com/), and [Nyanko Pankotanko](https://nyanpan.carrd.co/) 
 * Niche knowledge: [Jarvis Gray](https://bsky.app/profile/roadbuster84.bsky.social) and Mira M
 
 
