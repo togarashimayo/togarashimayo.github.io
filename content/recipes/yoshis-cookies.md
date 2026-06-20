@@ -7,21 +7,19 @@ weight: 50
 
 # Yoshi's Cookies
 
-#TODO write full recipe
-
 *These cookies are based on the NES take*
 
 ## Sugar cookie base
 
 I halved the [Allrecipes's Best rolled sugar cookies](https://www.allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/) recipe. For shaping the cookies:
-* Square: I cut out squares with a knife, before making a dent in the centre.
+* Square: I cut out 2" squares with a knife, before making a dent in the centre.
 * Flower: I used a 1.75" cookie cutter from Bulk Barn, before making a dent in the centre.
 * Circle: I used a shot glass and cut out holes with a toothpick, before dusting the cookie in cinnamon sugar (1:1 cinammon:sugar)
-* Heart/Linzer: I cut out heart shapes with a 2" cookie cutter. For every second cookie, I cut out another heart out of the heart shaped cookie.
+* Heart/Linzer: I cut out heart shapes with a 2" cookie cutter. For every second cookie, I cut out another heart with a toothpick out of the heart shaped cookie.
 
 ### Decorating the cookies
 * Flower & square: I added a small amount of royal icing to the dent before adding a Smartie on top of it (purple for flower; green for square)
-* Heart/Linzer: I added a bit of lingonberry jam on a solid heart cookie, before sandwiching a heart outline cookie on top.
+* Heart/Linzer: In 2025, I added a bit of jam on a solid heart cookie, before sandwiching a heart outline cookie on top. In 2026, I just pressed the Smarties on the dough and baked them into the cookies.
 
 ## Checkerboard cookies
 

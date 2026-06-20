@@ -88,24 +88,24 @@ PS: I promise that they don't come with stories. I save them for my panel!
 
 Introduced in the OG Retro Gaming Eats - Nintendo edition (1.0):
 
-* ["Koopasta" pesto pasta (recipetineats recipe)](https://www.recipetineats.com/pesto-pasta/)
-* [Superspicy curry](superspicy-curry)
-* [Eggplant Wizard moussaka](moussaka)
+* ["Koopasta" pesto pasta (Paper Mario; recipetineats recipe)](https://www.recipetineats.com/pesto-pasta/)
+* [Superspicy curry (Kirby)](superspicy-curry)
+* [Eggplant Wizard moussaka (Kid Icarus inspired)](moussaka)
 * [Yoshi's cookies](yoshis-cookies)
-* [Princess peach cake](princess-peach-cake)
-* [Peanut cheesecake bars](peanut-cheese-bars)
-* [Chateau Romani soda](chateau-romani-soda)
-* [Pokeblocks](kohakutou-base) 
-* [Spiral Mountain honey cake](spiral-mountain-cake)
+* [Princess Peach cake (Super Mario 64)](princess-peach-cake)
+* [Peanut cheesecake bars (Earthbound / MOTHER 2)](peanut-cheese-bars)
+* [Chateau Romani soda (Zelda: Majora's Mask inspired)](chateau-romani-soda)
+* [Pokeblocks (Pokemon Ruby/Sapphire/Emerald)](kohakutou-base) 
+* [Spiral Mountain honey cake (Banjo Kazooie)](spiral-mountain-cake)
 
 Introduced in the Fan Expo Van 2026 iteration (1.1):
-* [Mario Kart World Switch 2 tire donut](tire-donut)
+* [Tire donut (Mario Kart World)](tire-donut)
 * [Poffins](poffins)
-* [Salmon Meuniere](salmon-meuniere)
+* [Salmon Meuniere (Zelda: Breath of the Wild)](salmon-meuniere)
 
 Introduced in the Retro Gaming Expo 2026 iteration (1.2):
-* [Ink pasta](ink-pasta)
-* [Duck dinner](duck-dinner)
+* [Ink pasta (Paper Mario: Thousand Year Door)](ink-pasta)
+* [Duck dinner (Duck Hunt inspired)](duck-dinner)
 
 For Yeto's soup, I  I used [The Salty Marshmallow’s recipe](https://thesaltymarshmallow.com/easy-pumpkin-soup/), but omitted the ginger, caramelized the onions for 45 minutes, and added in 3 oz of goat cheese.
 

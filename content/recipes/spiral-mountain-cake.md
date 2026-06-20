@@ -12,12 +12,13 @@ weight: 50
 ## Ingredients
 * 150g roughtly-chopped pitted dates
 * 75g unsalted butter
+* 75 mL very hot water
 * 35g of your favourite sweetener
 * 250g peeled and roughly chopped bananas (about 2 large bananas)
 * 3 eggs
 * 200g all-purpose flour
-* 2 tsp baking powder
-* 1/4 tsp baking soda
+* 10 mL baking powder
+* 1.25 mL baking soda
 
 ## Steps
 1. Preheat oven to 320 degrees F.
@@ -28,5 +29,5 @@ weight: 50
 6. Remove the loaf tin from the oven. Let it sit for 10 minutes, before removing and cutting.
 
 ## Notes
-* For my "favourite sweetener", I used 25 mL of blueberry syrup (by accident because it was in a honey bottle) and 10 mL of honey. The original rewcipe uses light brown soft sugar.
+* For my "favourite sweetener", I used 25 mL of blueberry syrup (by accident because it was in a honey bottle) and 10 mL of honey in 2025 (which I reduced to 25 mL honey in 2026). The original recipe uses light brown soft sugar.
 * I used two overripe bananas which made the cake denser.
