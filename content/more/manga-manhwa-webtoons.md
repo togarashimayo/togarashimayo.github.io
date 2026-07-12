@@ -15,7 +15,7 @@ Kudos to:
 * [Ki Cafe](https://order.ki-tea.com/) for their semi-public manga collection. This was a big help in helping me evaluate whether a manga is worth reading without having to twiddle my thumbs with the public libraries.
 * The Vancouver Public Library for their public manga collection. 
 * [Bassman Reviews](https://www.youtube.com/@bassman.reviews) for looping me in about Naoki Urasawa's work.
-* [Winston]() for looping me in about
+* [Winston](https://www.instagram.com/keyboardgrinder/) for looping me in about *Daemons of the Shadow Realm*
 
 ## To read
 
