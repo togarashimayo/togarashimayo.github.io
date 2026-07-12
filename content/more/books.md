@@ -23,14 +23,18 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Persepolis* (original French version) by Marjane Satrapi
 
 ## Currently 
-* *Fluent Forever: How to Learn Any Language Fast and Never Forget It* by Gabriel Wyner
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
-* *My First Bilingual Book - Colors (English–Korean)* by Milet Publishing
-* *My First Bilingual Book - A Day (English–Korean)* by Milet Publishing
+* *No New Things* by Piper Ashlee
+* *Without You, There is No Us: My Time With the Sons of North Korea's Elite* by Suki Kim
 
 ## Already read
 
 ### 2026
+* *How to Make Friends and Influence People* by Dale Carnegie
+* *Fluent Forever: How to Learn Any Language Fast and Never Forget It* by Gabriel Wyner
+* *My First Bilingual Book - Colors (English–Korean)* by Milet Publishing
+* *My First Bilingual Book - A Day (English–Korean)* by Milet Publishing
+* *My First Bilingual Book - Indoors (English–Korean)* by Milet Publishing
 * *The Boba Book: Bubble Tea and Beyond* by Andrew Chau and Bin Chen
 * *Eat the Frog* by Brian Tracy
 * *Never Split the Difference* by Christopher Voss

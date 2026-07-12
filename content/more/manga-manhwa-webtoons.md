@@ -15,6 +15,7 @@ Kudos to:
 * [Ki Cafe](https://order.ki-tea.com/) for their semi-public manga collection. This was a big help in helping me evaluate whether a manga is worth reading without having to twiddle my thumbs with the public libraries.
 * The Vancouver Public Library for their public manga collection. 
 * [Bassman Reviews](https://www.youtube.com/@bassman.reviews) for looping me in about Naoki Urasawa's work.
+* [Winston]() for looping me in about
 
 ## To read
 
@@ -22,12 +23,14 @@ Kudos to:
 * *Frieren* (Volume 13) by Kanehito Yamada
 * *Billy Bat* (Volume 1) by Naoki Urasawa
 * *Komi Can't Communicate* (Volume 11) by Tomohito Oda
-* *Witch Hat Atelier* (Volume 4) by Kamome Shirahama
+* *Witch Hat Atelier* (Volume 5) by Kamome Shirahama
 * *Spy x Family* (Volume 6-14) by Tatsuya Endo
 * *Komi Can't Communicate* (Volume 11) by Tomohito Oda
-* *Food Wars* (Volume 10) by Yuto Tsukuda
-* *Asadora!* (Volume 4) by Naoki Urasawa
+* *Food Wars* (Volume 13) by Yuto Tsukuda
+* *Asadora!* (Volume 8-9) by Naoki Urasawa
 * *The Way of the Househusband* (Volume 4) by Kousuke Oono
+* *Daemons of the Shadow Realm* (Volume 3) by Hiromu Arakawa
+* *My Brain is Different* by Monzusu
 
 ### Manhwa
 * *Goong*
@@ -61,11 +64,12 @@ None right now
 ## 2026
 
 ### Manga
-* *Witch Hat Atelier* (Volume 1-3) by Kamome Shirahama
+* *Daemons of the Shadow Realm* (Volume 1-2) by Hiromu Arakawa
+* *Food Wars* (Volume 7-12) by Yuto Tsukuda
+* *Witch Hat Atelier* (Volume 1-4) by Kamome Shirahama
+* *Asadora!* (Volume 1-7) by Naoki Urasawa
 * *Spy x Family* (Volume 6-14) by Tatsuya Endo
 * *Komi Can't Communicate* (Volume 5-10) by Tomohito Oda
-* *Food Wars* (Volume 7-9) by Yuto Tsukuda
-* *Asadora!* (Volume 1-3) by Naoki Urasawa
 * *Mujirushi: The Sign of Dreams* by Naoki Urasawa
 * *The Way of the Househusband* (Volume 1-3) by Kousuke Oono
 * *Delicious in Dungeon* (Volume 8-14) by Ryoko Kui
