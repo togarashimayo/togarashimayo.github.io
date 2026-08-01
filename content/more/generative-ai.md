@@ -7,13 +7,15 @@ weight: 50
 
 # On AI in my work
 
+**Last updated: 2026-07-31**
+
 Creating and running panels is fun but challenging. There's also a lot going on with AI in fandom spaces, so let's talk about it in my work, be it panels, recipes, or food writing. 
 
 (This is also the full disclaimer that I've put a QR code of during my introduction, starting with Otakuthon 2025.)
 
 ## On generative AI
 
-I do not use any generative AI (what most laypeople think of when they hear "AI") in my my work, let alone support it in other people's panels or creative work. 
+I do not use any generative AI (what most laypeople think of when they hear "AI") in my work, let alone support it in other people's panels or creative work.
 
 For panels, this includes (but not limited to):
 * Selecting clips
@@ -30,13 +32,17 @@ In addition:
 
 ## Iterative AI did help!
 
-Also known as machine learning or "traditional" AI, I’ve used it in _Anime in the Philippines_ for (roughly) translating two clips and an r/Philippines comment from Tagalog to English. The translation is heavily [Woolseyfied](https://tvtropes.org/pmwiki/pmwiki.php/Main/Woolseyism) (link if you haven't heard of this term), but it's still better than nothing?
+Also known as machine learning or "traditional" AI, I’ve used it:
+*  In _Anime in the Philippines_ for (roughly) translating two clips and an r/Philippines comment from Tagalog to English. The translation is heavily [Woolseyfied](https://tvtropes.org/pmwiki/pmwiki.php/Main/Woolseyism) (link if you haven't heard of this term), but it's still better than nothing?
+* While rehearsing my panels through MS PowerPoint's presenter coach feature.
 
 ## "OK Mich, why does this matter to you?"
 
 Beyond the usual arguments about the environment and stealing from creatives, running panels helps me hone my respective communication, problem-solving, graphic design, and cooking/baking skills to develop myself personally (...while "paying" for my admission at anime cons). Using generative AI in my work circumvents the chances for me to hone those skills, because it doesn't give me a reason to try new things and learn different perspectives. 
 
-I've seen this outcome on Eat New west where someone "duped" the Cactus Club ("Cactus") soy dijon salmon dish. Did she try to modify an existing soy dijon salmon recipe so it's more Cactus-like, use Google to find [this human-tested recipe from _Hey Kim, Let's Eat!_](https://heykimletseat.com/cactus-clubs-dijon-salmon-copycat-recipe/), or even ask a current/former Cactus employee about the recipe? Nope. She admitted to using ChatGPT to generate a recipe for her with the group cheering her on instead of questioning her. (The kicker? I ran that "dupe" recipe through a friend who previously worked at Cactus, and they told me that Cactus doesn't use the cooking techniques in that recipe to make their salmon.) 
+I've seen this outcome twice on Eat New West where:
+1. Someone "duped" the Cactus Club ("Cactus") soy dijon salmon dish. Did she try to modify an existing soy dijon salmon recipe so it's more Cactus-like, use Google to find [this human-tested recipe from _Hey Kim, Let's Eat!_](https://heykimletseat.com/cactus-clubs-dijon-salmon-copycat-recipe/), or even ask a current/former Cactus employee about the recipe? Nope. She admitted to using ChatGPT to generate a recipe for her with the group cheering her on instead of questioning her. (The kicker? I ran that "dupe" recipe through a friend who previously worked at Cactus, and they told me that Cactus doesn't use the cooking techniques in that recipe to make their salmon.)
+2. Members such as myself regularly see an in AI-generated fliers from businesses. The mod team is aware and have considered banning AI fliers, but decided to ban any flier that doesn't have some sort of story attached regardless of AI usage.
 
 (I will update this statement as I hear other stories.)
 
