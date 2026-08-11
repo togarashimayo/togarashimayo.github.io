@@ -17,7 +17,7 @@ PS: I promise that they don't come with stories. I save them for my panel!
 
 ### S1
 * [Camilla's gratin](gratin)
-* [Loid's butter cookies](https://old.reddit.com/r/SpyxFamily/comments/1f7frhn/i_made_the_cookies_from_s1e3/ll7exy6/?context=1)
+* [Loid's butter cookies](loids-cookies)
 * [Omurice (JOC recipe)](https://www.justonecookbook.com/omurice-japanese-omelette-rice/)
 * [Yuri's spread](yuris-spread)
 * [Yor's stew](yors-stew)
