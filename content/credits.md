@@ -29,28 +29,18 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Uniform hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
-**Stickers:** [Jarvis Gray](https://bsky.app/profile/roadbuster84.bsky.social)
+**Sticker:** [Jarvis Gray](https://bsky.app/profile/roadbuster84.bsky.social)
 
 **Business cards:** [Jukebox Print](https://www.jukeboxprint.com/) (thank you Anime Evolution for the clue-in!)
 
 **Matcha shortbread cookies:** [Aiyaohno Cafe](https://aiyaohno.com/)
-
-## 2025-2026 taste testing
-
-*Only listing people who have tried at least two dishes _and_ gave genuine feedback*
-
-**They've been doing so much testing for me that I lost track:** [Bev](https://aiyaohno.com/), [Keichoro](https://www.instagram.com/keichoro03), Devon, Angela, Keith, my wonderful family
-
-**At least five dishes:** [Jesse Betteridge](https://linktr.ee/jbetteridge "Jesse regularly advises me with creating and deploying panels.") of [Zannen, Canada](http://zannen.ca), Christine
-
-**At least two dishes:** [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/), and Jeff
 
 ## <3
 
 **Alumni:** 
 * Co-panelists: [Wesson Grey](https://www.twitch.tv/wessongrey),  [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/), [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/), [Plantastic Cosplay](https://plantastic.picobin.com/), and [Nyanko Pankotanko](https://nyanpan.carrd.co/) 
 * _Eat the Anime: Spy x Family_ advisory: Mira M
-
+* 2025-2026 taste testers: [Bev](https://aiyaohno.com/), [Keichoro](https://www.instagram.com/keichoro03), Devon, Angela, Keith, [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), Christine, [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/), and Jeff
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels), Tsukino-Con Programming, [Vancouver Anime Convention Society](https://animeevolution.com/), [SFU Anime](https://sfuani.me/), [NoS Anime](https://nosanime.tumblr.com/), [Canada-Philippines Solidarity for Human Rights](https://www.instagram.com/cps.vancouver/), [Anakbayan BC](https://www.instagram.com/anakbayanbc), and [nwPlus](https://nwplus.io/)
 
