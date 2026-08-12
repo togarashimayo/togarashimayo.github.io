@@ -29,9 +29,9 @@ I plan and produce many of the things you see in the panel room, but I do need h
 
 **Uniform hoodie embroidery:** [MAKE Vancouver](https://www.makevancouver.com/)
 
-**Sticker:** [Jarvis Gray](https://bsky.app/profile/roadbuster84.bsky.social)
+**Sticker printing:** [Jarvis Gray](https://bsky.app/profile/roadbuster84.bsky.social)
 
-**Business cards:** [Jukebox Print](https://www.jukeboxprint.com/) (thank you Anime Evolution for the clue-in!)
+**Business card printing:** [Jukebox Print](https://www.jukeboxprint.com/) (thank you Anime Evolution for the clue-in!)
 
 **Matcha shortbread cookies:** [Aiyaohno Cafe](https://aiyaohno.com/)
 
@@ -40,8 +40,8 @@ I plan and produce many of the things you see in the panel room, but I do need h
 **Alumni:** 
 * Co-panelists: [Wesson Grey](https://www.twitch.tv/wessongrey),  [Sharleen Dee Sy (HALO HALO Corp)](https://www.halohaloapp.com/), [Dr. Emily Hall (Webtoon Genius)](https://webtoongenius.com/), [Plantastic Cosplay](https://plantastic.picobin.com/), and [Nyanko Pankotanko](https://nyanpan.carrd.co/) 
 * _Eat the Anime: Spy x Family_ advisory: Mira M
-* 2025-2026 taste testers: [Bev](https://aiyaohno.com/), [Keichoro](https://www.instagram.com/keichoro03), Devon, Angela, Keith, [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), Christine, [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/), and Jeff
+* 2025-2026 taste testers: [Bev](https://aiyaohno.com/), [Keichoro](https://www.instagram.com/keichoro03), Devon, Angela, Keith, [Jesse Betteridge](https://linktr.ee/jbetteridge) of [Zannen, Canada](http://zannen.ca), Christine, [Dubois by Design](https://www.instagram.com/dubois.by.design/), [Lana Del Cosplay](https://linktr.ee/lanadelcosplay), [Sam Kalensky](https://samkalensky.com), Patricia, [Zerogouki](https://bsky.app/profile/zerogouki.bsky.social), [Leona G](https://greensandbeansdeli.com/), and [Jeff](https://www.instagram.com/jf.silang)
 
 **Organizations:** [Anime North Panels](https://twitter.com/an_panels), Tsukino-Con Programming, [Vancouver Anime Convention Society](https://animeevolution.com/), [SFU Anime](https://sfuani.me/), [NoS Anime](https://nosanime.tumblr.com/), [Canada-Philippines Solidarity for Human Rights](https://www.instagram.com/cps.vancouver/), [Anakbayan BC](https://www.instagram.com/anakbayanbc), and [nwPlus](https://nwplus.io/)
 
-**Individuals:** [Jay Agonoy](http://jayagonoy.com "Jay helped me with my Tagalog pronounciation between Sakura-Con 2023 and Anime North 2023."), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social "Dave has been a big help in promoting Anime in the Philippines during Anime North and Otakon 2023 and 2024, even mentioning the panel during Anime Hell for the former."), [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/ "Arnold obviously specializes in making buildings more accessible, but he did give me some pointers on how I can make my presentations more inclusive to my audience."), Noel, and Skippy
+**Individuals:** [Jay Agonoy](http://jayagonoy.com "Jay helped me with my Tagalog pronounciation between Sakura-Con 2023 and Anime North 2023."), [Dave Merrill](https://bsky.app/profile/terebifunhouse.bsky.social "Dave has been a big help in promoting Anime in the Philippines during Anime North and Otakon 2023 and 2024, even mentioning the panel during Anime Hell for the former."), [Arnold Cheng of Spectrum Ability](https://www.spectrumability.com/ "Arnold obviously specializes in making buildings more accessible, but he did give me some pointers on how I can make my presentations more inclusive to my audience."), [Essy](https://www.instagram.com/eesra.jpg/), Noel, and Skippy
