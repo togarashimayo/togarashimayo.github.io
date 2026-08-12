@@ -27,7 +27,6 @@ Kudos to:
 * *Spy x Family* (Volume 6-14) by Tatsuya Endo
 * *Komi Can't Communicate* (Volume 11) by Tomohito Oda
 * *Food Wars* (Volume 13) by Yuto Tsukuda
-* *Asadora!* (Volume 8-9) by Naoki Urasawa
 * *The Way of the Househusband* (Volume 4) by Kousuke Oono
 * *Daemons of the Shadow Realm* (Volume 3) by Hiromu Arakawa
 * *My Brain is Different* by Monzusu
@@ -64,10 +63,10 @@ None right now
 ## 2026
 
 ### Manga
+* *Asadora!* (Volume 1-9) by Naoki Urasawa
 * *Daemons of the Shadow Realm* (Volume 1-2) by Hiromu Arakawa
 * *Food Wars* (Volume 7-12) by Yuto Tsukuda
 * *Witch Hat Atelier* (Volume 1-4) by Kamome Shirahama
-* *Asadora!* (Volume 1-7) by Naoki Urasawa
 * *Spy x Family* (Volume 6-14) by Tatsuya Endo
 * *Komi Can't Communicate* (Volume 5-10) by Tomohito Oda
 * *Mujirushi: The Sign of Dreams* by Naoki Urasawa

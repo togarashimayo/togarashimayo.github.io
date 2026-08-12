@@ -15,7 +15,6 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Heidi* (original German version) by Johanna Spyri
 * *Bitte nicht öffnen: Bissig!* by Charlotte Habersack
 * *We Need to Talk About Kevin* by Lionel Shriver
-* *The Testaments* by Margaret Atwood
 
 ### Non-Fictional
 * *Philippine Society and Revolution* by Amado Guerrero
@@ -24,12 +23,13 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 
 ## Currently 
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
-* *No New Things* by Piper Ashlee
+* *The Testaments* by Margaret Atwood
 * *Without You, There is No Us: My Time With the Sons of North Korea's Elite* by Suki Kim
 
 ## Already read
 
 ### 2026
+* *No New Things* by Piper Ashlee
 * *How to Make Friends and Influence People* by Dale Carnegie
 * *Fluent Forever: How to Learn Any Language Fast and Never Forget It* by Gabriel Wyner
 * *My First Bilingual Book - Colors (English–Korean)* by Milet Publishing
