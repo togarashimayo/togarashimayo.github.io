@@ -8,7 +8,7 @@ weight: 50
 
 ## Within the con circuit
 
-My first experience working with panels was in 2016 while gofering at Anime Revolution (Anirevo). I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's year-round team in Spring 2018 and became panel coordinator in Fall 2018.
+My first experience working with panels was in 2016 while gofering at Anime Revolution (Anirevo). I checked in panelists in my assigned room, observed and evaluated their panels, and fixed technical issues. I joined the con's staff (year-round volunteer) team in Spring 2018 and became panel coordinator in Fall 2018.
 
 That experience served as a finishing school for my next move after leaving the staff following the Summer 2019 con: running my own panels!
 
@@ -19,10 +19,6 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 2. The veterans gain a new perspective on concepts they're familiar with.
 
 ### What are people saying about my work?
-
-*"[[Otaku's Guide to] Donghua. Little did the presenter know, I was doing market research!!](https://twitter.com/MichaelToole/status/1554256205903790080)"* - Mike Toole when prompted about some of the best Otakon 2022 fan panels he saw.
-
-*"[A newcomer panel, an Otaku's Guide to Donghua, was a pleasant surprise. While there were some technical difficulties [involving a missing script], the panelist was knowledgeable and entertaining.](https://old.reddit.com/r/Otakon/comments/wdp3vc/panel_feedback/iik5awf/)"* - an r/Otakon user when prompted about "exceptional or fun" panels at Otakon 2022.
 
 *"[Anime in The Philippines - This was a well-researched panel that taught me lots about the Philippines in general. I'm very interested in the ways that different shows and movie gain popularity differently in different places, and this panel was thorough and informative while having some nice moments of absurdity and humor](https://board.otakon.com/index.php?/topic/30272-panel-feedback-2023/&tab=comments#comment-321085)"* - an Otakon Board user when prompted about the very best panels he saw at Otakon 2023.
 
@@ -50,7 +46,7 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
 * Paring knife - Wüsthof Classic utility knife 4"
 * Bread knife - Victorinox 7" (wooden handle)
 
-(While I got the respective chef and paring knives as gifts, I agree with a good amount of r/KitchenConfidential users about how Victorinox is solid.)
+(While I got the respective chef and paring knives as gifts from my lovely partner, I agree with a good amount of r/KitchenConfidential users about how Victorinox is solid.)
 
 ## ...and out of it
 
@@ -62,6 +58,7 @@ While I don't know _everything_ about anime fan wants, I do also understand a wa
     * I don't mind having it in my food (such as sake in teriyaki salmon or red wine in some beef bourguignon).
     * I drink decaf coffee and infusions (with the occasional hojicha latte or craft soda)
 * I can speed read, and it's why I prefer reading manga (and to a greater extent, manhwa and webtoons) compared to watching anime.
+* While I won't reveal much about them, I'm happily in a relationship with someone who's currently outside of the convention circuit!
 
 ### Misc
 * Current residence: Metro Vancouver, British Columbia
