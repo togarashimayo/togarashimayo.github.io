@@ -22,14 +22,13 @@ Kudos to:
 ### Manga
 * *Frieren* (Volume 13) by Kanehito Yamada
 * *Billy Bat* (Volume 1) by Naoki Urasawa
-* *Komi Can't Communicate* (Volume 11) by Tomohito Oda
-* *Witch Hat Atelier* (Volume 5) by Kamome Shirahama
-* *Spy x Family* (Volume 6-14) by Tatsuya Endo
-* *Komi Can't Communicate* (Volume 11) by Tomohito Oda
+* *Komi Can't Communicate* (Volume 13) by Tomohito Oda
+* *Witch Hat Atelier* (Volume 6) by Kamome Shirahama
+* *Spy x Family* (Volume 16) by Tatsuya Endo
+* *Komi Can't Communicate* (Volume 13) by Tomohito Oda
 * *Food Wars* (Volume 13) by Yuto Tsukuda
 * *The Way of the Househusband* (Volume 4) by Kousuke Oono
-* *Daemons of the Shadow Realm* (Volume 3) by Hiromu Arakawa
-* *My Brain is Different* by Monzusu
+* *Daemons of the Shadow Realm* (Volume 4) by Hiromu Arakawa
 
 ### Manhwa
 * *Goong*
@@ -63,12 +62,13 @@ None right now
 ## 2026
 
 ### Manga
+* *Daemons of the Shadow Realm* (Volume 1-3) by Hiromu Arakawa
+* *My Brain is Different* by Monzusu
+* *Spy x Family* (Volume 6-15) by Tatsuya Endo
+* *Komi Can't Communicate* (Volume 5-12) by Tomohito Oda
+* *Witch Hat Atelier* (Volume 1-5) by Kamome Shirahama
 * *Asadora!* (Volume 1-9) by Naoki Urasawa
-* *Daemons of the Shadow Realm* (Volume 1-2) by Hiromu Arakawa
 * *Food Wars* (Volume 7-12) by Yuto Tsukuda
-* *Witch Hat Atelier* (Volume 1-4) by Kamome Shirahama
-* *Spy x Family* (Volume 6-14) by Tatsuya Endo
-* *Komi Can't Communicate* (Volume 5-10) by Tomohito Oda
 * *Mujirushi: The Sign of Dreams* by Naoki Urasawa
 * *The Way of the Househusband* (Volume 1-3) by Kousuke Oono
 * *Delicious in Dungeon* (Volume 8-14) by Ryoko Kui

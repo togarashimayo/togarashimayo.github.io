@@ -24,11 +24,13 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 ## Currently 
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
 * *The Testaments* by Margaret Atwood
-* *Without You, There is No Us: My Time With the Sons of North Korea's Elite* by Suki Kim
 
 ## Already read
 
 ### 2026
+* *Stiff: The Curious Lives of Human Cadavers* by Mary Roach
+* *Without You, There is No Us: My Time With the Sons of North Korea's Elite* by Suki Kim
+* *Start Here: A James Beard Award Winner: Instructions for Becoming a Better Cook: A Cookbook* by Sohla El-Waylly
 * *No New Things* by Piper Ashlee
 * *How to Make Friends and Influence People* by Dale Carnegie
 * *Fluent Forever: How to Learn Any Language Fast and Never Forget It* by Gabriel Wyner
