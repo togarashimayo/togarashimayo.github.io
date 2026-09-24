@@ -20,15 +20,12 @@ Kudos to:
 ## To read
 
 ### Manga
-* *Frieren* (Volume 13) by Kanehito Yamada
-* *Billy Bat* (Volume 1) by Naoki Urasawa
+* *Billy Bat* (Volume 2) by Naoki Urasawa
 * *Komi Can't Communicate* (Volume 13) by Tomohito Oda
-* *Witch Hat Atelier* (Volume 6) by Kamome Shirahama
 * *Spy x Family* (Volume 16) by Tatsuya Endo
 * *Komi Can't Communicate* (Volume 13) by Tomohito Oda
 * *Food Wars* (Volume 13) by Yuto Tsukuda
 * *The Way of the Househusband* (Volume 4) by Kousuke Oono
-* *Daemons of the Shadow Realm* (Volume 4) by Hiromu Arakawa
 
 ### Manhwa
 * *Goong*
@@ -44,7 +41,8 @@ Kudos to:
 ## Currently reading
 
 ### Manga
-None right now
+* *Witch Hat Atelier* (Volume 6) by Kamome Shirahama
+* *Frieren* (Volume 13) by Kanehito Yamada
 
 ### Manhwa
 None right now
@@ -62,7 +60,8 @@ None right now
 ## 2026
 
 ### Manga
-* *Daemons of the Shadow Realm* (Volume 1-3) by Hiromu Arakawa
+* *Billy Bat* (Volume 1) by Naoki Urasawa
+* *Daemons of the Shadow Realm* (Volume 1-4) by Hiromu Arakawa
 * *My Brain is Different* by Monzusu
 * *Spy x Family* (Volume 6-15) by Tatsuya Endo
 * *Komi Can't Communicate* (Volume 5-12) by Tomohito Oda

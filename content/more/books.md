@@ -22,12 +22,14 @@ A (mostly) up-to-date of books that I've read, are currently reading, or want to
 * *Persepolis* (original French version) by Marjane Satrapi
 
 ## Currently 
+* *Bake Club* by Christina Tosi
 * *Die Tribute von Panem: Der Tag bricht an* (*The Hunger Games: Sunrise on the Reaping*'s German translation) by Suzanne Collins
-* *The Testaments* by Margaret Atwood
 
 ## Already read
 
 ### 2026
+* *Wartime Kitchen: Food and Eating in Singapore 1942 – 1950* by Wong Hong Suen
+* *The Testaments* by Margaret Atwood
 * *Stiff: The Curious Lives of Human Cadavers* by Mary Roach
 * *Without You, There is No Us: My Time With the Sons of North Korea's Elite* by Suki Kim
 * *Start Here: A James Beard Award Winner: Instructions for Becoming a Better Cook: A Cookbook* by Sohla El-Waylly
